@@ -5,7 +5,7 @@
 	   
 	
 	<channel>
-        <name>[B][COLOR orange]TV DIGITAL 1 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <name>[B][COLOR blue]TV DIGITAL 1 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
         <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
         <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
 		<info></info>
@@ -13,15 +13,15 @@
     </channel>
 ------------------------------------------------------------------------------------------------
 <channel>
-        <name>[B][COLOR orange]TV DIGITAL 2 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <name>[B][COLOR blue]TV DIGITAL 2 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
         <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
         <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
 		<info></info>
-		<externallink>https://raw.githubusercontent.com/paulo-44/Base_7plus/main/Servers/TESTE.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/Base_7plus/main/Servers/LISTA-2.txt</externallink>
     </channel>	
 ------------------------------------------------------------------------------------------------	
 <channel>
-        <name>[B][COLOR orange]TV DIGITAL 3 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <name>[B][COLOR blue]TV DIGITAL 3 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
         <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
         <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
 		<info></info>
@@ -29,7 +29,7 @@
     </channel>	
 ------------------------------------------------------------------------------------------------	
 <channel>
-        <name>[B][COLOR orange]TV DIGITAL 3 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <name>[B][COLOR blue]TV DIGITAL 3 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
         <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
         <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
 		<info></info>
@@ -37,7 +37,7 @@
     </channel>	
 ------------------------------------------------------------------------------------------------	
 <channel>
-        <name>[B][COLOR orange]TV DIGITAL 4 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <name>[B][COLOR blue]TV DIGITAL 4 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
         <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
         <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
 		<info></info>
@@ -45,7 +45,7 @@
     </channel>	
 ------------------------------------------------------------------------------------------------	
 <channel>
-        <name>[B][COLOR orange]TV DIGITAL 5 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <name>[B][COLOR blue]TV DIGITAL 5 - F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
         <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
         <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
 		<info></info>
