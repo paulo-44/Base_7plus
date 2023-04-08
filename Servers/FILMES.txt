@@ -3,7 +3,11 @@
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336c4d2040dcc562a39f67f62c247022685c30d1
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/290290/posters/639a42c272a79.jpg" group-title="FILMES | 2023",65: Ameaça Pré-Histórica (2023) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/134845/posters/63d163c26f8ff.jpg" group-title="FILMES | 2023",Shazam! Fúria dos Deuses [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/134845/posters/63d163c26f8ff.jpg" group-title="FILMES | 2023",Shazam! Fúria dos Deuses (2023) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/157601/posters/63fbdb6ecac77.jpg" group-title="FILMES | 2023",Creed 3 [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/157601/posters/63fbdb6ecac77.jpg" group-title="FILMES | 2023",Creed 3  (2023) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:294b5c18f9d8e89ec223169cacce74bd18891555
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/147729/posters/61e8893e07b5b.jpg" group-title="FILMES | 2023",Esquema de Risco – Operação Fortune (2023) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg" group-title="FILMES | 2023",A Baleia (2023) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e80e251f128ad1dfc6d6ea23dfb35323b0c2837
