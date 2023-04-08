@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Child of Kamiari Month (2021)" tvg-logo="http://7go.xyz:8080/images/a4ed857c90ea00f2896c4ca1dc306395.jpg" group-title="FILMES | ANIMES",Child of Kamiari Month (2021)
-http://7go.xyz:8080/movie/UTW7WGW7HA/UHW7WHS7SU/277091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Child of Kamiari Month (2021)" tvg-logo="http://7go.xyz:8080/images/a4ed857c90ea00f2896c4ca1dc306395.jpg" group-title="FILMES | ANIMES",TORRENT (2021)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be526f3a7334a1dd8944e4c9754b7a27e34b14bd
 #EXTINF:-1 tvg-id="" tvg-name="Da Colina Kokuriko LEG (2011)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/a5zpMbq2dXWFVVLqu91lrjEF3fv.jpg" group-title="FILMES | ANIMES",Da Colina Kokuriko LEG (2011)
 http://7go.xyz:8080/movie/UTW7WGW7HA/UHW7WHS7SU/277092.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure: Last Evolution Kizuna LEG (2020)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/z3l5iwWQLxcInVnNkC8k8hxqZ60.jpg" group-title="FILMES | ANIMES",Digimon Adventure: Last Evolution Kizuna LEG (2020)
