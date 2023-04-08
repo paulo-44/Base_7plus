@@ -1,0 +1,910 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL SUPER" tvg-logo="https://i.imgur.com/JADXtwe.png" group-title="CANAIS | INFANTIL 24HRS",24H DRAGONBALL SUPER
+http://globalsrv.me:80/3361594327/5748234518/422948
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA SAYAJIN" tvg-logo="https://i.imgur.com/JADXtwe.png" group-title="CANAIS | INFANTIL 24HRS",24H DRAGONBALL Z SAGA SAYAJIN
+http://globalsrv.me:80/3361594327/5748234518/422949
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T04" tvg-logo="https://i.imgur.com/mHBidnX.jpg" group-title="CANAIS | INFANTIL 24HRS",24H PATRULHA CANINA T04
+http://globalsrv.me:80/3361594327/5748234518/540827
+#EXTINF:-1 tvg-id="" tvg-name="24H Patrulha Canina T06" tvg-logo="https://i.imgur.com/mHBidnX.jpg" group-title="CANAIS | INFANTIL 24HRS",24H Patrulha Canina T06
+http://globalsrv.me:80/3361594327/5748234518/545570
+#EXTINF:-1 tvg-id="" tvg-name="A Vida moderna de Rocko" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",A Vida moderna de Rocko
+http://globalsrv.me:80/3361594327/5748234518/520023
+#EXTINF:-1 tvg-id="" tvg-name="As  Pistas de Blue" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",As  Pistas de Blue
+http://globalsrv.me:80/3361594327/5748234518/520021
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",As Aventuras de Jackie Chan
+http://globalsrv.me:80/3361594327/5748234518/520003
+#EXTINF:-1 tvg-id="" tvg-name="Babyfirst" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Babyfirst
+http://globalsrv.me:80/3361594327/5748234518/520030
+#EXTINF:-1 tvg-id="" tvg-name="BET Being Mary Jane" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",BET Being Mary Jane
+http://globalsrv.me:80/3361594327/5748234518/520001
+#EXTINF:-1 tvg-id="" tvg-name="BET Pluto TV" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",BET Pluto TV
+http://globalsrv.me:80/3361594327/5748234518/520014
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES  24HS" tvg-logo="https://i.imgur.com/6qZQVXs.jpg" group-title="CANAIS | INFANTIL 24HRS",CHAVES  24HS
+http://globalsrv.me:80/3361594327/5748234518/434649
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central South Park" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Comedy Central South Park
+http://globalsrv.me:80/3361594327/5748234518/520002
+#EXTINF:-1 tvg-id="" tvg-name="ELEFANTES ZOO SAN DIEGO" tvg-logo="https://i.imgur.com/rnuCpyz.png" group-title="CANAIS | CÂMERAS 24HRS",ELEFANTES ZOO SAN DIEGO
+http://globalsrv.me:80/3361594327/5748234518/554212
+#EXTINF:-1 tvg-id="" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",FailArmy
+http://globalsrv.me:80/3361594327/5748234518/520029
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Suspense" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Filmes Suspense
+http://globalsrv.me:80/3361594327/5748234518/520036
+#EXTINF:-1 tvg-id="" tvg-name="Barra da Tijuca" tvg-logo="https://i.imgur.com/rnuCpyz.png" group-title="CANAIS | CÂMERAS 24HRS",Barra da Tijuca
+http://globalsrv.me:80/3361594327/5748234518/554214
+#EXTINF:-1 tvg-id="" tvg-name="Jeannie um Gio" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Jeannie um Gio
+http://globalsrv.me:80/3361594327/5748234518/520004
+#EXTINF:-1 tvg-id="" tvg-name="LEONARDO" tvg-logo="https://i.imgur.com/nbDBYdG.jpg" group-title="CANAIS | SHOW",LEONARDO
+http://globalsrv.me:80/3361594327/5748234518/570679
+#EXTINF:-1 tvg-id="" tvg-name="MARILIA MENDONÇA" tvg-logo="https://i.imgur.com/3gqn5ZT.jpg" group-title="CANAIS | SHOW",MARILIA MENDONÇA
+http://globalsrv.me:80/3361594327/5748234518/409023
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",MasterChef
+http://globalsrv.me:80/3361594327/5748234518/520006
+#EXTINF:-1 tvg-id="" tvg-name="MTV Are you the One?" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",MTV Are you the One?
+http://globalsrv.me:80/3361594327/5748234518/520025
+#EXTINF:-1 tvg-id="" tvg-name="MTV Pluto TV" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",MTV Pluto TV
+http://globalsrv.me:80/3361594327/5748234518/520044
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Naruto
+http://globalsrv.me:80/3361594327/5748234518/520024
+#EXTINF:-1 tvg-id="" tvg-name="Naruto 24HS" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="CANAIS | INFANTIL 24HRS",Naruto 24HS
+http://globalsrv.me:80/3361594327/5748234518/434677
+#EXTINF:-1 tvg-id="" tvg-name="Nick Clsico" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Nick Clsico
+http://globalsrv.me:80/3361594327/5748234518/520038
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Nick Jr. Club
+http://globalsrv.me:80/3361594327/5748234518/520040
+#EXTINF:-1 tvg-id="" tvg-name="Nick Teen" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Nick Teen
+http://globalsrv.me:80/3361594327/5748234518/520000
+#EXTINF:-1 tvg-id="" tvg-name="Nosey Escdalos" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Nosey Escdalos
+http://globalsrv.me:80/3361594327/5748234518/520020
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Infantil" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",O Reino Infantil
+http://globalsrv.me:80/3361594327/5748234518/520026
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Apresenta" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Paramount+ Apresenta
+http://globalsrv.me:80/3361594327/5748234518/520011
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",People are Awesome
+http://globalsrv.me:80/3361594327/5748234518/520028
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="https://i.imgur.com/Wx24CF0.png" group-title="CANAIS | INFANTIL 24HRS",PEPPA PIG
+http://globalsrv.me:80/3361594327/5748234518/434638
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24HRS" tvg-logo="https://i.imgur.com/Wx24CF0.png" group-title="CANAIS | INFANTIL 24HRS",PEPPA PIG 24HRS
+http://globalsrv.me:80/3361594327/5748234518/421855
+#EXTINF:-1 tvg-id="" tvg-name="PINGUINS ZOO SAN DIEGO" tvg-logo="https://i.imgur.com/rnuCpyz.png" group-title="CANAIS | CÂMERAS 24HRS",PINGUINS ZOO SAN DIEGO
+http://globalsrv.me:80/3361594327/5748234518/554213
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Guia de Canais" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto Guia de Canais
+http://globalsrv.me:80/3361594327/5748234518/520017
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - JEANNIE E UM GENIO" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV - JEANNIE E UM GENIO
+http://globalsrv.me:80/3361594327/5748234518/520005
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Anime
+http://globalsrv.me:80/3361594327/5748234518/520043
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE CLASSICOS" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV CINE CLASSICOS
+http://globalsrv.me:80/3361594327/5748234518/520019
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clsicos" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Cine Clsicos
+http://globalsrv.me:80/3361594327/5748234518/520018
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE COMEDIA" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV CINE COMEDIA
+http://globalsrv.me:80/3361594327/5748234518/520053
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comia" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Cine Comia
+http://globalsrv.me:80/3361594327/5748234518/520052
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Cine Drama
+http://globalsrv.me:80/3361594327/5748234518/520051
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Famia" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Cine Famia
+http://globalsrv.me:80/3361594327/5748234518/520034
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE FAMILIA" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV CINE FAMILIA
+http://globalsrv.me:80/3361594327/5748234518/520035
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Cine Romance
+http://globalsrv.me:80/3361594327/5748234518/520032
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE ROMANCE" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV CINE ROMANCE
+http://globalsrv.me:80/3361594327/5748234518/520033
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Cine Sucessos
+http://globalsrv.me:80/3361594327/5748234518/520055
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE SUCESSOS" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV CINE SUCESSOS
+http://globalsrv.me:80/3361594327/5748234518/520056
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE SUSPENSE" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV CINE SUSPENSE
+http://globalsrv.me:80/3361594327/5748234518/520037
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Cine Terror
+http://globalsrv.me:80/3361594327/5748234518/520049
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE TERROR" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV CINE TERROR
+http://globalsrv.me:80/3361594327/5748234518/520050
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV COMEDIA" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV COMEDIA
+http://globalsrv.me:80/3361594327/5748234518/520013
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV FILMES AO" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV FILMES AO
+http://globalsrv.me:80/3361594327/5748234518/520054
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV FILMES NACIONAIS" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV FILMES NACIONAIS
+http://globalsrv.me:80/3361594327/5748234518/520027
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV INVESTIGACAO" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV INVESTIGACAO
+http://globalsrv.me:80/3361594327/5748234518/520031
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Junior
+http://globalsrv.me:80/3361594327/5748234518/520041
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Karaokpor Stingray" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Karaokpor Stingray
+http://globalsrv.me:80/3361594327/5748234518/520007
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Kids
+http://globalsrv.me:80/3361594327/5748234518/520039
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV MISTERIOS" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV MISTERIOS
+http://globalsrv.me:80/3361594327/5748234518/520015
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mistios" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Mistios
+http://globalsrv.me:80/3361594327/5748234518/520016
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Paisagens por Stingray" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Paisagens por Stingray
+http://globalsrv.me:80/3361594327/5748234518/520009
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retr" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Retr
+http://globalsrv.me:80/3361594327/5748234518/520046
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV RETRO" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV RETRO
+http://globalsrv.me:80/3361594327/5748234518/520045
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV SERIES" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",PLUTO TV SERIES
+http://globalsrv.me:80/3361594327/5748234518/520048
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Shows por Stingray" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Shows por Stingray
+http://globalsrv.me:80/3361594327/5748234518/520008
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sies" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Pluto TV Sies
+http://globalsrv.me:80/3361594327/5748234518/520047
+#EXTINF:-1 tvg-id="" tvg-name="ROBERTO CARLOS" tvg-logo="https://i.imgur.com/ywnxmLd.jpg" group-title="CANAIS | SHOW",ROBERTO CARLOS
+http://globalsrv.me:80/3361594327/5748234518/570677
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="https://i.imgur.com/kXAP41F.jpg" group-title="CANAIS | INFANTIL 24HRS",Scooby-Doo 24HS
+http://globalsrv.me:80/3361594327/5748234518/434694
+#EXTINF:-1 tvg-id="" tvg-name="SÉRGIO REIS" tvg-logo="https://i.imgur.com/DTdwU6R.jpg" group-title="CANAIS | SHOW",SÉRGIO REIS
+http://globalsrv.me:80/3361594327/5748234518/570678
+#EXTINF:-1 tvg-id="" tvg-name="TIGRES ZOO SAN DIEGO" tvg-logo="https://i.imgur.com/rnuCpyz.png" group-title="CANAIS | CÂMERAS 24HRS",TIGRES ZOO SAN DIEGO
+http://globalsrv.me:80/3361594327/5748234518/554211
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",Turma da Monica
+http://globalsrv.me:80/3361594327/5748234518/520022
+#EXTINF:-1 tvg-id="" tvg-name="TV PLUTO PARAMOUNT +" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="CANAIS | PLUTO TV",TV PLUTO PARAMOUNT +
+http://globalsrv.me:80/3361594327/5748234518/520012
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24HS" tvg-logo="https://i.imgur.com/RxLYccZ.jpg" group-title="CANAIS | INFANTIL 24HRS",Uma Família da Pesada 24HS
+http://globalsrv.me:80/3361594327/5748234518/566902
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 04" tvg-logo="https://i.imgur.com/kDD9yQP.jpg" group-title="CANAIS | INFANTIL 24HRS",Dragon Ball Z 04
+http://globalsrv.me:80/3361594327/5748234518/370730
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="https://i.imgur.com/2qK9kIQ.jpg" group-title="CANAIS | INFANTIL 24HRS",[24H] GALINHA PINTADINHA
+http://globalsrv.me:80/3361594327/5748234518/370733
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/1MQzafv.jpg" group-title="CANAIS | INFANTIL 24HRS",[24H] Masha e o Urso
+http://globalsrv.me:80/3361594327/5748234518/434616
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY E DONALD" tvg-logo="https://i.imgur.com/pUhrLQt.jpg" group-title="CANAIS | INFANTIL 24HRS",[24H] MICKEY E DONALD
+http://globalsrv.me:80/3361594327/5748234518/370679
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzuisFp2YJsi8gxdmJTuBOyl3mRI-D7bOzw&usqp=CAU" group-title="CANAIS | INFANTIL 24HRS",OS SIMPSONS 24
+http://globalsrv.me:80/3361594327/5748234518/593005
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig [24h]" tvg-logo="https://i.imgur.com/jIISTCS.jpg" group-title="CANAIS | INFANTIL 24HRS",Peppa Pig [24h]
+http://globalsrv.me:80/3361594327/5748234518/593034
+#EXTINF:-1 tvg-id="" tvg-name="TRÊS ESPIÃS DEMAIS 24H" tvg-logo="https://i.imgur.com/5D6yCOG.jpg" group-title="CANAIS | INFANTIL 24HRS",TRÊS ESPIÃS DEMAIS 24H
+http://globalsrv.me:80/3361594327/5748234518/593094
+#EXTINF:-1 tvg-id="" tvg-name="3 Horas das Mais Tocadas Sertanejo" tvg-logo="https://i.imgur.com/2zdhQpW.jpg" group-title="CANAIS | SHOW",3 Horas das Mais Tocadas Sertanejo
+http://globalsrv.me:80/3361594327/5748234518/595346
+#EXTINF:-1 tvg-id="" tvg-name="3 horas de Alok" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcQRf0P7m0QuTnUeLUnE2897Sx1hamk59DA&usqp=CAU" group-title="CANAIS | SHOW",3 horas de Alok
+http://globalsrv.me:80/3361594327/5748234518/595347
+#EXTINF:-1 tvg-id="" tvg-name="4 Horas de Gospel" tvg-logo="https://i.imgur.com/t9HR80r.png" group-title="CANAIS | SHOW",4 Horas de Gospel
+http://globalsrv.me:80/3361594327/5748234518/595348
+#EXTINF:-1 tvg-id="" tvg-name="Aerosmith" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYyiPCTtIAeJZYe3c9ePA0egM1KAdKrFLfQ&usqp=CAU" group-title="CANAIS | SHOW",Aerosmith
+http://globalsrv.me:80/3361594327/5748234518/595349
+#EXTINF:-1 tvg-id="" tvg-name="BELO" tvg-logo="https://i.imgur.com/digEfum.jpg" group-title="CANAIS | SHOW",BELO
+http://globalsrv.me:80/3361594327/5748234518/595351
+#EXTINF:-1 tvg-id="" tvg-name="BRUNO E MARRONE" tvg-logo="https://i.imgur.com/9AkmU7o.jpg" group-title="CANAIS | SHOW",BRUNO E MARRONE
+http://globalsrv.me:80/3361594327/5748234518/595352
+#EXTINF:-1 tvg-id="" tvg-name="Banda Forrozão das Antigas" tvg-logo="https://i.imgur.com/kPtyuvY.jpg" group-title="CANAIS | SHOW",Banda Forrozão das Antigas
+http://globalsrv.me:80/3361594327/5748234518/595354
+#EXTINF:-1 tvg-id="" tvg-name="Barões da Pisadinha" tvg-logo="https://i.imgur.com/pT23e8K.jpg" group-title="CANAIS | SHOW",Barões da Pisadinha
+http://globalsrv.me:80/3361594327/5748234518/595355
+#EXTINF:-1 tvg-id="" tvg-name="CABARÉ" tvg-logo="https://i.imgur.com/CBXZIAj.jpg" group-title="CANAIS | SHOW",CABARÉ
+http://globalsrv.me:80/3361594327/5748234518/595357
+#EXTINF:-1 tvg-id="" tvg-name="Cabaré - Eduardo Costa e Leonardo" tvg-logo="https://i.imgur.com/kSciVnJ.jpg" group-title="CANAIS | SHOW",Cabaré - Eduardo Costa e Leonardo
+http://globalsrv.me:80/3361594327/5748234518/595358
+#EXTINF:-1 tvg-id="" tvg-name="David Guetta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAcVDGjAo3ATr0cir0N4GQbargQ0FXLPmRg&usqp=CAU" group-title="CANAIS | SHOW",David Guetta
+http://globalsrv.me:80/3361594327/5748234518/595359
+#EXTINF:-1 tvg-id="" tvg-name="FABIO JR" tvg-logo="https://i.imgur.com/jlwvxhn.jpg" group-title="CANAIS | SHOW",FABIO JR
+http://globalsrv.me:80/3361594327/5748234518/595360
+#EXTINF:-1 tvg-id="" tvg-name="FELIPE ARAUJO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQ7W23Zyh0lgQinYP5EL2YWKH9QThoNDrwg&usqp=CAU" group-title="CANAIS | SHOW",FELIPE ARAUJO
+http://globalsrv.me:80/3361594327/5748234518/595361
+#EXTINF:-1 tvg-id="" tvg-name="Festival Sertanejo 2021" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoXOG9kWtFxxgTa4g6BeTK2OuV4Ia4tIscUZnLhXT4QAmmFXn68FzxQUInbK_tUhvUko&usqp=CAU" group-title="CANAIS | SHOW",Festival Sertanejo 2021
+http://globalsrv.me:80/3361594327/5748234518/595365
+#EXTINF:-1 tvg-id="" tvg-name="GUSTAVO LIMA" tvg-logo="https://i.imgur.com/EdVsyJH.jpg" group-title="CANAIS | SHOW",GUSTAVO LIMA
+http://globalsrv.me:80/3361594327/5748234518/595367
+#EXTINF:-1 tvg-id="" tvg-name="IVETE SANGALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgEGGlDhWSYmMG_XAsNr_pHiKsoSVZi6YRQ&usqp=CAU" group-title="CANAIS | SHOW",IVETE SANGALO
+http://globalsrv.me:80/3361594327/5748234518/595371
+#EXTINF:-1 tvg-id="" tvg-name="J.QUEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgBJjC6tA_BJLJr4rh_35jRV2y2tCTkJ93lw&usqp=CAU" group-title="CANAIS | SHOW",J.QUEST
+http://globalsrv.me:80/3361594327/5748234518/595372
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus" tvg-logo="https://i.imgur.com/OYRaehT.jpg" group-title="CANAIS | SHOW",Jorge e Mateus
+http://globalsrv.me:80/3361594327/5748234518/595374
+#EXTINF:-1 tvg-id="" tvg-name="João Neto e Frederico" tvg-logo="https://i.imgur.com/Jcogyfc.jpg" group-title="CANAIS | SHOW",João Neto e Frederico
+http://globalsrv.me:80/3361594327/5748234518/595375
+#EXTINF:-1 tvg-id="" tvg-name="LEONARDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsqk0ztJ_f9NV1jmrgzFQwp7G7NXkfBDdwA&usqp=CAU" group-title="CANAIS | SHOW",LEONARDO
+http://globalsrv.me:80/3361594327/5748234518/595376
+#EXTINF:-1 tvg-id="" tvg-name="MARILIA MENDONÇA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZvCTuGH1L3RoTzfdDiTEbX-aa88v4kXK7A&usqp=CAU" group-title="CANAIS | SHOW",MARILIA MENDONÇA
+http://globalsrv.me:80/3361594327/5748234518/595381
+#EXTINF:-1 tvg-id="" tvg-name="Marina Valadão" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqeAPZ_LwUWRAEJxPbovoswhrJE6jgduuDcg&usqp=CAU" group-title="CANAIS | SHOW",Marina Valadão
+http://globalsrv.me:80/3361594327/5748234518/595384
+#EXTINF:-1 tvg-id="" tvg-name="Mayck e Lyan - Modão e Viola" tvg-logo="https://i.imgur.com/6TlIwGp.jpg" group-title="CANAIS | SHOW",Mayck e Lyan - Modão e Viola
+http://globalsrv.me:80/3361594327/5748234518/595385
+#EXTINF:-1 tvg-id="" tvg-name="Metálica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSVGOn6ICog_dMDW7kkkTdtfXjBwZ5UOeCw&usqp=CAU" group-title="CANAIS | SHOW",Metálica
+http://globalsrv.me:80/3361594327/5748234518/595386
+#EXTINF:-1 tvg-id="" tvg-name="Pitty" tvg-logo="https://i.imgur.com/lEhJqqc.jpg" group-title="CANAIS | SHOW",Pitty
+http://globalsrv.me:80/3361594327/5748234518/595395
+#EXTINF:-1 tvg-id="" tvg-name="RAÇA NEGRA" tvg-logo="https://i.imgur.com/7kApgLZ.jpg" group-title="CANAIS | SHOW",RAÇA NEGRA
+http://globalsrv.me:80/3361594327/5748234518/595397
+#EXTINF:-1 tvg-id="" tvg-name="Rose Nascimento" tvg-logo="https://i.imgur.com/XgPS1fI.jpg" group-title="CANAIS | SHOW",Rose Nascimento
+http://globalsrv.me:80/3361594327/5748234518/595401
+#EXTINF:-1 tvg-id="" tvg-name="SKANK" tvg-logo="https://i.imgur.com/DWewKto.jpg" group-title="CANAIS | SHOW",SKANK
+http://globalsrv.me:80/3361594327/5748234518/595404
+#EXTINF:-1 tvg-id="" tvg-name="SÉRGIO REIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxxVdC4-TzYC4QKDFKWsuOGwWRld84c2SeGA&usqp=CAU" group-title="CANAIS | SHOW",SÉRGIO REIS
+http://globalsrv.me:80/3361594327/5748234518/595407
+#EXTINF:-1 tvg-id="" tvg-name="Thalles Roberto" tvg-logo="https://i.imgur.com/49Pqlwe.jpg" group-title="CANAIS | SHOW",Thalles Roberto
+http://globalsrv.me:80/3361594327/5748234518/595409
+#EXTINF:-1 tvg-id="" tvg-name="Wesley Safadão" tvg-logo="https://i.imgur.com/44RRQfG.jpg" group-title="CANAIS | SHOW",Wesley Safadão
+http://globalsrv.me:80/3361594327/5748234518/595411
+#EXTINF:-1 tvg-id="" tvg-name="ZÉ NETO E CRISTIANO" tvg-logo="https://i.imgur.com/GqLg4ZG.jpg" group-title="CANAIS | SHOW",ZÉ NETO E CRISTIANO
+http://globalsrv.me:80/3361594327/5748234518/595413
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="https://i.imgur.com/nPcJ7ID.png" group-title="CANAIS | INFANTIL 24HRS",CHAVES DESENHO
+http://globalsrv.me:80/3361594327/5748234518/956441
+#EXTINF:-1 tvg-id="" tvg-name="SILVIO SANTOS 1" tvg-logo="https://presleyson.com.br/wp-content/uploads/2020/07/silvio_santos_-800x800-min.png" group-title="CANAIS | PEGADINHAS 24HRS",SILVIO SANTOS 1
+http://globalsrv.me:80/3361594327/5748234518/956452
+#EXTINF:-1 tvg-id="" tvg-name="101 DALMATAS" tvg-logo="https://i.imgur.com/jFZNxmo.png" group-title="CANAIS | INFANTIL 24HRS",101 DALMATAS
+http://globalsrv.me:80/3361594327/5748234518/956461
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://i.imgur.com/ckNCioV.png" group-title="CANAIS | INFANTIL 24HRS",3 PALAVRINHAS
+http://globalsrv.me:80/3361594327/5748234518/956462
+#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA ADDAMS" tvg-logo="https://i.imgur.com/De5zDHA.png" group-title="CANAIS | INFANTIL 24HRS",A FAMILIA ADDAMS
+http://globalsrv.me:80/3361594327/5748234518/956463
+#EXTINF:-1 tvg-id="" tvg-name="A NOSSA TURMA" tvg-logo="https://i.imgur.com/Hgeov07.png" group-title="CANAIS | INFANTIL 24HRS",A NOSSA TURMA
+http://globalsrv.me:80/3361594327/5748234518/956464
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="https://i.imgur.com/H2x4uJn.png" group-title="CANAIS | INFANTIL 24HRS",A PEQUENA SEREIA
+http://globalsrv.me:80/3361594327/5748234518/956465
+#EXTINF:-1 tvg-id="" tvg-name="A VIDA MODERNA DE ROCKO" tvg-logo="https://i.imgur.com/lxlYKhd.png" group-title="CANAIS | INFANTIL 24HRS",A VIDA MODERNA DE ROCKO
+http://globalsrv.me:80/3361594327/5748234518/956466
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="https://m.maccosmetics.com.br/media/export/cms/collections/aladdin_enhanced/aladdin_enhanced_m_logo.png" group-title="CANAIS | INFANTIL 24HRS",ALADDIN
+http://globalsrv.me:80/3361594327/5748234518/956467
+#EXTINF:-1 tvg-id="" tvg-name="ALINE BARROS" tvg-logo="https://i.imgur.com/mslq1Mm.png" group-title="CANAIS | SHOW",ALINE BARROS
+http://globalsrv.me:80/3361594327/5748234518/956468
+#EXTINF:-1 tvg-id="" tvg-name="ALOK" tvg-logo="https://i.imgur.com/MT3SQoc.png" group-title="CANAIS | SHOW",ALOK
+http://globalsrv.me:80/3361594327/5748234518/956469
+#EXTINF:-1 tvg-id="" tvg-name="ANDERSON FREIRE" tvg-logo="https://i.imgur.com/9Fu9eD6.png" group-title="CANAIS | SHOW",ANDERSON FREIRE
+http://globalsrv.me:80/3361594327/5748234518/956470
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="https://i.imgur.com/cbDvUMe.png" group-title="CANAIS | INFANTIL 24HRS",ANIMANIACS
+http://globalsrv.me:80/3361594327/5748234518/956471
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACK CHAN" tvg-logo="https://i.imgur.com/uUUVxGG.png" group-title="CANAIS | INFANTIL 24HRS",AS AVENTURAS DE JACK CHAN
+http://globalsrv.me:80/3361594327/5748234518/956472
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIN" tvg-logo="https://i.imgur.com/E6h1KkK.png" group-title="CANAIS | INFANTIL 24HRS",AS AVENTURAS DE TINTIN
+http://globalsrv.me:80/3361594327/5748234518/956473
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS" tvg-logo="https://i.imgur.com/ul4kg5z.png" group-title="CANAIS | INFANTIL 24HRS",AS MENINAS SUPERPODEROSAS
+http://globalsrv.me:80/3361594327/5748234518/956474
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR: A LENDA DE KORRA" tvg-logo="https://i.imgur.com/EBuGk3I.png" group-title="CANAIS | INFANTIL 24HRS",AVATAR: A LENDA DE KORRA
+http://globalsrv.me:80/3361594327/5748234518/956475
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="https://uploaddeimagens.com.br/images/003/462/156/thumb/baby_looney.png" group-title="CANAIS | INFANTIL 24HRS",BABY LOONEY TUNES
+http://globalsrv.me:80/3361594327/5748234518/956476
+#EXTINF:-1 tvg-id="" tvg-name="BACKYARDIGANS" tvg-logo="https://i.imgur.com/yXdjQhG.png" group-title="CANAIS | INFANTIL 24HRS",BACKYARDIGANS
+http://globalsrv.me:80/3361594327/5748234518/956477
+#EXTINF:-1 tvg-id="" tvg-name="BAKUGAN" tvg-logo="https://i.imgur.com/Pb6oB5S.png" group-title="CANAIS | INFANTIL 24HRS",BAKUGAN
+http://globalsrv.me:80/3361594327/5748234518/956478
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN" tvg-logo="https://uploaddeimagens.com.br/images/003/535/720/thumb/batman.png" group-title="CANAIS | INFANTIL 24HRS",BATMAN
+http://globalsrv.me:80/3361594327/5748234518/956479
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="https://i.imgur.com/EUfSBGx.png" group-title="CANAIS | INFANTIL 24HRS",BEN 10
+http://globalsrv.me:80/3361594327/5748234518/956480
+#EXTINF:-1 tvg-id="" tvg-name="BEYBLADE" tvg-logo="https://i.imgur.com/c2YTm57.png" group-title="CANAIS | INFANTIL 24HRS",BEYBLADE
+http://globalsrv.me:80/3361594327/5748234518/956481
+#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI BOB FILHO" tvg-logo="https://uploaddeimagens.com.br/images/003/535/728/thumb/bibopaibobfilho.png" group-title="CANAIS | INFANTIL 24HRS",BIBO PAI BOB FILHO
+http://globalsrv.me:80/3361594327/5748234518/956482
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://www.foroni.com.br/storage/products/md/bob-esponja_logo-2021-bobesponja.png" group-title="CANAIS | INFANTIL 24HRS",BOB ESPONJA
+http://globalsrv.me:80/3361594327/5748234518/956483
+#EXTINF:-1 tvg-id="" tvg-name="BOB ZOOM" tvg-logo="https://www.pngkit.com/png/detail/877-8777593_bob-zoom-logo-bob-zoom-png.png" group-title="CANAIS | INFANTIL 24HRS",BOB ZOOM
+http://globalsrv.me:80/3361594327/5748234518/956484
+#EXTINF:-1 tvg-id="" tvg-name="BRICKLEBERRY" tvg-logo="https://i.imgur.com/bDlCEl2.png" group-title="CANAIS | INFANTIL 24HRS",BRICKLEBERRY
+http://globalsrv.me:80/3361594327/5748234518/956485
+#EXTINF:-1 tvg-id="" tvg-name="BRUNA KARLA" tvg-logo="https://i.imgur.com/g0DKaD9.png" group-title="CANAIS | SHOW",BRUNA KARLA
+http://globalsrv.me:80/3361594327/5748234518/956486
+#EXTINF:-1 tvg-id="" tvg-name="BUZZ LIGHTYEARS" tvg-logo="https://i.imgur.com/zI1k5k7.png" group-title="CANAIS | INFANTIL 24HRS",BUZZ LIGHTYEARS
+http://globalsrv.me:80/3361594327/5748234518/956487
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAO CAVERNA" tvg-logo="https://uploaddeimagens.com.br/images/003/461/977/thumb/Capit%C3%A3o-Caverna-Vetorizado-03.png" group-title="CANAIS | INFANTIL 24HRS",CAPITAO CAVERNA
+http://globalsrv.me:80/3361594327/5748234518/956488
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAO PLANETA" tvg-logo="https://i.imgur.com/d7AkOx2.png" group-title="CANAIS | INFANTIL 24HRS",CAPITAO PLANETA
+http://globalsrv.me:80/3361594327/5748234518/956489
+#EXTINF:-1 tvg-id="" tvg-name="CARANGOS E MOTOCAS" tvg-logo="https://i.imgur.com/9oEqXbc.png" group-title="CANAIS | INFANTIL 24HRS",CARANGOS E MOTOCAS
+http://globalsrv.me:80/3361594327/5748234518/956490
+#EXTINF:-1 tvg-id="" tvg-name="CARMEN SANDIEGO" tvg-logo="https://i.imgur.com/yAjTv1u.png" group-title="CANAIS | INFANTIL 24HRS",CARMEN SANDIEGO
+http://globalsrv.me:80/3361594327/5748234518/956491
+#EXTINF:-1 tvg-id="" tvg-name="CASSIANE" tvg-logo="https://i.imgur.com/BA9VuYM.png" group-title="CANAIS | SHOW",CASSIANE
+http://globalsrv.me:80/3361594327/5748234518/956492
+#EXTINF:-1 tvg-id="" tvg-name="CASTELO RA-TIM-BUM" tvg-logo="https://i.imgur.com/ACLeRA0.png" group-title="CANAIS | INFANTIL 24HRS",CASTELO RA-TIM-BUM
+http://globalsrv.me:80/3361594327/5748234518/956493
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="https://i.imgur.com/p4wdFdT.png" group-title="CANAIS | INFANTIL 24HRS",CAVALO DE FOGO
+http://globalsrv.me:80/3361594327/5748234518/956494
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="https://uploaddeimagens.com.br/images/003/535/743/thumb/Caverna_do_Drag%C3%A3o_Logo.png" group-title="CANAIS | INFANTIL 24HRS",CAVERNA DO DRAGÃO
+http://globalsrv.me:80/3361594327/5748234518/956495
+#EXTINF:-1 tvg-id="" tvg-name="CHITÃOZINHO & XORORÓ" tvg-logo="https://ledcia.com.br/wp-content/uploads/2017/12/Chit%C3%A3ozinho-e-Xoror%C3%B3.png" group-title="CANAIS | SHOW",CHITÃOZINHO & XORORÓ
+http://globalsrv.me:80/3361594327/5748234518/956496
+#EXTINF:-1 tvg-id="" tvg-name="CHRISTIAN & RALF" tvg-logo="https://2.bp.blogspot.com/-ZDP0CW2Irvc/TesXy6lrZvI/AAAAAAAAM8s/2UGernxJ43E/s400/Chrystian_e_Ralf.png" group-title="CANAIS | SHOW",CHRISTIAN & RALF
+http://globalsrv.me:80/3361594327/5748234518/956497
+#EXTINF:-1 tvg-id="" tvg-name="COELHO RICOCHETE E BLAUBLAU" tvg-logo="https://i.imgur.com/uB6vIZK.png" group-title="CANAIS | INFANTIL 24HRS",COELHO RICOCHETE E BLAUBLAU
+http://globalsrv.me:80/3361594327/5748234518/956498
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM O CÃO COVARDE" tvg-logo="https://i.imgur.com/ovlNTwH.png" group-title="CANAIS | INFANTIL 24HRS",CORAGEM O CÃO COVARDE
+http://globalsrv.me:80/3361594327/5748234518/956499
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA" tvg-logo="https://i.imgur.com/nu2A0sP.png" group-title="CANAIS | INFANTIL 24HRS",CORRIDA MALUCA
+http://globalsrv.me:80/3361594327/5748234518/956500
+#EXTINF:-1 tvg-id="" tvg-name="DANNY PHANTOM" tvg-logo="https://i.imgur.com/Phw0Iwn.png" group-title="CANAIS | INFANTIL 24HRS",DANNY PHANTOM
+http://globalsrv.me:80/3361594327/5748234518/956501
+#EXTINF:-1 tvg-id="" tvg-name="DENIS O PIMENTINHA" tvg-logo="https://gartic.com.br/imgs/mural/go/gotyca/dennis-o-pimentinha-2.png" group-title="CANAIS | INFANTIL 24HRS",DENIS O PIMENTINHA
+http://globalsrv.me:80/3361594327/5748234518/956502
+#EXTINF:-1 tvg-id="" tvg-name="DETONA RALF" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/wir2_las_4c_kbkg_03f_72606a46.png" group-title="CANAIS | INFANTIL 24HRS",DETONA RALF
+http://globalsrv.me:80/3361594327/5748234518/956503
+#EXTINF:-1 tvg-id="" tvg-name="DORA A AVENTUREIRA" tvg-logo="https://i.imgur.com/fgdzQ3O.png" group-title="CANAIS | INFANTIL 24HRS",DORA A AVENTUREIRA
+http://globalsrv.me:80/3361594327/5748234518/956504
+#EXTINF:-1 tvg-id="" tvg-name="DOUG" tvg-logo="https://i.imgur.com/aHNTn39.png" group-title="CANAIS | INFANTIL 24HRS",DOUG
+http://globalsrv.me:80/3361594327/5748234518/956505
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://uploaddeimagens.com.br/images/003/462/021/thumb/dragon_ball.png" group-title="CANAIS | INFANTIL 24HRS",DRAGON BALL
+http://globalsrv.me:80/3361594327/5748234518/956506
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="https://uploaddeimagens.com.br/images/003/462/011/thumb/dragonball-gt-logo-psd-444356.png" group-title="CANAIS | INFANTIL 24HRS",DRAGON BALL GT
+http://globalsrv.me:80/3361594327/5748234518/956507
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="https://i.imgur.com/8xVrCkW.png" group-title="CANAIS | INFANTIL 24HRS",DRAGON BALL SUPER
+http://globalsrv.me:80/3361594327/5748234518/956508
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 03" tvg-logo="https://i.vippng.com/png/small/5-56071_hardgoods-logo-dragon-ball-z-png.png" group-title="CANAIS | INFANTIL 24HRS",DRAGON BALL Z 03
+http://globalsrv.me:80/3361594327/5748234518/956509
+#EXTINF:-1 tvg-id="" tvg-name="DU DUDU E EDU" tvg-logo="https://uploaddeimagens.com.br/images/003/462/005/thumb/ed_edd_n_eddy_.png" group-title="CANAIS | INFANTIL 24HRS",DU DUDU E EDU
+http://globalsrv.me:80/3361594327/5748234518/956510
+#EXTINF:-1 tvg-id="" tvg-name="DUCK TALES-" tvg-logo="https://i.imgur.com/hTCvmso.png" group-title="CANAIS | INFANTIL 24HRS",DUCK TALES-
+http://globalsrv.me:80/3361594327/5748234518/956511
+#EXTINF:-1 tvg-id="" tvg-name="ESQUILO SEM GRILO" tvg-logo="https://i.imgur.com/SpHrV6t.png" group-title="CANAIS | INFANTIL 24HRS",ESQUILO SEM GRILO
+http://globalsrv.me:80/3361594327/5748234518/956512
+#EXTINF:-1 tvg-id="" tvg-name="EU SOU O MAXIMO" tvg-logo="https://i.imgur.com/zZgkZ4t.png" group-title="CANAIS | INFANTIL 24HRS",EU SOU O MAXIMO
+http://globalsrv.me:80/3361594327/5748234518/956513
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA URSO" tvg-logo="https://i.imgur.com/AGyjXBn.png" group-title="CANAIS | INFANTIL 24HRS",FAMILIA URSO
+http://globalsrv.me:80/3361594327/5748234518/956514
+#EXTINF:-1 tvg-id="" tvg-name="FERNANDINHO" tvg-logo="https://i.imgur.com/lKCFdww.png" group-title="CANAIS | SHOW",FERNANDINHO
+http://globalsrv.me:80/3361594327/5748234518/956515
+#EXTINF:-1 tvg-id="" tvg-name="FERNANDO E SOROCABA" tvg-logo="https://i.imgur.com/fbdmdPA.png" group-title="CANAIS | SHOW",FERNANDO E SOROCABA
+http://globalsrv.me:80/3361594327/5748234518/956516
+#EXTINF:-1 tvg-id="" tvg-name="FLASH BACK" tvg-logo="https://uploaddeimagens.com.br/images/003/535/748/thumb/flash_back.png" group-title="CANAIS | SHOW",FLASH BACK
+http://globalsrv.me:80/3361594327/5748234518/956518
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATOMICA" tvg-logo="https://i.imgur.com/04DCqVm.png" group-title="CANAIS | INFANTIL 24HRS",FORMIGA ATOMICA
+http://globalsrv.me:80/3361594327/5748234518/956519
+#EXTINF:-1 tvg-id="" tvg-name="FREAKAZOIDE" tvg-logo="https://i.imgur.com/qAFXUO5.png" group-title="CANAIS | INFANTIL 24HRS",FREAKAZOIDE
+http://globalsrv.me:80/3361594327/5748234518/956520
+#EXTINF:-1 tvg-id="" tvg-name="FUNK" tvg-logo="https://i.imgur.com/Wlkn2Ds.png" group-title="CANAIS | SHOW",FUNK
+http://globalsrv.me:80/3361594327/5748234518/956521
+#EXTINF:-1 tvg-id="" tvg-name="GABRIELA ROCHA" tvg-logo="https://i.imgur.com/Xl7rR2y.png" group-title="CANAIS | SHOW",GABRIELA ROCHA
+http://globalsrv.me:80/3361594327/5748234518/956522
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Galinha_Pintadinha.png" group-title="CANAIS | INFANTIL 24HRS",GALINHA PINTADINHA
+http://globalsrv.me:80/3361594327/5748234518/956523
+#EXTINF:-1 tvg-id="" tvg-name="GASPARZINHO" tvg-logo="https://i.imgur.com/ffrvtIX.png" group-title="CANAIS | INFANTIL 24HRS",GASPARZINHO
+http://globalsrv.me:80/3361594327/5748234518/956524
+#EXTINF:-1 tvg-id="" tvg-name="GATO FELIX" tvg-logo="https://i.imgur.com/gDsOgbZ.png" group-title="CANAIS | INFANTIL 24HRS",GATO FELIX
+http://globalsrv.me:80/3361594327/5748234518/956525
+#EXTINF:-1 tvg-id="" tvg-name="GUSTAVO LIMA" tvg-logo="https://www.cristianark.com/wp-content/uploads/2017/02/gusttavolima.png" group-title="CANAIS | SHOW",GUSTAVO LIMA
+http://globalsrv.me:80/3361594327/5748234518/956526
+#EXTINF:-1 tvg-id="" tvg-name="HAMTARO" tvg-logo="https://i.imgur.com/E8HUXdy.png" group-title="CANAIS | INFANTIL 24HRS",HAMTARO
+http://globalsrv.me:80/3361594327/5748234518/956527
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN E OS MESTRES DO UNIVERSO" tvg-logo="https://i.imgur.com/H3yomxr.png" group-title="CANAIS | INFANTIL 24HRS",HE-MAN E OS MESTRES DO UNIVERSO
+http://globalsrv.me:80/3361594327/5748234518/956528
+#EXTINF:-1 tvg-id="" tvg-name="HEY ARNOLD" tvg-logo="https://i.imgur.com/Php6sKW.png" group-title="CANAIS | INFANTIL 24HRS",HEY ARNOLD
+http://globalsrv.me:80/3361594327/5748234518/956529
+#EXTINF:-1 tvg-id="" tvg-name="HI HI PUFFY AMY YUMI" tvg-logo="https://i.imgur.com/heQhXcY.png" group-title="CANAIS | INFANTIL 24HRS",HI HI PUFFY AMY YUMI
+http://globalsrv.me:80/3361594327/5748234518/956530
+#EXTINF:-1 tvg-id="" tvg-name="HIP HOP" tvg-logo="https://i.imgur.com/wuWqFCP.png" group-title="CANAIS | SHOW",HIP HOP
+http://globalsrv.me:80/3361594327/5748234518/956531
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="https://i.imgur.com/4vXURt8.png" group-title="CANAIS | INFANTIL 24HRS",HOMEM ARANHA
+http://globalsrv.me:80/3361594327/5748234518/956532
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/553/thumb/iron_man_age_of_ultron_by_alexiscabo1-da0k6yo.png" group-title="CANAIS | INFANTIL 24HRS",HOMEM DE FERRO
+http://globalsrv.me:80/3361594327/5748234518/956533
+#EXTINF:-1 tvg-id="" tvg-name="HOTWEELS" tvg-logo="https://i.imgur.com/6C6GVwD.png" group-title="CANAIS | INFANTIL 24HRS",HOTWEELS
+http://globalsrv.me:80/3361594327/5748234518/956534
+#EXTINF:-1 tvg-id="" tvg-name="HULK" tvg-logo="https://i.imgur.com/ZBVXNXo.png" group-title="CANAIS | INFANTIL 24HRS",HULK
+http://globalsrv.me:80/3361594327/5748234518/956535
+#EXTINF:-1 tvg-id="" tvg-name="IVETE SANGALO" tvg-logo="https://i.imgur.com/0fnqaf1.png" group-title="CANAIS | SHOW",IVETE SANGALO
+http://globalsrv.me:80/3361594327/5748234518/956536
+#EXTINF:-1 tvg-id="" tvg-name="JAMBO E RUIVÃO" tvg-logo="https://gartic.com.br/imgs/mural/zn/znation/jambo-e-ruivao-2.png" group-title="CANAIS | INFANTIL 24HRS",JAMBO E RUIVÃO
+http://globalsrv.me:80/3361594327/5748234518/956537
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY  BRAVO" tvg-logo="https://i.imgur.com/7wMVrQo.png" group-title="CANAIS | INFANTIL 24HRS",JOHNNY  BRAVO
+http://globalsrv.me:80/3361594327/5748234518/956538
+#EXTINF:-1 tvg-id="" tvg-name="JORGE E MATEUS" tvg-logo="https://uploaddeimagens.com.br/images/003/461/584/thumb/logo-empresa.png" group-title="CANAIS | SHOW",JORGE E MATEUS
+http://globalsrv.me:80/3361594327/5748234518/956539
+#EXTINF:-1 tvg-id="" tvg-name="JOÃO GRANDÃO" tvg-logo="https://i.imgur.com/AIAxk3u.jpg" group-title="CANAIS | INFANTIL 24HRS",JOÃO GRANDÃO
+http://globalsrv.me:80/3361594327/5748234518/956540
+#EXTINF:-1 tvg-id="" tvg-name="KARATE KID" tvg-logo="https://i.imgur.com/MrRGIm6.png" group-title="CANAIS | INFANTIL 24HRS",KARATE KID
+http://globalsrv.me:80/3361594327/5748234518/956541
+#EXTINF:-1 tvg-id="" tvg-name="KENAN E KEL" tvg-logo="https://i.imgur.com/qL45Cm0.png" group-title="CANAIS | INFANTIL 24HRS",KENAN E KEL
+http://globalsrv.me:80/3361594327/5748234518/956542
+#EXTINF:-1 tvg-id="" tvg-name="KICK BUTTOWSKI" tvg-logo="https://i.imgur.com/ZaLOlyf.png" group-title="CANAIS | INFANTIL 24HRS",KICK BUTTOWSKI
+http://globalsrv.me:80/3361594327/5748234518/956543
+#EXTINF:-1 tvg-id="" tvg-name="KND - ATURMA DO BAIRRO" tvg-logo="https://i.imgur.com/QSIoJke.png" group-title="CANAIS | INFANTIL 24HRS",KND - ATURMA DO BAIRRO
+http://globalsrv.me:80/3361594327/5748234518/956544
+#EXTINF:-1 tvg-id="" tvg-name="LEAO DA MONTANHA" tvg-logo="https://i.imgur.com/ueX1yF1.png" group-title="CANAIS | INFANTIL 24HRS",LEAO DA MONTANHA
+http://globalsrv.me:80/3361594327/5748234518/956545
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA" tvg-logo="https://i.imgur.com/Xh6bsUV.png" group-title="CANAIS | INFANTIL 24HRS",LIGA DA JUSTIÇA
+http://globalsrv.me:80/3361594327/5748234518/956546
+#EXTINF:-1 tvg-id="" tvg-name="LIGEIRINHO" tvg-logo="https://static.wikia.nocookie.net/acme-arsenal/images/6/64/256px-Speedy_Gonzales.png" group-title="CANAIS | INFANTIL 24HRS",LIGEIRINHO
+http://globalsrv.me:80/3361594327/5748234518/956547
+#EXTINF:-1 tvg-id="" tvg-name="LILO & STITCH" tvg-logo="https://seeklogo.com/images/L/lilo-stitch-logo-210BACD504-seeklogo.com.png" group-title="CANAIS | INFANTIL 24HRS",LILO & STITCH
+http://globalsrv.me:80/3361594327/5748234518/956548
+#EXTINF:-1 tvg-id="" tvg-name="LUCCAS NETO" tvg-logo="https://i.imgur.com/KdjVIXh.png" group-title="CANAIS | INFANTIL 24HRS",LUCCAS NETO
+http://globalsrv.me:80/3361594327/5748234518/956549
+#EXTINF:-1 tvg-id="" tvg-name="LULU SANTOS" tvg-logo="https://uploaddeimagens.com.br/images/003/461/582/thumb/download_%281%29.png" group-title="CANAIS | SHOW",LULU SANTOS
+http://globalsrv.me:80/3361594327/5748234518/956550
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA" tvg-logo="https://i.imgur.com/Iko8eGc.png" group-title="CANAIS | INFANTIL 24HRS",LULUZINHA
+http://globalsrv.me:80/3361594327/5748234518/956551
+#EXTINF:-1 tvg-id="" tvg-name="MAGUILA O GURILA" tvg-logo="https://1.bp.blogspot.com/-kCHxyFB-iOA/V_kzNsB9eVI/AAAAAAAADdM/1TXLBF1HlHshtyzxIMPsQEts3S0AbeKOwCLcB/s400/Untitled.png" group-title="CANAIS | INFANTIL 24HRS",MAGUILA O GURILA
+http://globalsrv.me:80/3361594327/5748234518/956552
+#EXTINF:-1 tvg-id="" tvg-name="MAIARA E MARAISA" tvg-logo="https://uploaddeimagens.com.br/images/003/461/581/thumb/adeff57922dad8c14f3cec6bf419581f.png" group-title="CANAIS | SHOW",MAIARA E MARAISA
+http://globalsrv.me:80/3361594327/5748234518/956553
+#EXTINF:-1 tvg-id="" tvg-name="MANDA CHUVA" tvg-logo="https://i.imgur.com/n2PekJp.png" group-title="CANAIS | INFANTIL 24HRS",MANDA CHUVA
+http://globalsrv.me:80/3361594327/5748234518/956554
+#EXTINF:-1 tvg-id="" tvg-name="MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS" tvg-logo="https://i.imgur.com/IfjmlN9.png" group-title="CANAIS | INFANTIL 24HRS",MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
+http://globalsrv.me:80/3361594327/5748234518/956555
+#EXTINF:-1 tvg-id="" tvg-name="MARCELINO PÃO E VINHO" tvg-logo="https://uploaddeimagens.com.br/images/003/458/969/thumb/marcelino-pao-e-vinho_t36811_1.png" group-title="CANAIS | INFANTIL 24HRS",MARCELINO PÃO E VINHO
+http://globalsrv.me:80/3361594327/5748234518/956556
+#EXTINF:-1 tvg-id="" tvg-name="MARILIA MENDONÇA" tvg-logo="https://uploaddeimagens.com.br/images/003/461/580/thumb/Capa_Four.png" group-title="CANAIS | SHOW",MARILIA MENDONÇA
+http://globalsrv.me:80/3361594327/5748234518/956557
+#EXTINF:-1 tvg-id="" tvg-name="MARSHA E O URSO" tvg-logo="https://i.imgur.com/jhvOEc0.png" group-title="CANAIS | INFANTIL 24HRS",MARSHA E O URSO
+http://globalsrv.me:80/3361594327/5748234518/956558
+#EXTINF:-1 tvg-id="" tvg-name="MEDABOTS" tvg-logo="https://i.imgur.com/p39otCe.png" group-title="CANAIS | INFANTIL 24HRS",MEDABOTS
+http://globalsrv.me:80/3361594327/5748234518/956559
+#EXTINF:-1 tvg-id="" tvg-name="MEGA MAN" tvg-logo="https://i.imgur.com/PBKxgPv.png" group-title="CANAIS | INFANTIL 24HRS",MEGA MAN
+http://globalsrv.me:80/3361594327/5748234518/956560
+#EXTINF:-1 tvg-id="" tvg-name="MIB HOMENS DE PRETO" tvg-logo="https://i.imgur.com/BivdizT.png" group-title="CANAIS | INFANTIL 24HRS",MIB HOMENS DE PRETO
+http://globalsrv.me:80/3361594327/5748234518/956561
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY E DONALD" tvg-logo="https://i.imgur.com/fi3Lm2W.png" group-title="CANAIS | INFANTIL 24HRS",MICKEY E DONALD
+http://globalsrv.me:80/3361594327/5748234518/956562
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY MOUSE" tvg-logo="https://i.imgur.com/cno5sKz.png" group-title="CANAIS | INFANTIL 24HRS",MICKEY MOUSE
+http://globalsrv.me:80/3361594327/5748234518/956563
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS: AS AVENTURAS DE LADYBUG" tvg-logo="https://i.imgur.com/oOpUfyh.png" group-title="CANAIS | INFANTIL 24HRS",MIRACULOUS: AS AVENTURAS DE LADYBUG
+http://globalsrv.me:80/3361594327/5748234518/956564
+#EXTINF:-1 tvg-id="" tvg-name="MONICA TOY" tvg-logo="https://uploaddeimagens.com.br/images/003/461/561/thumb/D_NQ_NP_749426-MLB27263553729_042018-O.png" group-title="CANAIS | INFANTIL 24HRS",MONICA TOY
+http://globalsrv.me:80/3361594327/5748234518/956565
+#EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT" tvg-logo="https://i.imgur.com/5yMqFo6.png" group-title="CANAIS | INFANTIL 24HRS",MORTAL KOMBAT
+http://globalsrv.me:80/3361594327/5748234518/956566
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO BITA" tvg-logo="https://i.imgur.com/05UVT1z.png" group-title="CANAIS | INFANTIL 24HRS",MUNDO BITA
+http://globalsrv.me:80/3361594327/5748234518/956567
+#EXTINF:-1 tvg-id="" tvg-name="MUSICAS GAÚCHAS" tvg-logo="https://i.imgur.com/PXUSit9.png" group-title="CANAIS | SHOW",MUSICAS GAÚCHAS
+http://globalsrv.me:80/3361594327/5748234518/956568
+#EXTINF:-1 tvg-id="" tvg-name="NAIARA AZEVEDO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/578/thumb/unnamed.png" group-title="CANAIS | SHOW",NAIARA AZEVEDO
+http://globalsrv.me:80/3361594327/5748234518/956569
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="https://i.imgur.com/MULg2ah.png" group-title="CANAIS | INFANTIL 24HRS",NARUTO
+http://globalsrv.me:80/3361594327/5748234518/956570
+#EXTINF:-1 tvg-id="" tvg-name="O FANTASTICO MUNDO DE BOB" tvg-logo="https://1.bp.blogspot.com/-8UmgF45cCu0/VNaTLM4HuzI/AAAAAAAB-x8/doSaWtJIJfw/s1600/19.png" group-title="CANAIS | INFANTIL 24HRS",O FANTASTICO MUNDO DE BOB
+http://globalsrv.me:80/3361594327/5748234518/956571
+#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR" tvg-logo="https://i.imgur.com/one6UcQ.png" group-title="CANAIS | INFANTIL 24HRS",O INSPETOR
+http://globalsrv.me:80/3361594327/5748234518/956572
+#EXTINF:-1 tvg-id="" tvg-name="O LABORATORIO DE DEXTER" tvg-logo="https://uploaddeimagens.com.br/images/003/462/228/thumb/dexter.png" group-title="CANAIS | INFANTIL 24HRS",O LABORATORIO DE DEXTER
+http://globalsrv.me:80/3361594327/5748234518/956573
+#EXTINF:-1 tvg-id="" tvg-name="O MÁSKARA" tvg-logo="https://i.pinimg.com/originals/ac/7d/e9/ac7de9030d8f79d386739f61e2575fb7.png" group-title="CANAIS | INFANTIL 24HRS",O MÁSKARA
+http://globalsrv.me:80/3361594327/5748234518/956574
+#EXTINF:-1 tvg-id="" tvg-name="O PEQUENO URSO" tvg-logo="https://i.imgur.com/EoBsquy.png" group-title="CANAIS | INFANTIL 24HRS",O PEQUENO URSO
+http://globalsrv.me:80/3361594327/5748234518/956575
+#EXTINF:-1 tvg-id="" tvg-name="O XODÓ DA VOVÓ" tvg-logo="https://i.imgur.com/SqYnqX3.png" group-title="CANAIS | INFANTIL 24HRS",O XODÓ DA VOVÓ
+http://globalsrv.me:80/3361594327/5748234518/956576
+#EXTINF:-1 tvg-id="" tvg-name="OGLI E AS BARATAS" tvg-logo="https://i.imgur.com/bUjvoUd.png" group-title="CANAIS | INFANTIL 24HRS",OGLI E AS BARATAS
+http://globalsrv.me:80/3361594327/5748234518/956577
+#EXTINF:-1 tvg-id="" tvg-name="OS 3 MOSQUETEIROS" tvg-logo="https://www.osmosqueteiros.com.br/logo-osmosqueteiros.png" group-title="CANAIS | INFANTIL 24HRS",OS 3 MOSQUETEIROS
+http://globalsrv.me:80/3361594327/5748234518/956578
+#EXTINF:-1 tvg-id="" tvg-name="OS CAEZINHOS DO CANIL" tvg-logo="https://i.imgur.com/FB5zTpU.png" group-title="CANAIS | INFANTIL 24HRS",OS CAEZINHOS DO CANIL
+http://globalsrv.me:80/3361594327/5748234518/956579
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO" tvg-logo="https://i.imgur.com/Ipzg8q9.jpg" group-title="CANAIS | INFANTIL 24HRS",OS CAVALEIROS DO ZODIACO
+http://globalsrv.me:80/3361594327/5748234518/956580
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINSTONES" tvg-logo="https://4.bp.blogspot.com/-F7zmedq3wW8/VvvkSSz_kUI/AAAAAAAA9Dg/JA_12G_6V8w9RY5WC5IMeKLwjGY4wSiGA/s1600/flintstones_logo_1_5.png" group-title="CANAIS | INFANTIL 24HRS",OS FLINSTONES
+http://globalsrv.me:80/3361594327/5748234518/956581
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/8/82/A_jetsons_logo.png" group-title="CANAIS | INFANTIL 24HRS",OS JETSONS
+http://globalsrv.me:80/3361594327/5748234518/956582
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MÁGICOS" tvg-logo="https://i.pinimg.com/originals/23/a3/b9/23a3b9e0bb56d22edfd05b8870c7219d.png" group-title="CANAIS | INFANTIL 24HRS",OS PADRINHOS MÁGICOS
+http://globalsrv.me:80/3361594327/5748234518/956583
+#EXTINF:-1 tvg-id="" tvg-name="OS SETE MONSTRINHOS" tvg-logo="https://i.imgur.com/d0sNLB7.png" group-title="CANAIS | INFANTIL 24HRS",OS SETE MONSTRINHOS
+http://globalsrv.me:80/3361594327/5748234518/956584
+#EXTINF:-1 tvg-id="" tvg-name="OS URSINHOS GUMMI" tvg-logo="https://i.imgur.com/Z1LtFxU.png" group-title="CANAIS | INFANTIL 24HRS",OS URSINHOS GUMMI
+http://globalsrv.me:80/3361594327/5748234518/956585
+#EXTINF:-1 tvg-id="" tvg-name="OS VERDADEIROS CAÇA FANTASMAS" tvg-logo="https://i.imgur.com/xlmy6yC.png" group-title="CANAIS | INFANTIL 24HRS",OS VERDADEIROS CAÇA FANTASMAS
+http://globalsrv.me:80/3361594327/5748234518/956586
+#EXTINF:-1 tvg-id="" tvg-name="PANTERA COR  DE ROSA" tvg-logo="https://i.imgur.com/wjmvcuQ.png" group-title="CANAIS | INFANTIL 24HRS",PANTERA COR  DE ROSA
+http://globalsrv.me:80/3361594327/5748234518/956588
+#EXTINF:-1 tvg-id="" tvg-name="PAPALEGUAS E COIOTE" tvg-logo="https://i.imgur.com/3DujbS7.png" group-title="CANAIS | INFANTIL 24HRS",PAPALEGUAS E COIOTE
+http://globalsrv.me:80/3361594327/5748234518/956589
+#EXTINF:-1 tvg-id="" tvg-name="PEPE LEGAL" tvg-logo="https://i.imgur.com/oljlMsX.png" group-title="CANAIS | INFANTIL 24HRS",PEPE LEGAL
+http://globalsrv.me:80/3361594327/5748234518/956590
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/2/26/Classic_bugsbunny.png" group-title="CANAIS | INFANTIL 24HRS",PERNALONGA
+http://globalsrv.me:80/3361594327/5748234518/956591
+#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="https://i.imgur.com/mPjHC6b.png" group-title="CANAIS | INFANTIL 24HRS",PICA-PAU
+http://globalsrv.me:80/3361594327/5748234518/956592
+#EXTINF:-1 tvg-id="" tvg-name="PINGU" tvg-logo="https://i.imgur.com/E5gfyJw.png" group-title="CANAIS | INFANTIL 24HRS",PINGU
+http://globalsrv.me:80/3361594327/5748234518/956593
+#EXTINF:-1 tvg-id="" tvg-name="PINK E CEREBRO" tvg-logo="https://seeklogo.com/images/C/cerebro-desenho-logo-14A0A8C724-seeklogo.com.png" group-title="CANAIS | INFANTIL 24HRS",PINK E CEREBRO
+http://globalsrv.me:80/3361594327/5748234518/956594
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO" tvg-logo="https://i.imgur.com/RkniVRP.png" group-title="CANAIS | INFANTIL 24HRS",POCOYO
+http://globalsrv.me:80/3361594327/5748234518/956595
+#EXTINF:-1 tvg-id="" tvg-name="POKÉMON" tvg-logo="http://pngimg.com/uploads/pokemon_logo/pokemon_logo_PNG5.png" group-title="CANAIS | INFANTIL 24HRS",POKÉMON
+http://globalsrv.me:80/3361594327/5748234518/956596
+#EXTINF:-1 tvg-id="" tvg-name="POPAYE" tvg-logo="https://i.imgur.com/GxvzZGV.png" group-title="CANAIS | INFANTIL 24HRS",POPAYE
+http://globalsrv.me:80/3361594327/5748234518/956597
+#EXTINF:-1 tvg-id="" tvg-name="ROCKET POWER" tvg-logo="https://i.imgur.com/hmPV4jQ.png" group-title="CANAIS | INFANTIL 24HRS",ROCKET POWER
+http://globalsrv.me:80/3361594327/5748234518/956599
+#EXTINF:-1 tvg-id="" tvg-name="ROUPA NOVA" tvg-logo="https://uploaddeimagens.com.br/images/003/461/576/thumb/download.png" group-title="CANAIS | SHOW",ROUPA NOVA
+http://globalsrv.me:80/3361594327/5748234518/956600
+#EXTINF:-1 tvg-id="" tvg-name="SAILOR MOOM" tvg-logo="https://i.imgur.com/ZkPa4t0.png" group-title="CANAIS | INFANTIL 24HRS",SAILOR MOOM
+http://globalsrv.me:80/3361594327/5748234518/956601
+#EXTINF:-1 tvg-id="" tvg-name="SAKURA CARD CAPTOR" tvg-logo="https://i.imgur.com/MZojlfP.png" group-title="CANAIS | INFANTIL 24HRS",SAKURA CARD CAPTOR
+http://globalsrv.me:80/3361594327/5748234518/956602
+#EXTINF:-1 tvg-id="" tvg-name="SAMUEL MARIANO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/575/thumb/hqdefault.png" group-title="CANAIS | SHOW",SAMUEL MARIANO
+http://globalsrv.me:80/3361594327/5748234518/956603
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI X" tvg-logo="https://i.imgur.com/9fXj6ly.png" group-title="CANAIS | INFANTIL 24HRS",SAMURAI X
+http://globalsrv.me:80/3361594327/5748234518/956604
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO" tvg-logo="https://i.imgur.com/WsqTnVK.png" group-title="CANAIS | INFANTIL 24HRS",SCOOBY-DOO
+http://globalsrv.me:80/3361594327/5748234518/956605
+#EXTINF:-1 tvg-id="" tvg-name="SEU JORGE & ALEXANDRE PIRES" tvg-logo="https://uploaddeimagens.com.br/images/003/461/572/thumb/2017-04-25-_Seu_Jorge.png" group-title="CANAIS | SHOW",SEU JORGE & ALEXANDRE PIRES
+http://globalsrv.me:80/3361594327/5748234518/956606
+#EXTINF:-1 tvg-id="" tvg-name="SHAMAN KING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/C56c5b07d4a5ef46bbc30a1bf27fce15.png" group-title="CANAIS | INFANTIL 24HRS",SHAMAN KING
+http://globalsrv.me:80/3361594327/5748234518/956607
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA" tvg-logo="https://i.imgur.com/nYFLnT1.png" group-title="CANAIS | INFANTIL 24HRS",SHE-RA
+http://globalsrv.me:80/3361594327/5748234518/956608
+#EXTINF:-1 tvg-id="" tvg-name="SHOW DA LUNA" tvg-logo="https://i.imgur.com/AGC7c5X.png" group-title="CANAIS | INFANTIL 24HRS",SHOW DA LUNA
+http://globalsrv.me:80/3361594327/5748234518/956609
+#EXTINF:-1 tvg-id="" tvg-name="SIMONE E SIMARIA" tvg-logo="https://uploaddeimagens.com.br/images/003/461/563/thumb/11799_607270_70586.png" group-title="CANAIS | SHOW",SIMONE E SIMARIA
+http://globalsrv.me:80/3361594327/5748234518/956610
+#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA-PAU AMARELO 1977" tvg-logo="http://3.bp.blogspot.com/-05PZju2QF2E/UjPTsRBEWxI/AAAAAAAACxQ/j2OgZQq_Jlw/s400/MarcaSitio.png" group-title="CANAIS | INFANTIL 24HRS",SITIO DO PICA-PAU AMARELO 1977
+http://globalsrv.me:80/3361594327/5748234518/956611
+#EXTINF:-1 tvg-id="" tvg-name="SKANK" tvg-logo="https://uploaddeimagens.com.br/images/003/461/562/thumb/1c527a78267f2c1ae1d7a9bce647dbd1.png" group-title="CANAIS | SHOW",SKANK
+http://globalsrv.me:80/3361594327/5748234518/956612
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042018/untitled-2_304.png" group-title="CANAIS | INFANTIL 24HRS",SOUTH PARK
+http://globalsrv.me:80/3361594327/5748234518/956613
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER" tvg-logo="https://www.logolynx.com/images/logolynx/e5/e5f7276e0a0af44aeec4a8ea0561faa9.png" group-title="CANAIS | INFANTIL 24HRS",SPEED RACER
+http://globalsrv.me:80/3361594327/5748234518/956614
+#EXTINF:-1 tvg-id="" tvg-name="SUPER AMIGOS" tvg-logo="https://i.imgur.com/4IXuqFX.png" group-title="CANAIS | INFANTIL 24HRS",SUPER AMIGOS
+http://globalsrv.me:80/3361594327/5748234518/956615
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE" tvg-logo="https://mlohrktvfr9b.i.optimole.com/scftOdE.BaVg~16a4d/w:auto/h:auto/q:90/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/adesivo-Super-shock-Static-danilo-the-hype-nerd-stickers.png" group-title="CANAIS | INFANTIL 24HRS",SUPER CHOQUE
+http://globalsrv.me:80/3361594327/5748234518/956616
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MÁRIO" tvg-logo="https://images.tcdn.com.br/img/img_prod/604201/super_mario_logo_classico_1368_1_20180409174618.png" group-title="CANAIS | INFANTIL 24HRS",SUPER MÁRIO
+http://globalsrv.me:80/3361594327/5748234518/956617
+#EXTINF:-1 tvg-id="" tvg-name="SWAT KATS" tvg-logo="https://i.imgur.com/40DBC04.png" group-title="CANAIS | INFANTIL 24HRS",SWAT KATS
+http://globalsrv.me:80/3361594327/5748234518/956618
+#EXTINF:-1 tvg-id="" tvg-name="TARDEZINHA COM THIAGUINHO" tvg-logo="https://i.imgur.com/sSdBY4K.png" group-title="CANAIS | SHOW",TARDEZINHA COM THIAGUINHO
+http://globalsrv.me:80/3361594327/5748234518/956619
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGA TUCHE" tvg-logo="https://i.imgur.com/ksWopw3.png" group-title="CANAIS | INFANTIL 24HRS",TARTARUGA TUCHE
+http://globalsrv.me:80/3361594327/5748234518/956620
+#EXTINF:-1 tvg-id="" tvg-name="TAZMANIA" tvg-logo="https://i.imgur.com/ZCTb9WS.png" group-title="CANAIS | INFANTIL 24HRS",TAZMANIA
+http://globalsrv.me:80/3361594327/5748234518/956621
+#EXTINF:-1 tvg-id="" tvg-name="TICO E TECO" tvg-logo="https://storage.googleapis.com/wzukusers/user-32371513/images/5ab12bf14fe1f8OSPalk/LOGO-TICO-E-TECO_d200.png" group-title="CANAIS | INFANTIL 24HRS",TICO E TECO
+http://globalsrv.me:80/3361594327/5748234518/956623
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://i.imgur.com/7Yzve78.png" group-title="CANAIS | INFANTIL 24HRS",TODO MUNDO ODEIA O CHRIS
+http://globalsrv.me:80/3361594327/5748234518/956624
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2021/04/Logo-Tom-And-Jerry-PNG.png" group-title="CANAIS | INFANTIL 24HRS",TOM E JERRY
+http://globalsrv.me:80/3361594327/5748234518/956625
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS" tvg-logo="https://i.imgur.com/lKTmFed.png" group-title="CANAIS | INFANTIL 24HRS",TRANSFORMERS
+http://globalsrv.me:80/3361594327/5748234518/956626
+#EXTINF:-1 tvg-id="" tvg-name="TRÊS ESPIÂS DEMAIS" tvg-logo="https://i.imgur.com/lk6ddTR.png" group-title="CANAIS | INFANTIL 24HRS",TRÊS ESPIÂS DEMAIS
+http://globalsrv.me:80/3361594327/5748234518/956627
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DO PATETA" tvg-logo="https://i.imgur.com/XzqQfj8.png" group-title="CANAIS | INFANTIL 24HRS",TURMA DO PATETA
+http://globalsrv.me:80/3361594327/5748234518/956628
+#EXTINF:-1 tvg-id="" tvg-name="TUTUBARÃO" tvg-logo="https://i.imgur.com/iShd5Ol.png" group-title="CANAIS | INFANTIL 24HRS",TUTUBARÃO
+http://globalsrv.me:80/3361594327/5748234518/956629
+#EXTINF:-1 tvg-id="" tvg-name="TV QUACK" tvg-logo="https://i.imgur.com/cne6QVA.png" group-title="CANAIS | INFANTIL 24HRS",TV QUACK
+http://globalsrv.me:80/3361594327/5748234518/956630
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSO" tvg-logo="https://i.imgur.com/GUCLAt8.png" group-title="CANAIS | INFANTIL 24HRS",URSINHOS CARINHOSO
+http://globalsrv.me:80/3361594327/5748234518/956631
+#EXTINF:-1 tvg-id="" tvg-name="VACA E O FRANGO" tvg-logo="https://i.imgur.com/M6kaOnU.png" group-title="CANAIS | INFANTIL 24HRS",VACA E O FRANGO
+http://globalsrv.me:80/3361594327/5748234518/956632
+#EXTINF:-1 tvg-id="" tvg-name="WOLVERINE" tvg-logo="https://i.imgur.com/Jh5QqbA.png" group-title="CANAIS | INFANTIL 24HRS",WOLVERINE
+http://globalsrv.me:80/3361594327/5748234518/956633
+#EXTINF:-1 tvg-id="" tvg-name="ZATECH BELL" tvg-logo="https://static.wikia.nocookie.net/versus-compendium/images/0/0b/Zb_logo.png" group-title="CANAIS | INFANTIL 24HRS",ZATECH BELL
+http://globalsrv.me:80/3361594327/5748234518/956634
+#EXTINF:-1 tvg-id="" tvg-name="ZÉ BUSCAPÉ" tvg-logo="http://1.bp.blogspot.com/-TjF0_7ITlhU/VGuV6nz10sI/AAAAAAAAhyE/bAqT8elrj0M/w680/a-fam%C3%ADlia-buscap%C3%A9-em-png-queroimagem-cei%C3%A7a-crispim.png" group-title="CANAIS | INFANTIL 24HRS",ZÉ BUSCAPÉ
+http://globalsrv.me:80/3361594327/5748234518/956635
+#EXTINF:-1 tvg-id="" tvg-name="ZÉ COMÉIA" tvg-logo="https://i.imgur.com/ONVEBKz.png" group-title="CANAIS | INFANTIL 24HRS",ZÉ COMÉIA
+http://globalsrv.me:80/3361594327/5748234518/956636
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS" tvg-logo="https://i.imgur.com/UMqCEfx.jpg" group-title="CANAIS | SERIADOS 24HRS",24H LARGADOS E PELADOS
+http://globalsrv.me:80/3361594327/5748234518/431204
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES" tvg-logo="https://i.imgur.com/mneU9dr.jpg" group-title="CANAIS | SERIADOS 24HRS",OS TRAPALHÕES
+http://globalsrv.me:80/3361594327/5748234518/431202
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAil4-34ejf5Sfybk1vQSv2gIUjLZmgD8vQ&usqp=CAU" group-title="CANAIS | SERIADOS 24HRS",Todo Mundo Odeia o Chris 24H
+http://globalsrv.me:80/3361594327/5748234518/370659
+#EXTINF:-1 tvg-id="" tvg-name="Desastres Aéreos 24H" tvg-logo="https://i.imgur.com/va5fy1S.jpg" group-title="CANAIS | SERIADOS 24HRS",Desastres Aéreos 24H
+http://globalsrv.me:80/3361594327/5748234518/631049
+#EXTINF:-1 tvg-id="" tvg-name="[24HRS] BLAYBLADE" tvg-logo="http://frases.animedia.com.br/img/animes/beyblade.jpg" group-title="CANAIS | INFANTIL 24HRS",[24HRS] BLAYBLADE
+http://globalsrv.me:80/3361594327/5748234518/1005997
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 18" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 18
+http://globalsrv.me:80/3361594327/5748234518/995343
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 17" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 17
+http://globalsrv.me:80/3361594327/5748234518/995344
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 14" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 14
+http://globalsrv.me:80/3361594327/5748234518/995346
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 10" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 10
+http://globalsrv.me:80/3361594327/5748234518/995349
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 13" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 13
+http://globalsrv.me:80/3361594327/5748234518/995350
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 9" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 9
+http://globalsrv.me:80/3361594327/5748234518/995351
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 8" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 8
+http://globalsrv.me:80/3361594327/5748234518/995352
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 7" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 7
+http://globalsrv.me:80/3361594327/5748234518/995353
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 5" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 5
+http://globalsrv.me:80/3361594327/5748234518/995355
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 4" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 4
+http://globalsrv.me:80/3361594327/5748234518/995356
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 1" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX: Adulto 1
+http://globalsrv.me:80/3361594327/5748234518/995359
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 02" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",BRASILEIRINHAS 02
+http://globalsrv.me:80/3361594327/5748234518/995360
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 24HRS" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",BRASILEIRINHAS 24HRS
+http://globalsrv.me:80/3361594327/5748234518/995361
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 1" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 1
+http://globalsrv.me:80/3361594327/5748234518/997326
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 11" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 11
+http://globalsrv.me:80/3361594327/5748234518/997328
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 12" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 12
+http://globalsrv.me:80/3361594327/5748234518/997329
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 13" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 13
+http://globalsrv.me:80/3361594327/5748234518/997330
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 16" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 16
+http://globalsrv.me:80/3361594327/5748234518/997333
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 17" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 17
+http://globalsrv.me:80/3361594327/5748234518/997334
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 18" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 18
+http://globalsrv.me:80/3361594327/5748234518/997335
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 3" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] ADULTO 3
+http://globalsrv.me:80/3361594327/5748234518/997338
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 01 [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 01 [4K]
+http://globalsrv.me:80/3361594327/5748234518/997342
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 07 [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 07 [4K]
+http://globalsrv.me:80/3361594327/5748234518/997345
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 08 [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 08 [4K]
+http://globalsrv.me:80/3361594327/5748234518/997346
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 10 [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 10 [4K]
+http://globalsrv.me:80/3361594327/5748234518/997347
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 12 [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 12 [4K]
+http://globalsrv.me:80/3361594327/5748234518/997348
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 15 [4k]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 15 [4k]
+http://globalsrv.me:80/3361594327/5748234518/997349
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 16  [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 16  [4K]
+http://globalsrv.me:80/3361594327/5748234518/997350
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 17" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 17
+http://globalsrv.me:80/3361594327/5748234518/997351
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 18 [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 18 [4K]
+http://globalsrv.me:80/3361594327/5748234518/997352
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 19 [4K]" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 19 [4K]
+http://globalsrv.me:80/3361594327/5748234518/997353
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 20" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 20
+http://globalsrv.me:80/3361594327/5748234518/997354
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adulto 21" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adulto 21
+http://globalsrv.me:80/3361594327/5748234518/997356
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 01" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 01
+http://globalsrv.me:80/3361594327/5748234518/997358
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 03" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 03
+http://globalsrv.me:80/3361594327/5748234518/997359
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 04" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 04
+http://globalsrv.me:80/3361594327/5748234518/997360
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 05" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 05
+http://globalsrv.me:80/3361594327/5748234518/997361
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 06" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 06
+http://globalsrv.me:80/3361594327/5748234518/997362
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 07" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 07
+http://globalsrv.me:80/3361594327/5748234518/997363
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 08" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 08
+http://globalsrv.me:80/3361594327/5748234518/997364
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 09" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 09
+http://globalsrv.me:80/3361594327/5748234518/997365
+#EXTINF:-1 tvg-id="" tvg-name="[XX] BRASILEIRINHAS 10" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] BRASILEIRINHAS 10
+http://globalsrv.me:80/3361594327/5748234518/997366
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Brazzers Europe" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Brazzers Europe
+http://globalsrv.me:80/3361594327/5748234518/997367
+#EXTINF:-1 tvg-id="" tvg-name="[XX] CENTOXCENTO" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] CENTOXCENTO
+http://globalsrv.me:80/3361594327/5748234518/997368
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 12" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 12
+http://globalsrv.me:80/3361594327/5748234518/997372
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 14" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 14
+http://globalsrv.me:80/3361594327/5748234518/997374
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 15" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 15
+http://globalsrv.me:80/3361594327/5748234518/997375
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 17" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 17
+http://globalsrv.me:80/3361594327/5748234518/997377
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 19" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 19
+http://globalsrv.me:80/3361594327/5748234518/997379
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 21" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 21
+http://globalsrv.me:80/3361594327/5748234518/997381
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 23" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 23
+http://globalsrv.me:80/3361594327/5748234518/997383
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 24" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 24
+http://globalsrv.me:80/3361594327/5748234518/997384
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 25" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 25
+http://globalsrv.me:80/3361594327/5748234518/997385
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 26" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 26
+http://globalsrv.me:80/3361594327/5748234518/997386
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 28" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 28
+http://globalsrv.me:80/3361594327/5748234518/997388
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 29" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 29
+http://globalsrv.me:80/3361594327/5748234518/997389
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 33" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 33
+http://globalsrv.me:80/3361594327/5748234518/997393
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 35" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 35
+http://globalsrv.me:80/3361594327/5748234518/997395
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Adultos 01" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Adultos 01
+http://globalsrv.me:80/3361594327/5748234518/997396
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 38" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 38
+http://globalsrv.me:80/3361594327/5748234518/997398
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Filme 39" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Filme 39
+http://globalsrv.me:80/3361594327/5748234518/997399
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT  12" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT  12
+http://globalsrv.me:80/3361594327/5748234518/997407
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT  14" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT  14
+http://globalsrv.me:80/3361594327/5748234518/997409
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT  16" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT  16
+http://globalsrv.me:80/3361594327/5748234518/997411
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT  18" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT  18
+http://globalsrv.me:80/3361594327/5748234518/997413
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT  19" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT  19
+http://globalsrv.me:80/3361594327/5748234518/997414
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 01" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 01
+http://globalsrv.me:80/3361594327/5748234518/997417
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 02" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 02
+http://globalsrv.me:80/3361594327/5748234518/997418
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 04" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 04
+http://globalsrv.me:80/3361594327/5748234518/997420
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 05" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 05
+http://globalsrv.me:80/3361594327/5748234518/997421
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 06" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 06
+http://globalsrv.me:80/3361594327/5748234518/997422
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 07" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 07
+http://globalsrv.me:80/3361594327/5748234518/997423
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 08" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 08
+http://globalsrv.me:80/3361594327/5748234518/997424
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 09" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 09
+http://globalsrv.me:80/3361594327/5748234518/997425
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 10" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 10
+http://globalsrv.me:80/3361594327/5748234518/997426
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 11" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 11
+http://globalsrv.me:80/3361594327/5748234518/997427
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 22" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 22
+http://globalsrv.me:80/3361594327/5748234518/997428
+#EXTINF:-1 tvg-id="" tvg-name="[XX] LGBT 23" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] LGBT 23
+http://globalsrv.me:80/3361594327/5748234518/997429
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Lésbicas HD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Lésbicas HD
+http://globalsrv.me:80/3361594327/5748234518/997430
+#EXTINF:-1 tvg-id="" tvg-name="[XX] PLAYBOY - H265" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] PLAYBOY - H265
+http://globalsrv.me:80/3361594327/5748234518/997431
+#EXTINF:-1 tvg-id="" tvg-name="[XX] PentHouse Black" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] PentHouse Black
+http://globalsrv.me:80/3361594327/5748234518/997433
+#EXTINF:-1 tvg-id="" tvg-name="[XX] PentHouse Quickies" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] PentHouse Quickies
+http://globalsrv.me:80/3361594327/5748234518/997434
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Playboy TV
+http://globalsrv.me:80/3361594327/5748234518/997436
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV  FHD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Playboy TV  FHD
+http://globalsrv.me:80/3361594327/5748234518/997437
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV HD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Playboy TV HD
+http://globalsrv.me:80/3361594327/5748234518/997438
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Private" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Private
+http://globalsrv.me:80/3361594327/5748234518/997439
+#EXTINF:-1 tvg-id="" tvg-name="[XX] REDLIGHT" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] REDLIGHT
+http://globalsrv.me:80/3361594327/5748234518/997440
+#EXTINF:-1 tvg-id="" tvg-name="[XX] RUSNOCH" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] RUSNOCH
+http://globalsrv.me:80/3361594327/5748234518/997441
+#EXTINF:-1 tvg-id="" tvg-name="[XX] SCT" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] SCT
+http://globalsrv.me:80/3361594327/5748234518/997442
+#EXTINF:-1 tvg-id="" tvg-name="[XX] SEX HOT H265" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] SEX HOT H265
+http://globalsrv.me:80/3361594327/5748234518/997443
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sex Prive FHD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sex Prive FHD
+http://globalsrv.me:80/3361594327/5748234518/997445
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sex Prive FHD H265" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sex Prive FHD H265
+http://globalsrv.me:80/3361594327/5748234518/997446
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sex Prive HD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sex Prive HD
+http://globalsrv.me:80/3361594327/5748234518/997447
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sextreme" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sextreme
+http://globalsrv.me:80/3361594327/5748234518/997448
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sexy Hot
+http://globalsrv.me:80/3361594327/5748234518/997449
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot FHD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sexy Hot FHD
+http://globalsrv.me:80/3361594327/5748234518/997450
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot H265" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sexy Hot H265
+http://globalsrv.me:80/3361594327/5748234518/997451
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot HD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Sexy Hot HD
+http://globalsrv.me:80/3361594327/5748234518/997452
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Trans TV" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Trans TV
+http://globalsrv.me:80/3361594327/5748234518/997453
+#EXTINF:-1 tvg-id="" tvg-name="[XX] VIVID Red" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] VIVID Red
+http://globalsrv.me:80/3361594327/5748234518/997455
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Venus
+http://globalsrv.me:80/3361594327/5748234518/997456
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus FHD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Venus FHD
+http://globalsrv.me:80/3361594327/5748234518/997457
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus HD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",[XX] Venus HD
+http://globalsrv.me:80/3361594327/5748234518/997458
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive FHD H265" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",Sex Prive FHD H265
+http://globalsrv.me:80/3361594327/5748234518/1002198
+#EXTINF:-1 tvg-id="" tvg-name="XXX PRIVATE HD" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX PRIVATE HD
+http://globalsrv.me:80/3361594327/5748234518/1002202
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS 4K" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX BRASILEIRINHAS 4K
+http://globalsrv.me:80/3361594327/5748234518/1002206
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 7" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX ADULTO 7
+http://globalsrv.me:80/3361594327/5748234518/1002210
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 5" tvg-logo="https://i.imgur.com/gWAWY2I.png" group-title="CANAIS | ADULTOS 18+",XXX ADULTO 5
+http://globalsrv.me:80/3361594327/5748234518/1002211
+#EXTINF:-1 tvg-id="" tvg-name="ALIANÇA FM 98,7 RJ" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",ALIANÇA FM 98,7 RJ
+http://globalsrv.me:80/3361594327/5748234518/384888
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA SP FM 94,7" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",ANTENA SP FM 94,7
+http://globalsrv.me:80/3361594327/5748234518/401350
+#EXTINF:-1 tvg-id="" tvg-name="BAND 96,9 FM PRESIDENTE EPITACIO SP" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",BAND 96,9 FM PRESIDENTE EPITACIO SP
+http://globalsrv.me:80/3361594327/5748234518/401352
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan FM" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Jovem Pan FM
+http://globalsrv.me:80/3361594327/5748234518/384911
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC JAZZ PT" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",CLASSIC JAZZ PT
+http://globalsrv.me:80/3361594327/5748234518/401358
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAN WEB" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO JOVEM PAN WEB
+http://globalsrv.me:80/3361594327/5748234518/396972
+#EXTINF:-1 tvg-id="" tvg-name="EDMUNDSTON FM 101,1 CANADA" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",EDMUNDSTON FM 101,1 CANADA
+http://globalsrv.me:80/3361594327/5748234518/401354
+#EXTINF:-1 tvg-id="" tvg-name="Rádio RS FM 96.9" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio RS FM 96.9
+http://globalsrv.me:80/3361594327/5748234518/401357
+#EXTINF:-1 tvg-id="" tvg-name="FX 99,1 EUA" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",FX 99,1 EUA
+http://globalsrv.me:80/3361594327/5748234518/401356
+#EXTINF:-1 tvg-id="" tvg-name="JAZZ" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",JAZZ
+http://globalsrv.me:80/3361594327/5748234518/423015
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN FM SP" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",JOVEM PAN FM SP
+http://globalsrv.me:80/3361594327/5748234518/423009
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Kiss FM 102.3" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO Kiss FM 102.3
+http://globalsrv.me:80/3361594327/5748234518/423008
+#EXTINF:-1 tvg-id="" tvg-name="MEGA 94 MS" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",MEGA 94 MS
+http://globalsrv.me:80/3361594327/5748234518/384912
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ALAGOÍNHAS BA FM 93" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ALAGOÍNHAS BA FM 93
+http://globalsrv.me:80/3361594327/5748234518/428120
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ALTO RIO DOCE MG FM 87,9" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ALTO RIO DOCE MG FM 87,9
+http://globalsrv.me:80/3361594327/5748234518/428129
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ALEGRIA FM 89,5 RS" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ALEGRIA FM 89,5 RS
+http://globalsrv.me:80/3361594327/5748234518/428130
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BAHIA FM 87" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO BAHIA FM 87
+http://globalsrv.me:80/3361594327/5748234518/428119
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BAND SANTA VITORIA MG FM 99,5" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO BAND SANTA VITORIA MG FM 99,5
+http://globalsrv.me:80/3361594327/5748234518/428132
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CIDADE RS FM 87,9" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO CIDADE RS FM 87,9
+http://globalsrv.me:80/3361594327/5748234518/428128
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BRASÍLIA FM 95" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO BRASÍLIA FM 95
+http://globalsrv.me:80/3361594327/5748234518/423021
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CRICIUMA SC  FM 105" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO CRICIUMA SC  FM 105
+http://globalsrv.me:80/3361594327/5748234518/428123
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ESTANCIA VELHA RS" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ESTANCIA VELHA RS
+http://globalsrv.me:80/3361594327/5748234518/428127
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ALTERNATIVA 87,9 MG" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ALTERNATIVA 87,9 MG
+http://globalsrv.me:80/3361594327/5748234518/384913
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ALVORADA FM 94,9 MG" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ALVORADA FM 94,9 MG
+http://globalsrv.me:80/3361594327/5748234518/428124
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAN IPATINGA MG FM 102,3" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO JOVEM PAN IPATINGA MG FM 102,3
+http://globalsrv.me:80/3361594327/5748234518/428138
+#EXTINF:-1 tvg-id="" tvg-name="RADIO DA PAZ 105.9  SP" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO DA PAZ 105.9  SP
+http://globalsrv.me:80/3361594327/5748234518/384916
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JP PASSOS MG" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO JP PASSOS MG
+http://globalsrv.me:80/3361594327/5748234518/428141
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JP POÇOS DE CALDAS MG FM 90,9" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO JP POÇOS DE CALDAS MG FM 90,9
+http://globalsrv.me:80/3361594327/5748234518/428140
+#EXTINF:-1 tvg-id="" tvg-name="Band FM 93.9 - Tupa  SP" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Band FM 93.9 - Tupa  SP
+http://globalsrv.me:80/3361594327/5748234518/423018
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ANTENA CLASSICO" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ANTENA CLASSICO
+http://globalsrv.me:80/3361594327/5748234518/423025
+#EXTINF:-1 tvg-id="" tvg-name="RADIO PORTO ALEGRE RS FM 89,3" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO PORTO ALEGRE RS FM 89,3
+http://globalsrv.me:80/3361594327/5748234518/428125
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FM 100,3 BAHIA" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO FM 100,3 BAHIA
+http://globalsrv.me:80/3361594327/5748234518/423024
+#EXTINF:-1 tvg-id="" tvg-name="RADIO WEB SALVADOR" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO WEB SALVADOR
+http://globalsrv.me:80/3361594327/5748234518/428133
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ROCK 80" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ROCK 80
+http://globalsrv.me:80/3361594327/5748234518/428122
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Tribuna 99.1 FM" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO Tribuna 99.1 FM
+http://globalsrv.me:80/3361594327/5748234518/423020
+#EXTINF:-1 tvg-id="" tvg-name="RÁDIO JOVEM PAN SP" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RÁDIO JOVEM PAN SP
+http://globalsrv.me:80/3361594327/5748234518/401360
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CIDADE FM 94,5 RN" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO CIDADE FM 94,5 RN
+http://globalsrv.me:80/3361594327/5748234518/423014
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FM 94,3 MANAUS" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO FM 94,3 MANAUS
+http://globalsrv.me:80/3361594327/5748234518/422996
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ALTERNATIVA 104,9 FM RJ" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO ALTERNATIVA 104,9 FM RJ
+http://globalsrv.me:80/3361594327/5748234518/423003
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Bom Jesus Do Itabapoana  RJ" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio Gospel Bom Jesus Do Itabapoana  RJ
+http://globalsrv.me:80/3361594327/5748234518/396974
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Sertanejo" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio Sertanejo
+http://globalsrv.me:80/3361594327/5748234518/422988
+#EXTINF:-1 tvg-id="" tvg-name="RÁDIO Jornalistas de Brasília Web" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RÁDIO Jornalistas de Brasília Web
+http://globalsrv.me:80/3361594327/5748234518/423027
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Itatiaia Belo Horizonte / MG" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio Itatiaia Belo Horizonte / MG
+http://globalsrv.me:80/3361594327/5748234518/384915
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Jovem Pan - Passo Fundo" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio Jovem Pan - Passo Fundo
+http://globalsrv.me:80/3361594327/5748234518/422994
+#EXTINF:-1 tvg-id="" tvg-name="Rádio 01" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio 01
+http://globalsrv.me:80/3361594327/5748234518/422990
+#EXTINF:-1 tvg-id="" tvg-name="Rádio nova" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio nova
+http://globalsrv.me:80/3361594327/5748234518/422991
+#EXTINF:-1 tvg-id="" tvg-name="RÁDIO GOSPEL" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RÁDIO GOSPEL
+http://globalsrv.me:80/3361594327/5748234518/422992
+#EXTINF:-1 tvg-id="" tvg-name="Rádio LIVRE" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Rádio LIVRE
+http://globalsrv.me:80/3361594327/5748234518/437352
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAN" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO JOVEM PAN
+http://globalsrv.me:80/3361594327/5748234518/437353
+#EXTINF:-1 tvg-id="" tvg-name="RADIO PAGODE" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO PAGODE
+http://globalsrv.me:80/3361594327/5748234518/437354
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Aleluia 91.5 FM, Manaus" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO Aleluia 91.5 FM, Manaus
+http://globalsrv.me:80/3361594327/5748234518/437355
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BRASIL HITS" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO BRASIL HITS
+http://globalsrv.me:80/3361594327/5748234518/437356
+#EXTINF:-1 tvg-id="" tvg-name="Band FM 92.9 - Itajai (sertaneja, samba e pagode)" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Band FM 92.9 - Itajai (sertaneja, samba e pagode)
+http://globalsrv.me:80/3361594327/5748234518/565513
+#EXTINF:-1 tvg-id="" tvg-name="Cidade 91.7 FM, Florianopolis  SC - Brasil, Ecletica" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",Cidade 91.7 FM, Florianopolis  SC - Brasil, Ecletica
+http://globalsrv.me:80/3361594327/5748234518/565514
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Araras FM 107.7 - Araras  SP" tvg-logo="https://i.imgur.com/Icv2SnG.png" group-title="RÁDIOS",RADIO Araras FM 107.7 - Araras  SP
+http://globalsrv.me:80/3361594327/5748234518/565515
