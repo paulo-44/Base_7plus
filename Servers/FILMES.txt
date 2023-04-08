@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Krypton (2021)" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132202/posters/63d31a6d70f5d.jpg" group-title="FILMES | AÇÃO",Homem-Formiga e a Vespa: Quantumania (2023) DUBLADO
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132202/posters/63d31a6d70f5d.jpg" group-title="FILMES | 2023",Homem-Formiga e a Vespa: Quantumania (2023) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336c4d2040dcc562a39f67f62c247022685c30d1
-#EXTINF:-1 tvg-id="" tvg-name="Krypton (2021)" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/290290/posters/639a42c272a79.jpg" group-title="FILMES | AÇÃO",65: Ameaça Pré-Histórica (2023) DUBLADO
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/290290/posters/639a42c272a79.jpg" group-title="FILMES | 2023",65: Ameaça Pré-Histórica (2023) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/134845/posters/63d163c26f8ff.jpg" group-title="FILMES | 2023",Shazam! Fúria dos Deuses [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5
