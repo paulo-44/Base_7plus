@@ -5,3 +5,5 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336c4d2040dcc562a39
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/134845/posters/63d163c26f8ff.jpg" group-title="FILMES | 2023",Shazam! Fúria dos Deuses [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/157601/posters/63fbdb6ecac77.jpg" group-title="FILMES | 2023",Creed 3 [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:294b5c18f9d8e89ec223169cacce74bd18891555
