@@ -3,3 +3,9 @@
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B1103D90F32A83FE5724157014D8B94556E1742
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/820LbkHQrsCDBEGza371FxhI61N.jpg" group-title="SÉRIES | THE FLASH",The Flash 2ª Temporada (2015) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:298783737BAC096404E6A7129696246F68510E01
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/nHZfLDf4pc7sL3GFcgqpmV3hvgH.jpg" group-title="SÉRIES | THE FLASH",The Flash 3ª Temporada-Episódio 01 (2016) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E08C7CCE475005C97A4CA2AF231F39F94676BC5
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/nHZfLDf4pc7sL3GFcgqpmV3hvgH.jpg" group-title="SÉRIES | THE FLASH",The Flash 3ª Temporada Episódio 02 (2016) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EE2356A6A915EA1320F1B3CA0F2A53DE6FFAAABA
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/nHZfLDf4pc7sL3GFcgqpmV3hvgH.jpg" group-title="SÉRIES | THE FLASH",The Flash 3ª Temporada Episódio 03 (2016) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:797D1036FDF3363A80D1E7F1DDBA75B93873A845
