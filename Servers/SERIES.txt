@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="SÉRIES | THE FLASH",The Flash 1ª Temporada (2015) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B1103D90F32A83FE5724157014D8B94556E1742
