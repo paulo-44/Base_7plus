@@ -11,3 +11,5 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:294b5c18f9d8e89ec22
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg" group-title="FILMES | 2023",A Baleia (2023) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e80e251f128ad1dfc6d6ea23dfb35323b0c2837
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="FILMES | 2023",Tinnitus (2023) [COLOR lime]NACIONAL[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ed11e19f7e819f33e821351c3b5b91d6ca8cd8d
