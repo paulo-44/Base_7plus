@@ -1,30 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132202/posters/63d31a6d70f5d.jpg" group-title="FILMES | 2023",Homem-Formiga e a Vespa: Quantumania (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132202/posters/63d31a6d70f5d.jpg" group-title="FILMES | 2023",Homem-Formiga e a Vespa: Quantumania (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336c4d2040dcc562a39f67f62c247022685c30d1
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/290290/posters/639a42c272a79.jpg" group-title="FILMES | 2023",65: Ameaça Pré-Histórica (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/290290/posters/639a42c272a79.jpg" group-title="FILMES | 2023",65: Ameaça Pré-Histórica (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/134845/posters/63d163c26f8ff.jpg" group-title="FILMES | 2023",Shazam! Fúria dos Deuses (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/134845/posters/63d163c26f8ff.jpg" group-title="FILMES | 2023",Shazam! Fúria dos Deuses (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/157601/posters/63fbdb6ecac77.jpg" group-title="FILMES | 2023",Creed 3  (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/157601/posters/63fbdb6ecac77.jpg" group-title="FILMES | 2023",Creed 3  (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:294b5c18f9d8e89ec223169cacce74bd18891555
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/147729/posters/61e8893e07b5b.jpg" group-title="FILMES | 2023",Esquema de Risco – Operação Fortune (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/147729/posters/61e8893e07b5b.jpg" group-title="FILMES | 2023",Esquema de Risco – Operação Fortune (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg" group-title="FILMES | 2023",A Baleia (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg" group-title="FILMES | 2023",A Baleia (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e80e251f128ad1dfc6d6ea23dfb35323b0c2837
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="FILMES | 2023",Tinnitus (2023) [COLOR lime]NACIONAL[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ed11e19f7e819f33e821351c3b5b91d6ca8cd8d
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="FILMES | 2023",Pantera Negra 2: Wakanda para Sempre (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="FILMES | 2023",Pantera Negra 2: Wakanda para Sempre (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09ce13018624147ef343efab33d02debc28b3e92
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="FILMES | 2023",Meu Amigo Lutcha (2023) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="FILMES | 2023",Meu Amigo Lutcha (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:871665f4eaf98dfab65d018e894a12b547ddffe7
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/15XCSwlniUZQOW7vD6tPM5e30wr.jpg" group-title="FILMES | 2023",The Portable Door (2023) [COLOR lime]LEGENDADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:296aebdabf34c2b28946023fbdbda90bbd3e2ca7
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg" group-title="FILMES | 2022",A Queda (2022) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RVH5HAJHOWFLBOTZKZD6FCK4PTJ5JZ2S
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pB0UIEsN448Q6jykG1UtK0t8naX.jpg" group-title="FILMES | 2022",Príncipe Andrew: Banido (2022) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pB0UIEsN448Q6jykG1UtK0t8naX.jpg" group-title="FILMES | 2022",Príncipe Andrew: Banido (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52VWG2VRZ6ZD6W6DJIZTLJF525IG4ICW
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/lYNjTvQAnSYnIx8MC6e60f1I9L1.jpg" group-title="FILMES | 2022",M3GAN (2022) [COLOR lime]DUBLADO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/lYNjTvQAnSYnIx8MC6e60f1I9L1.jpg" group-title="FILMES | 2022",M3GAN (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PFEVVZRR4VDJJCNL7SPXYK3EEPU5KAI2
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="FILMES | 2022",Irmãos de Honra (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THB7FVEKQYOVYZRLW4UHOXEMAV4FOIOI
 
 
 
