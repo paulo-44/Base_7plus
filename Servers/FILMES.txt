@@ -21,8 +21,11 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:871665f4eaf98dfab65
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:296aebdabf34c2b28946023fbdbda90bbd3e2ca7
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg" group-title="FILMES | 2022",A Queda (2022) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RVH5HAJHOWFLBOTZKZD6FCK4PTJ5JZ2S
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pB0UIEsN448Q6jykG1UtK0t8naX.jpg" group-title="FILMES | 2022",Príncipe Andrew: Banido (2022) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52VWG2VRZ6ZD6W6DJIZTLJF525IG4ICW
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/lYNjTvQAnSYnIx8MC6e60f1I9L1.jpg" group-title="FILMES | 2022",M3GAN (2022) [COLOR lime]DUBLADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PFEVVZRR4VDJJCNL7SPXYK3EEPU5KAI2
 
-Para as melhores amigas Becky (Grace Caroline Currey) e Hunter (Virginia Gardner), a vida é sobre vencer medos e ultrapassar limites. A alpinista emocionalmente abalada, Becky, afogada em um mar de tristeza, vivendo semanas dolorosas após o incidente que a marcou para toda a vida, relutantemente decide enfrentar seus fantasmas quando sua amiga, outra alpinista experiente, a convence a embarcar em uma aventura de escalada de alto risco, até o topo de uma torre de TV abandonada. No entanto, depois de subir até o topo da torre de rádio remota e abandonada, elas se encontram sem saída.
 
 
 
