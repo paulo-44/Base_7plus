@@ -27,6 +27,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52VWG2VRZ6ZD6W6DJIZ
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PFEVVZRR4VDJJCNL7SPXYK3EEPU5KAI2
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="FILMES | 2022",Irmãos de Honra (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THB7FVEKQYOVYZRLW4UHOXEMAV4FOIOI
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://image.tmdb.org/t/p/original/zRq6O9mnEhYPobffAPVNPm59j93.jpg" group-title="FILMES | 2022",O Predador: A Caçada (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY
 
 
 
