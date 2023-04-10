@@ -13,6 +13,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e80e251f128ad1dfc6d6ea23dfb35323b0c2837
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="FILMES | 2023",Tinnitus (2023) [COLOR lime]NACIONAL[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ed11e19f7e819f33e821351c3b5b91d6ca8cd8d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg" group-title="FILMES | 2023",Duro de Atuar (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9094eb1d26ececa66aaa95fbc1f3d1ec8136a47a
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="FILMES | 2023",Pantera Negra 2: Wakanda para Sempre (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09ce13018624147ef343efab33d02debc28b3e92
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="FILMES | 2023",Meu Amigo Lutcha (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
