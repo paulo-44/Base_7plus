@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIES | WANDINHA 1ª TEMPORADA",Wandinha COMPLETA (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8fda4993a323f2c1045ed0a8332bc1887328ae0
+-------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg" group-title="SÉRIES | TULSA KING 1ª TEMPORADA",Tulsa King S01E01/02 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0369318e134d70a20d8407c36952f04befeb1e7c
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg" group-title="SÉRIES | TULSA KING 1ª TEMPORADA",Tulsa King S01E03 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
@@ -45,7 +48,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3cd5c64639adc79f8f
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E14 (2022) [COLOR lime]LEGENDADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd543dd0107f04ca1cd52ad3007e9eb19feff739
 -------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg" group-title="SÉRIES | LA BREA 1ª TEMPORADA",La Brea S01E01 (2021) COMPLETA [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg" group-title="SÉRIES | LA BREA 1ª TEMPORADA",La Brea COMPLETA (2021) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca18154ae48116443ec78334bdf7b07c6b917da5
 -------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E01 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
