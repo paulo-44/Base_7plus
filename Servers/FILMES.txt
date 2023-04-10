@@ -33,7 +33,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4J
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0774d553a354b53a0311cd766bbc0fadb9a70422
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="FILMES | 2023",Um Pacto de Amizade (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a7d712b842b46dc1d1b82e2de3aca2e69a330c
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/uC3qqSlXli8WRJroahhjIWNXu0q.jpg" group-title="FILMES | VÁRIOS",Kill Boksoon (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/uC3qqSlXli8WRJroahhjIWNXu0q.jpg" group-title="FILMES | 2023",Kill Boksoon (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec0a1672f61af8d43f802f42fceda7a32b334284
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="FILMES | 2023",Mistério em Paris (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec0a1672f61af8d43f802f42fceda7a32b334284
