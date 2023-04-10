@@ -71,9 +71,30 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44cefa3d3a690134386
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e47517b1a2d4c92d744210abd0afca656f2fd698
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEoMVCqFs5YtxeF6huRF3tvMwd.jpg" group-title="FILMES | VÁRIOS",Os Três Desejos da Cinderela (2021) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7e5b07ca8e4daf5cfd313cf707e6f01c8e42589
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="FILMES | 2023",Volte Sempre! (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a02476098cdc6f6d2d9a2eb58e73ecad5e684fb0
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="FILMES | 2023",Luther: O Cair da Noite (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b916d32391ce6800f9851aef3ea24400320a0dc0
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | 2023",A Jogada de Chang (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b985f0199c65df77aaf232a2f970dd2375673f5e
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/boZHbJZbYNZFIFZWQ6DGzq6BPs8.jpg" group-title="FILMES | VÁRIOS",Forasteiros Malditos (2019) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c92b35de35f33d41237cd057167dfebffe60b3f
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg" group-title="FILMES | 2022",O Mistério de Ozarks (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb126e981295359bf0c4c1a052e44ecc57c0ab2a
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg" group-title="FILMES | 2023",Detetive Knight: Independência (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c79dae320752b152f897fdfe9423980c680e22d4
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg" group-title="FILMES | 2022",Quebrando o Gelo (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db8239a8f1b82a5fa5a9bd40102fbf20d901bd1e
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9aqCXaokmigFwT3Td8O2edBq2A2.jpg" group-title="FILMES | 2023",Sayen (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f49a090f721ae1a310d3f8d37b0184d746b81b
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yFjL4xFc6uxrfxBuZLei6L268SM.jpg" group-title="FILMES | 2022",Perseguição nas Alturas (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b39bd43debb6d40a187ac02e87e2a022f9498fec
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg" group-title="FILMES | VÁRIOS",O Último Refúgio (2018) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48ce57e7c177e68c7a2d138621aa8de752ee2f73
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/hAUUVBGprFQXaHuhOFDMKELkH4W.jpg" group-title="FILMES | VÁRIOS",Destruição Final: O Último Refúgio (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc5bddb2e9e03ccb2dd18d38f6d35a40bec408b3
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/AaI4egyV9dCMzOYoumyLMZrmRPg.jpg" group-title="FILMES | 2022",Guerra Oculta (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21d202cfe19855c6337b4c35e5783c24431caa23
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="FILMES | 2023",Fantasma e CIA (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a71428d189fa8eaf6f39456ca1323564c3f6d86
 
