@@ -29,6 +29,12 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PFEVVZRR4VDJJCNL7SP
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THB7FVEKQYOVYZRLW4UHOXEMAV4FOIOI
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://image.tmdb.org/t/p/original/zRq6O9mnEhYPobffAPVNPm59j93.jpg" group-title="FILMES | 2022",O Predador: A Caçada (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/vyNzeV6FKmfsvuwR7e0LnUu1cmW.jpg" group-title="FILMES | VÁRIOS",Parto Forçado (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0774d553a354b53a0311cd766bbc0fadb9a70422
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="FILMES | 2023",Um Pacto de Amizade (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a7d712b842b46dc1d1b82e2de3aca2e69a330c
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg" tvg-fanart="https://www.themoviedb.org/t/p/original/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg" group-title="FILMES | 2023",Um Pacto de Amizade (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a7d712b842b46dc1d1b82e2de3aca2e69a330c
 
 
 
