@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/nW6K0GdzEv3faofvAaaZtReS0wi.jpg" group-title="FILMES | ANIMAÇÃO",Tromba Trem: O Filme (2022) [COLOR lime]NACIONAL[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9afb8f7b61c6abfeeee7fdf3150ca6f2ef8c4e5
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/2mRCD2Hn9eaeZszKc6AsFo0VAkM.jpg" group-title="FILMES | ANIMAÇÃO",Inspetor Aranha (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2fe52451d6d1f5671337cc7bd190db08799bf1c
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg" group-title="FILMES | ANIMAÇÃO",Batman e Superman: Batalha dos Super Filhos (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:254c466ac78093d1beb4bf59b4754fec8993e1e4
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="FILMES | ANIMAÇÃO",Legião dos Super-heróis (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:371f4fbcd416d371f820a93f07766540bb4c3c07
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg" group-title="FILMES | ANIMAÇÃO",One Piece Film: Red (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8defc1e681852c3d2b87251d36fa2b7906ed842c
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg" group-title="FILMES | ANIMAÇÃO",Batman: A Perdição Chegou a Gotham (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950a14de1bcc5e46d24fee6413aabdac7725ff0d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="FILMES | ANIMAÇÃO",Gato de Botas 2: O Último Pedido (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95aa315bccd3d7d57ff49ef43588a5c7d612eabe
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132202/posters/63d31a6d70f5d.jpg" group-title="FILMES | 2023",Homem-Formiga e a Vespa: Quantumania (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336c4d2040dcc562a39f67f62c247022685c30d1
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/290290/posters/639a42c272a79.jpg" group-title="FILMES | 2023",65: Ameaça Pré-Histórica (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
