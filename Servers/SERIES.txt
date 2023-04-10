@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E01 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41702171d270a7898912809f6aad8f66d57e1661
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E02 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a62b9c45067e62ce60560c613f6e500ac1658f8b
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E03 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7abb052a4349870affdecec453de6af1e086ed90
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E04 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0150487e962f81222dab1d44482e6676e1c0a90d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E05 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1335ea9066a6d66fb62d1eed1a3e1424707e6c5a
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E06 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb312f286fac019acee404a66fdbd7ee9061bea5
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E07 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77226110449341facd1c723613e906bde509f487
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E08 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41656a0227b4b2d2fb0a1bdaee7ffd47691f310
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E09 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cdc67c77d1c1027f4924f52d9026554353fa1e3
+-------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | O MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E01 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:850ef50945e7f01ea775bd6b0e3f7a8079d5c4ba
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | O MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E02 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
