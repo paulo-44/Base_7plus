@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/n9qC2hL61IcVYEGyRonx6qakJWw.jpg" group-title="FILMES | 2022",O Troll da Montanha (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="FILMES | 2023",Casamento Armado (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e37cc60bb2d4f69239138587616639ebf48f43cf
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/b9XVAP8AWQ30uRkKNTvmER8OVMa.jpg" group-title="FILMES | 2022",Super Quem? Heróis por Acidente (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a906540653bd1f66a2acd59485a97838cd4c3e7
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg" group-title="FILMES | VÁRIOS",Duna (2021) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3179901c4f92c830526bae984cbcabeb48d5fec
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" group-title="FILMES | VÁRIOS",Venom: Tempo de Carnificina (2021) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" group-title="FILMES | 2022",Matrix: Resurrections (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a728e8ecce149b80fea9282fa40ea065ed07748
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/vvDk3CLqeBrYfxVJwYEn9lWOYGI.jpg" group-title="FILMES | VÁRIOS",Eternos (2021) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21316bfe06ee472036cdda1e001e36dc6ec37ccc
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/AbSz0ygA92OpwiYDTBVFA8Cf4Aw.jpg" group-title="FILMES | 2022",Golpes de Vingança (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:339677c69d4e5b86f1504a3e57166adbe73b05c6
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg" group-title="FILMES | 2022",O Projeto Adam (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d47c7b63927c2a33ae4d17fdc444a477bfe00d8a
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ktBMme7oOHPi2oY8t02OifrrYC1.jpg" group-title="FILMES | 2022",Capitã Nova (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2dd54868e1bcfa19f40eb294208caa51dd573a2
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ACl5NQBHeEvypdVlaaE868bwFs.jpg" group-title="FILMES | 2022",Moonfall – Ameaça Lunar (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62438e7ecfe81c81c2ab1dc3b2937ff8c3d464a5
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/iYkzHd81ZsLQHa12oUhBVIS7ToY.jpg" group-title="FILMES | 2022",Guardiões do Tempo (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9e52039cadd7bf47d04e9f8e8b58a230456c558
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg" group-title="FILMES | 2022",Jurassic World: Domínio (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb51471312e4fa98c0ddeb8311da2aa9fb5c08f
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/egrrHqIIWRTDK0rwqU4AO0OT9i4.jpg" group-title="FILMES | ANIMAÇÃO",Lightyear (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cbb263b5edb517a3d267f2f4f6a34d0d9ef9a6b
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/AnxMPnOz5UFc5alSxy7LpdP52s.jpg" group-title="FILMES | 2023",Esquema de Risco – Operação Fortune (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a22bacec7ea9f7812fe908f0af8af32087c6518d
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/nW6K0GdzEv3faofvAaaZtReS0wi.jpg" group-title="FILMES | ANIMAÇÃO",Tromba Trem: O Filme (2022) [COLOR lime]NACIONAL[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9afb8f7b61c6abfeeee7fdf3150ca6f2ef8c4e5
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/2mRCD2Hn9eaeZszKc6AsFo0VAkM.jpg" group-title="FILMES | ANIMAÇÃO",Inspetor Aranha (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
