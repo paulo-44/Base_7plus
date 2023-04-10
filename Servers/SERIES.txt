@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E01 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:850ef50945e7f01ea775bd6b0e3f7a8079d5c4ba
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E02 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba54c89d54968472a62442d7438e720631193d27
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E03 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c269f2ff0f4504196d718ff7b34a5c0a1e8e7cd
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E04 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81154c847ae62a3555048db0d5c500992bbe0d5d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E05 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44fa01d0aad6b1ad23f0ef51056d2310a1abfa80
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg" group-title="SÉRIES | MANDALORIANO 3ª TEMPORADA",O Mandaloriano S03E06 (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e63761d30d4da545f50752e677a10e131367a1b
+-------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yzw5XYSZkfyIbLogHwMxvcqygTM.jpg" group-title="SÉRIES | MANDALORIANO 2ª TEMPORADA",O Mandaloriano S02E01 (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca195603f1f974eeca258e3af1af4e6d3eb5dc36
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yzw5XYSZkfyIbLogHwMxvcqygTM.jpg" group-title="SÉRIES | MANDALORIANO 2ª TEMPORADA",O Mandaloriano S02E02 (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
@@ -15,6 +28,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37d
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yzw5XYSZkfyIbLogHwMxvcqygTM.jpg" group-title="SÉRIES | MANDALORIANO 2ª TEMPORADA",O Mandaloriano S02E08 (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d
+-------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/xStWF3dPBlbzcvQbNeIqvFLmIoP.jpg" group-title="SÉRIES | MANDALORIANO 1ª TEMPORADA",O Mandaloriano S01E01 (2019) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/xStWF3dPBlbzcvQbNeIqvFLmIoP.jpg" group-title="SÉRIES | MANDALORIANO 1ª TEMPORADA",O Mandaloriano S01E02 (2019) [COLOR lime]DUAL ÁUDIO[/COLOR]
