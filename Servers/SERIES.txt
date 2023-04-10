@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E01 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f328a95adb21d4e3d522f83e447fb8ca7daf641d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E02 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36df0d1235827f13ce86d6c6a5c70dc0a34122f1
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E03 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75b5a391cee4155247588f9ea1ba309701b7435f
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E04 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddeb0bc1baf87688b6cdc2837dddb287c07bab89
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E05 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4d72a84ec1a8cc9aee805117aea32c4ff4811b6
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E06 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:582671705f2a11c132557706e4caad9e66803b83
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E07 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9510429cab6dfa1d9eeecec82600184cfbeb2cef
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E08 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdad2227b23e004e9721918a4c3a9962ef9786a9
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E09 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5090e56f1f308cab5b35fe310f8299cc5546fd37
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E10 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2ea36beae4daf8a3200b89b4322ec0ede58d03a
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E11 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bda39f9bcf3fb8a4efa14da0b364fed29ab02d2f
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E12 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96af62d8777b113d6d1bb29de2c4ea0fdc40cbf4
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E13 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3cd5c64639adc79f8fde2ef204e211e42eade19
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg" group-title="SÉRIES | LA BREA 2ª TEMPORADA",La Brea S01E14 (2022) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd543dd0107f04ca1cd52ad3007e9eb19feff739
+-------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg" group-title="SÉRIES | LA BREA 1ª TEMPORADA",La Brea S01E01 (2021) COMPLETA [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca18154ae48116443ec78334bdf7b07c6b917da5
+-------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E01 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41702171d270a7898912809f6aad8f66d57e1661
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aUQKIpZZ31KWbpdHMCmaV76u78T.jpg" group-title="SÉRIES | THE LAST OF US 1ª TEMPORADA",The Last of Us S01E02 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
