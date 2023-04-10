@@ -57,4 +57,23 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ca9124820fc4d6cbc0
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:605cbdd01b25466313d8847ff02995d384bd4741
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/94Gfu9vxUAVeL8EHc9toT9nGLkv.jpg" group-title="FILMES | 2023",Batem à Porta (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dff0f1948d0ee0dc69584291ec65480af4b2c0
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg" group-title="FILMES | 2023",O Rei das Sombras (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3c1f553ea40a57f54a63a75334c5c3f3d859191
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yka6u5dbx1vWoMrNIHHutluaepp.jpg" group-title="FILMES | 2023",O Som do Caos (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd8568112598b32bbb3d3303ec008263600dab4d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="FILMES | ANIMAÇÃO",A Elefanta do Mágico (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65eabf59a855fc9174e84ba0cd46f8adfb10b9bb
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg" group-title="FILMES | 2023",O Estrangulador de Boston (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0a5aaf24aeee75b1702e115c6fa266c74bfe50
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="FILMES | 2023",A Profecia do Mal (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44cefa3d3a690134386709fccf11e957de2eb568
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg" group-title="FILMES | 2022",Tempestade (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e47517b1a2d4c92d744210abd0afca656f2fd698
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wEoMVCqFs5YtxeF6huRF3tvMwd.jpg" group-title="FILMES | VÁRIOS",Os Três Desejos da Cinderela (2021) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7e5b07ca8e4daf5cfd313cf707e6f01c8e42589
+
+
+
+
+
 
