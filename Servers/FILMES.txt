@@ -33,10 +33,28 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4J
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0774d553a354b53a0311cd766bbc0fadb9a70422
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="FILMES | 2023",Um Pacto de Amizade (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a7d712b842b46dc1d1b82e2de3aca2e69a330c
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg" tvg-fanart="https://www.themoviedb.org/t/p/original/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg" group-title="FILMES | 2023",Um Pacto de Amizade (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a7d712b842b46dc1d1b82e2de3aca2e69a330c
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/uC3qqSlXli8WRJroahhjIWNXu0q.jpg" group-title="FILMES | VÁRIOS",Kill Boksoon (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec0a1672f61af8d43f802f42fceda7a32b334284
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="FILMES | 2023",Mistério em Paris (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec0a1672f61af8d43f802f42fceda7a32b334284
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="FILMES | 2023",Tetris (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2ddd7b9d5ac5ef0864bab49071d9e89137dc09b
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/37xwMszfSsl1PVjaFXvKeB0nETa.jpg" group-title="FILMES | 2022",Olhos Famintos: Renascimento (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ccf072f0ebfd502464a01e4bdf6143ec5e6971a
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/r6S1YciOhggxTgYQJlZHf4U5KWo.jpg" group-title="FILMES | 2023",Fé nas Alturas (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:352e71a463d9ec0b254558cd3e09cd0eef556e78
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/hr4yWDEJA5FGI6vWEDCP5Gllqtg.jpg" group-title="FILMES | VÁRIOS",Lua De Sangue (2021) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fe4924526d857df2713d690df3f530cb218c99c
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/AmfGIGm5SzcBynum9roCNSAzoyD.jpg" group-title="FILMES | ANIMAÇÃO",As Múmias e o Anel Perdido (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7676cf3e48b311c6d9398f0b1de08c543d7511c1
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/8HB6UlnxAHJBjtvsL5HYJb7BN8v.jpg" group-title="FILMES | VÁRIOS",Salvando Leningrado (2019) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5eaa7eaffac778a81a8a61caa9096a341fc8fe0
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="FILMES | 2023",Roubo pelos Ares (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd326ce8e6036426382b584fcbd7d36b21a01ec4
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg" group-title="FILMES | 2023",Vício Perfeito (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ca9124820fc4d6cbc035c00662c3500c0ff204c
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9p0uScG0xssIrANgcYLcDiNSLCK.jpg" group-title="FILMES | VÁRIOS",Os Piratas da Rua Debaixo (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:605cbdd01b25466313d8847ff02995d384bd4741
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/94Gfu9vxUAVeL8EHc9toT9nGLkv.jpg" group-title="FILMES | 2023",Batem à Porta (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dff0f1948d0ee0dc69584291ec65480af4b2c0
 
