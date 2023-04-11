@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E01-02-03 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E01-02-03 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d79e60f86e9be95fe1d5da8c33f29730e38957bd
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E04 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E04 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:415ee961b43b1541a6cfd949a966f35998e60342
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E05 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E05 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a96dfe00414fe10728318bbccec7bc5f624c398
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E06 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E06 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95d5b055c7bed3f11211cf8344f81bf15dceecfd
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E07 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E07 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85a6e79dd8ece95f190ceb667cff638e547d918f
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E08 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E08 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a4c95dd11a1bfa602e5165c0416c656415664a8
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E09 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E09 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07239a276037b7557dc2fe7bb146b02b855bc2ce
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E10 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E10 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e3e417f51acbf6fc6a854b51ef2f91b9b4de4f5
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E11 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E11 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d3eb9a8a3072f5c3f5cc65cd7a41e8e3c7199bd
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E12 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E12 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99049524d2f978bebd8ed1fc3bb7cbb92b71c635
 -------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg" group-title="SÉRIES | WANDINHA 1ª TEMPORADA",Wandinha COMPLETA (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
