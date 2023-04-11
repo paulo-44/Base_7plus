@@ -1,29 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E01 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c03ff0fc0b764aaafa8575fcff773f0c93fd816
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E02 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3ddf91aef78f4c991c9623ba19f5e55b1d1d574
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E03 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366cbbb1aa6957dd18e7e6f71e42a6f5d248b8a3
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E04 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a8cb1e2082e3593c40504716f23b76306ed7bf
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E05 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76a18858f1cdb0bc0b9d5630469720c25bc261af
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E06 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fb07609b619c16b95ec34e6de3e65944ee05e65
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E07 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13c427b2bb7cabfe0349782d663efcac2c31838f
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E08 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f5af8fafd6f6168020381b8209a1320c6176551
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E09 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6980ef86b6870dbe42a92f3451dd028576f251bb
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E10 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41cdc43e476cf9893a9679a8440c1f0274228fd3
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://i.postimg.cc/Hk3rDq2c/Brevemente1.png" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E11 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://i.postimg.cc/Hk3rDq2c/Brevemente1.png" group-title="SÉRIES | THE ARK 1ª TEMPORADA",The Ark S01E12 (2023) [COLOR lime]LEGENDADO[/COLOR]
-plugin://plugin.video.elementum/play?uri=
--------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E01-02-03 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d79e60f86e9be95fe1d5da8c33f29730e38957bd
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E04 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
