@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sH3U0DWNzTaSiC9Y395DubOhPdo.jpg" group-title="FILMES | 2023",Raquel 1:1 (2023) [COLOR lime]NACIONAL-BR[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb13d8c581ee9484c9d286cac4da370b9cfaa78e
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/n9qC2hL61IcVYEGyRonx6qakJWw.jpg" group-title="FILMES | 2022",O Troll da Montanha (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="FILMES | 2023",Casamento Armado (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
