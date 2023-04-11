@@ -47,8 +47,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8defc1e681852c3d2b8
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950a14de1bcc5e46d24fee6413aabdac7725ff0d
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="FILMES | ANIMAÇÃO",Gato de Botas 2: O Último Pedido (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95aa315bccd3d7d57ff49ef43588a5c7d612eabe
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132202/posters/63d31a6d70f5d.jpg" group-title="FILMES | 2023",Homem-Formiga e a Vespa: Quantumania (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336c4d2040dcc562a39f67f62c247022685c30d1
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/290290/posters/639a42c272a79.jpg" group-title="FILMES | 2023",65: Ameaça Pré-Histórica (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/134845/posters/63d163c26f8ff.jpg" group-title="FILMES | 2023",Shazam! Fúria dos Deuses (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
