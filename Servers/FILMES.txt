@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg" group-title="FILMES | VÁRIOS",Godzilla vs. Kong (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NXQNX3XJQJ7N7KZPTYE7RXYZFD5YXBNL
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/vKA3eycouaynI2yZfU1NeSpxGqa.jpg" group-title="FILMES | 2022",O Projeto Adam (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BCYRDYAPM4TTWYYOJ7TCRYEHZGFN43TL
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg" group-title="FILMES | 2022",Uncharted: Fora do Mapa (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/fUaoRndWmWuaV900ec4MK8I0Mms.jpg" group-title="FILMES | VÁRIOS",Calibre 9 (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74492a12a01d3e6c196146b75d296a70600807a
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6TIJrOL5HFcGDE0ZMqTtt0zmnuN.jpg" group-title="FILMES | VÁRIOS",As Crônicas do Medo 2 (2017) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d33220d0d8f0d7f8389941a61b58f5f16affb13e
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/mZBO9lcWAYEZ5F15xPQOQfA3Dm4.jpg" group-title="FILMES | 2023",Homem-Formiga e a Vespa: Quantumania R5 (2023) [COLOR lime]DUBLADO[/COLOR]
