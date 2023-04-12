@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/bwpay1NS14bSR7MaY1b2BsHcXgT.jpg" group-title="SÉRIES | A SOGRA QUE TE PARIU 2ª TEMPORADA",A Sogra Que Te Pariu 2ª Temporada Completa (2023) [COLOR lime]NACIONAL.BR[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ae21a6d125d81a4d0f3879e8e1050daf4c5dc7a
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/p5gdZUmXHEhapJBuSn7Dov650kl.jpg" group-title="SÉRIES | A SOGRA QUE TE PARIU 1ª TEMPORADA",A Sogra Que Te Pariu 1ª Temporada Completa (2022) [COLOR lime]NACIONAL.BR[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e07754da5adf0b174df6e8c850c57ecccaf1478
+-------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E01-02-03 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d79e60f86e9be95fe1d5da8c33f29730e38957bd
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg" group-title="SÉRIES | STAR WARS: ANDOR 1ª TEMPORADA",Star Wars: Andor S01E04 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
