@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6TIJrOL5HFcGDE0ZMqTtt0zmnuN.jpg" group-title="FILMES | VÁRIOS",As Crônicas do Medo 2 (2017) [COLOR lime]LEGENDADO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d33220d0d8f0d7f8389941a61b58f5f16affb13e
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/mZBO9lcWAYEZ5F15xPQOQfA3Dm4.jpg" group-title="FILMES | 2023",Homem-Formiga e a Vespa: Quantumania R5 (2023) [COLOR lime]DUBLADO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336C4D2040DCC562A39F67F62C247022685C30D1
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sH3U0DWNzTaSiC9Y395DubOhPdo.jpg" group-title="FILMES | 2023",Raquel 1:1 (2023) [COLOR lime]NACIONAL-BR[/COLOR]
