@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg" group-title="FILMES | 2023",Sete Reis Irão Cair (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd6f8da14bac1c5cd329145c13196ab977c6b447
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/fynvbvRZzkIWa2Q8h9Gg5w6FgzD.jpg" group-title="FILMES | 2023",O Amor dá Voltas (2023) [COLOR lime]NACIONAL-BR[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a034e558656e9f50f827d195bdfaf074607cc335
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/mqEDAkUpRSlc0lkwaXZekTUXClI.jpg" group-title="FILMES | 2023",Avatar: O Caminho da Água (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fec56aa2a72ed78603804d5d576e3f264a055f66
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg" group-title="FILMES | 2022",RRR: Revolta, Rebelião, Revolução (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
