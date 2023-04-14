@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/k94VAAXYDxRdVEGlZ3uDQtlsVTr.jpg" group-title="FILMES | VÁRIOS",Ghostbusters (2016) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c290c637ecfa5b85bac2e63bc35f61fe83183dc9
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg" group-title="FILMES | VÁRIOS",Mortal (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fda5121e58d1585dd927fbe6e08885e4b68353e6
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg" group-title="FILMES | 2023",Sete Reis Irão Cair (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
