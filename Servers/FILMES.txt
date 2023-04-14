@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg" group-title="FILMES | 2022",RRR: Revolta, Rebelião, Revolução (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de9e2bea4ac0e4f16771f86131d0dff3a00b1e34
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg" group-title="FILMES | VÁRIOS",Godzilla vs. Kong (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NXQNX3XJQJ7N7KZPTYE7RXYZFD5YXBNL
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/vKA3eycouaynI2yZfU1NeSpxGqa.jpg" group-title="FILMES | 2022",O Projeto Adam (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BCYRDYAPM4TTWYYOJ7TCRYEHZGFN43TL
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg" group-title="FILMES | 2022",Uncharted: Fora do Mapa (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
