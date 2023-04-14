@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Vtv Hd" tvg-logo="https://rochagalaxia.live/logos/vtv250.png" group-title="©️ CANAIS | URUGUAI",Vtv Hd
 http://p2flix.fun:80/3730084021/9025110457/119310
 #EXTINF:-1 tvg-id="" tvg-name="Vtv + Hd" tvg-logo="https://rochagalaxia.live/logos/vtv+250.png" group-title="©️ CANAIS | URUGUAI",Vtv + Hd
