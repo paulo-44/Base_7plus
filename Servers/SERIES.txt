@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h3b6n1sSmvDjvM7DMYS0FAA7tNf.jpg" group-title="SÉRIES | WILLOW 1ª TEMPORADA",Willow S01E01-02 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be7465e93f2b5a7f9f7e9f61ab2e0ea35ba025be
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h3b6n1sSmvDjvM7DMYS0FAA7tNf.jpg" group-title="SÉRIES | WILLOW 1ª TEMPORADA",Willow S01E03 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3821bbf92d44436b82fd1100264d25bfb4e84a7
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h3b6n1sSmvDjvM7DMYS0FAA7tNf.jpg" group-title="SÉRIES | WILLOW 1ª TEMPORADA",Willow S01E04 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97c78b93cff24fcd6e6ef760fc15b4e3556cade5
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h3b6n1sSmvDjvM7DMYS0FAA7tNf.jpg" group-title="SÉRIES | WILLOW 1ª TEMPORADA",Willow S01E05 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d9a2e3b1e10d426a3d7a881831fc4f3080f3a6d
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h3b6n1sSmvDjvM7DMYS0FAA7tNf.jpg" group-title="SÉRIES | WILLOW 1ª TEMPORADA",Willow S01E06 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffe6693b44a47397d1f09f0622b5c8c6ed5b6826
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h3b6n1sSmvDjvM7DMYS0FAA7tNf.jpg" group-title="SÉRIES | WILLOW 1ª TEMPORADA",Willow S01E07 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9789f617dc0acfc4e4a8197025e419c65172b99a
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/h3b6n1sSmvDjvM7DMYS0FAA7tNf.jpg" group-title="SÉRIES | WILLOW 1ª TEMPORADA",Willow S01E08 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0159472c5d709e14d74c0b6153010f9b33df3482
+-------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg" group-title="SÉRIES | MULHER-HULK 1ª TEMPORADA",Mulher-Hulk S01E01 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e241b2a8f22e6de274252e2d281d2f1d73853e4
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg" group-title="SÉRIES | MULHER-HULK 1ª TEMPORADA",Mulher-Hulk S01E02 (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
