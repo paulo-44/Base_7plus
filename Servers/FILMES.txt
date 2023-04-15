@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/p7t66z5zQnSmn1ezTdHm0PQmf5q.jpg" group-title="FILMES | 2022",A Fera (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e73a542525a93ae63ce59f535de5cd6d915e980
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg" group-title="FILMES | 2022",Esquadrão Secreto (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1c9216a4db4c8a75974dd40a64bec8bee6e8ad1
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/BWHoAAcKnGtowRXju2c2RBrT0m.jpg" group-title="FILMES | 2022",Os Fabelmans (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfd05289538794397b77259a16f4336585a65602
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="FILMES | 2023",Rainhas em Fuga (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
