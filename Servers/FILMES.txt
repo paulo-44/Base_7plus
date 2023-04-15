@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg" group-title="FILMES | VÁRIOS",TESTE (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8R0pYjDdOqiG4m
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/BWHoAAcKnGtowRXju2c2RBrT0m.jpg" group-title="FILMES | 2022",Os Fabelmans (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfd05289538794397b77259a16f4336585a65602
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="FILMES | 2023",Rainhas em Fuga (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
