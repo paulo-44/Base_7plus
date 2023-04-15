@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="FILMES | 2023",Rainhas em Fuga (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94fe03f6a56e8d0f9175946287e605756979a68c
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/osawgmumorADjtHzPVqBiZq1uBy.jpg" group-title="FILMES | 2023",Assombrosas (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd450e3f8e0be28cb34a619339834bc02db80a97
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg" group-title="FILMES | 2023",Corrosão (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e6ec17c3f7670822408b2dc1c9697cee9f63831
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/k94VAAXYDxRdVEGlZ3uDQtlsVTr.jpg" group-title="FILMES | VÁRIOS",Ghostbusters (2016) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c290c637ecfa5b85bac2e63bc35f61fe83183dc9
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg" group-title="FILMES | VÁRIOS",Mortal (2020) [COLOR lime]DUAL ÁUDIO[/COLOR]
