@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/znrMRCeim6z8BVdCh9NdBuLFxi2.jpg" group-title="FILMES | 2022",Mar em Chamas (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d978b02728e007c315fab84e697718278b869519
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/p7t66z5zQnSmn1ezTdHm0PQmf5q.jpg" group-title="FILMES | 2022",A Fera (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e73a542525a93ae63ce59f535de5cd6d915e980
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg" group-title="FILMES | 2022",Esquadrão Secreto (2022) [COLOR lime]DUAL ÁUDIO[/COLOR]
