@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-id=""  tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2014/12/krypton_art.jpg" group-title="MENU", Última Atualização: 00/00 - 00:43
-Krypton.TV
-#EXTINF:-1  tvg-id=""  tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2014/12/krypton_art.jpg" group-title="MENU",  Todos os canais SEM TRAVAS 24hs 
-Krypton.TV
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/5KL3ewJAgjoXrThUBJfQadGq6B.jpg" group-title="FILMES | 2023", Amor em Tempos de Polarização (2023) [COLOR lime]DUAL ÁUDIO[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ae1aa5e381feac550d5acad2dd2ce54ba787aec
