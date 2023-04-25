@@ -5769,3 +5769,185 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@Krypt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/42793
 #EXTINF:-1 tvg-id="" tvg-name="BR: Big Brother Portugal" tvg-logo="https://i.imgur.com/PEkJeqk.png" group-title="BRASIL",BR: Big Brother Portugal
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/42792
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡XXX: +18ﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="XXX ADULTOS",☆彡☆ﾐ☆彡XXX: +18ﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55555
+#EXTINF:-1 tvg-id="HOT" tvg-name="|ADULT| HOT ᴴᴰ" tvg-logo="https://i.imgur.com/cuUrD2t.jpg" group-title="XXX ADULTOS",|ADULT| HOT ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55554
+#EXTINF:-1 tvg-id="hot.man.pt" tvg-name="|ADULT| HOT Porn" tvg-logo="https://i.imgur.com/30FRNzS.jpg" group-title="XXX ADULTOS",|ADULT| HOT Porn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55553
+#EXTINF:-1 tvg-id="hot.taboo.pt" tvg-name="|ADULT| HOT TABOO" tvg-logo="https://i.imgur.com/jaMiDE8.jpg" group-title="XXX ADULTOS",|ADULT| HOT TABOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55552
+#EXTINF:-1 tvg-id="Venus" tvg-name="|ADULT| VENUS" tvg-logo="https://i.imgur.com/MThRZhN.jpg" group-title="XXX ADULTOS",|ADULT| VENUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55551
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="|ADULT| PLAYBOY TV" tvg-logo="https://i.imgur.com/IW1NEfc.png" group-title="XXX ADULTOS",|ADULT| PLAYBOY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55550
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="|ADULT| Playboy Europe HD" tvg-logo="https://i.imgur.com/IW1NEfc.png" group-title="XXX ADULTOS",|ADULT| Playboy Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55549
+#EXTINF:-1 tvg-id="penthouse.gold.pt" tvg-name="|ADULT| Penthouse Gold HD" tvg-logo="https://i.imgur.com/VkCSN5e.png" group-title="XXX ADULTOS",|ADULT| Penthouse Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55548
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="|ADULT| Sexy HOT*" tvg-logo="https://i.imgur.com/gFeNVIM.png" group-title="XXX ADULTOS",|ADULT| Sexy HOT*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55547
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CASA DAS BRASILEIRINHAS*" tvg-logo="https://i.imgur.com/XDBxkuU.png" group-title="XXX ADULTOS",|ADULT| CASA DAS BRASILEIRINHAS*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55546
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BRASILEIRINHAS CLÁSSICAS*" tvg-logo="https://i.imgur.com/DVHvFZd.jpg" group-title="XXX ADULTOS",|ADULT| BRASILEIRINHAS CLÁSSICAS*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55545
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CINE ADULTO*" tvg-logo="https://i.imgur.com/kALsxcp.png" group-title="XXX ADULTOS",|ADULT| CINE ADULTO*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55543
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CINE ADULTO 24H*" tvg-logo="https://i.imgur.com/kALsxcp.png" group-title="XXX ADULTOS",|ADULT| CINE ADULTO 24H*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55542
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hustler HD" tvg-logo="https://i.imgur.com/UtyaJrC.png" group-title="XXX ADULTOS",|ADULT| Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55541
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hustler TV" tvg-logo="https://i.imgur.com/U63nfkp.png" group-title="XXX ADULTOS",|ADULT| Hustler TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55540
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blue Hustler Europe" tvg-logo="https://i.imgur.com/7UiSMe2.png" group-title="XXX ADULTOS",|ADULT| Blue Hustler Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55539
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BRAZZERS HD" tvg-logo="https://i.imgur.com/53DmQ9k.png" group-title="XXX ADULTOS",|ADULT| BRAZZERS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55538
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Brazzers TV Europe" tvg-logo="https://i.imgur.com/Xmkz9cl.png" group-title="XXX ADULTOS",|ADULT| Brazzers TV Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55537
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Redlight HD" tvg-logo="https://i.imgur.com/aTGEaVI.png" group-title="XXX ADULTOS",|ADULT| Redlight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55536
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Prıvate TV HD" tvg-logo="https://i.imgur.com/IcdKN3h.png" group-title="XXX ADULTOS",|ADULT| Prıvate TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55535
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dorcel HD" tvg-logo="https://i.imgur.com/7ssnUR1.png" group-title="XXX ADULTOS",|ADULT| Dorcel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55534
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Erox HD" tvg-logo="https://i.imgur.com/N5qchoe.png" group-title="XXX ADULTOS",|ADULT| Erox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55533
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Meiden Van Holland Hard" tvg-logo="https://i.imgur.com/RcTw5sa.png" group-title="XXX ADULTOS",|ADULT| Meiden Van Holland Hard
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55532
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Evil Angel" tvg-logo="https://i.imgur.com/XVkkPyu.jpg" group-title="XXX ADULTOS",|ADULT| Evil Angel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55531
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dorcel XXX HD" tvg-logo="https://i.imgur.com/kQbTgEj.png" group-title="XXX ADULTOS",|ADULT| Dorcel XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55530
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Erox XXX HD" tvg-logo="https://i.imgur.com/JlseTBm.png" group-title="XXX ADULTOS",|ADULT| Erox XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55529
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Penthouse Quickies HD" tvg-logo="https://i.imgur.com/JNliKpw.png" group-title="XXX ADULTOS",|ADULT| Penthouse Quickies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55528
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot Pleasure" tvg-logo="https://i.imgur.com/wRye3s5.jpg" group-title="XXX ADULTOS",|ADULT| Hot Pleasure
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55527
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXTREME" tvg-logo="https://i.imgur.com/EUdGUc7.png" group-title="XXX ADULTOS",|ADULT| SEXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55526
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot XXL HD" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Hot XXL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55525
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Super One HD" tvg-logo="https://i.imgur.com/JbTNsW4.png" group-title="XXX ADULTOS",|ADULT| Super One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55524
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIXEN HD" tvg-logo="https://i.imgur.com/MJZXVlp.png" group-title="XXX ADULTOS",|ADULT| VIXEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55523
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid Red HD" tvg-logo="https://i.imgur.com/UOlnsWk.png" group-title="XXX ADULTOS",|ADULT| Vivid Red HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55522
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid TV Europe" tvg-logo="https://i.imgur.com/UkE3OuP.png" group-title="XXX ADULTOS",|ADULT| Vivid TV Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55521
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XXL" tvg-logo="https://i.imgur.com/v1VION3.png" group-title="XXX ADULTOS",|ADULT| XXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55520
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT|  PERVMOM HD" tvg-logo="https://i.imgur.com/KGRmjQO.png" group-title="XXX ADULTOS",|ADULT|  PERVMOM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55519
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DUSK!" tvg-logo="https://i.imgur.com/IrhfPyn.png" group-title="XXX ADULTOS",|ADULT| DUSK!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55518
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Extreme" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Extreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55517
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| A3 Bikini TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| A3 Bikini TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55516
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Taboo" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Taboo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55515
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playhouse" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Playhouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55514
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Candyman" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Candyman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55513
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Babes TV HD" tvg-logo="https://i.imgur.com/6KfAVWX.png" group-title="XXX ADULTOS",|ADULT| Babes TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55512
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY Plus HD" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-plus-bg.png" group-title="XXX ADULTOS",|ADULT| XY Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55511
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY Max HD" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-max-uk.png" group-title="XXX ADULTOS",|ADULT| XY Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55510
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY Mix HD" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-mix-uk.png" group-title="XXX ADULTOS",|ADULT| XY Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55509
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Passie XXX" tvg-logo="https://i.imgur.com/LQuARmZ.jpg" group-title="XXX ADULTOS",|ADULT| Passie XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55508
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Passion XXX" tvg-logo="https://i.imgur.com/HVj7Qcd.png" group-title="XXX ADULTOS",|ADULT| Passion XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55507
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Reality Kings TV" tvg-logo="https://i.imgur.com/q3j206N.png" group-title="XXX ADULTOS",|ADULT| Reality Kings TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55506
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic" tvg-logo="https://i.imgur.com/0SS36Dw.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55505
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 2" tvg-logo="https://i.imgur.com/G2tyIqN.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55504
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 3" tvg-logo="https://i.imgur.com/6csLqc1.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55503
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 4" tvg-logo="https://i.imgur.com/NDWtAuo.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55502
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 5" tvg-logo="https://i.imgur.com/VQXrcky.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55501
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 6" tvg-logo="https://i.imgur.com/QuGxak4.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55500
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 7" tvg-logo="https://i.imgur.com/SVEsBuH.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55499
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 8" tvg-logo="https://i.imgur.com/DYnR3xa.png" group-title="XXX ADULTOS",|ADULT| Pink Erotic 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55498
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Шалун TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Шалун TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55497
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LUST PUR" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| LUST PUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55496
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLACK TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| BLACK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55495
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK O TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| PINK O TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55494
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| O la la TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| O la la TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55493
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| French Lover TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| French Lover TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55492
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Secret Circle TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Secret Circle TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55491
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Exxxotica TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Exxxotica TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55490
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Sex Prive" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Sex Prive
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55489
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Jasmin TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Jasmin TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55488
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Bang U" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Bang U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55487
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEX ATION HD" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| SEX ATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55486
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Oldtimer" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Oldtimer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55485
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Extasy HD" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Extasy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55484
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Net XX" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Net XX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55483
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Milf TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Milf TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55482
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Red XXX" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Red XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55481
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Lesbian Affair" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Lesbian Affair
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55480
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Emanuelle" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Emanuelle
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55479
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SHELK" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| SHELK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55478
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pinko Club" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Pinko Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55477
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Cent & Cento" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Cent & Cento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55476
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Free X TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Free X TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55475
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Free X TV 2" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Free X TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55474
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dream Porn" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Dream Porn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55473
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Balkan Erotic" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Balkan Erotic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55472
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Beate-Uhse.TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Beate-Uhse.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55471
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X-MO" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| X-MO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55470
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ALBA" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| ALBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55469
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Erox" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Erox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55468
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pure Babes TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Pure Babes TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55467
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Naughty TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Naughty TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55466
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Legal TV" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| Legal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55465
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ОХ-АХ HD" tvg-logo="https://i.imgur.com/Bbq8WQu.png" group-title="XXX ADULTOS",|ADULT| ОХ-АХ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://powert4all.xyz:8080/alvaroMoreira/KDFu3ErtPM/55464
