@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 type="video" tvg-id="RTP 1 FHD" tvg-name="RTP 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/62/RTP1HD.png/550px-RTP1HD.png" group-title="PT | PORTUGAL",RTP 1 FHD
-http://painel.neo.bip7plus.top/video.php?acesso=6eff9a4c84499b973bcaf31b0d3ae8eb&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=6eff9a4c84499b973bcaf31b0d3ae8eb&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="RTP 1 HD ᴴᵉᵛᶜ" tvg-name="RTP 1 HD ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/62/RTP1HD.png/550px-RTP1HD.png" group-title="PT | PORTUGAL",RTP 1 HD ᴴᵉᵛᶜ
-http://painel.neo.bip7plus.top/video.php?acesso=c7fee39cbddd2b6ff95ffd2a969c8fab&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=c7fee39cbddd2b6ff95ffd2a969c8fab&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/550px-RTP1_-_Logo_2016.svg.png" group-title="PT | PORTUGAL",RTP 1
-http://painel.neo.bip7plus.top/video.php?acesso=bc979194091efc0748a8402b26e7f897&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=bc979194091efc0748a8402b26e7f897&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="RTP 2 FHD" tvg-name="RTP 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RTP2_logo_2016.png/550px-RTP2_logo_2016.png" group-title="PT | PORTUGAL",RTP 2 FHD
-http://painel.neo.bip7plus.top/video.php?acesso=09a5933eab364fc3793c4c6833371fd2&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=09a5933eab364fc3793c4c6833371fd2&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RTP2_logo_2016.png/550px-RTP2_logo_2016.png" group-title="PT | PORTUGAL",RTP 2
-http://painel.neo.bip7plus.top/video.php?acesso=b2452256d3666f77b23e5658a6bd7134&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=b2452256d3666f77b23e5658a6bd7134&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="RTP 3 HD" tvg-name="RTP 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/550px-Rtp3.png" group-title="PT | PORTUGAL",RTP 3 HD
-http://painel.neo.bip7plus.top/video.php?acesso=14c4df8c50a746c3a366d03bbc0a7507&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=14c4df8c50a746c3a366d03bbc0a7507&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/550px-Rtp3.png" group-title="PT | PORTUGAL",RTP 3
-http://painel.neo.bip7plus.top/video.php?acesso=d3c97302fb672309bf7f3769f387ffc2&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=d3c97302fb672309bf7f3769f387ffc2&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="SIC FHD" tvg-name="SIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logo_SIC_2018.png/400px-Logo_SIC_2018.png" group-title="PT | PORTUGAL",SIC FHD
-http://painel.neo.bip7plus.top/video.php?acesso=9830764b3bfc41f161d6cfb538eb6864&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=9830764b3bfc41f161d6cfb538eb6864&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="SIC HD" tvg-name="SIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logo_SIC_2018.png/400px-Logo_SIC_2018.png" group-title="PT | PORTUGAL",SIC HD
-http://painel.neo.bip7plus.top/video.php?acesso=28c891c65ff2897ef5a2f7129f8c136c&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=28c891c65ff2897ef5a2f7129f8c136c&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="SIC" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logo_SIC_2018.png/400px-Logo_SIC_2018.png" group-title="PT | PORTUGAL",SIC
-http://painel.neo.bip7plus.top/video.php?acesso=8cd3ac70db7ac318cf9a0e01333940a4&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=8cd3ac70db7ac318cf9a0e01333940a4&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="TVI FHD" tvg-name="TVI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/LogoTVI2017.png" group-title="PT | PORTUGAL",TVI FHD
-http://painel.neo.bip7plus.top/video.php?acesso=161424de27bf11595138845076a7bb37&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=161424de27bf11595138845076a7bb37&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="TVI HD" tvg-name="TVI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/LogoTVI2017.png" group-title="PT | PORTUGAL",TVI HD
-http://painel.neo.bip7plus.top/video.php?acesso=534b01e791d0f0a04936a37f8dc06918&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=534b01e791d0f0a04936a37f8dc06918&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="TVI" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/LogoTVI2017.png" group-title="PT | PORTUGAL",TVI
-http://painel.neo.bip7plus.top/video.php?acesso=c452921331e3bc580fe768285811bce9&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=c452921331e3bc580fe768285811bce9&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="SIC NOTICIAS FHD" tvg-name="SIC NOTICIAS FHD" tvg-logo="https://i.imgur.com/dLAUNTO.png" group-title="PT | PORTUGAL",SIC NOTICIAS FHD
-http://painel.neo.bip7plus.top/video.php?acesso=c59e1e6360540a3cc4c420f9a5bf04ad&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=c59e1e6360540a3cc4c420f9a5bf04ad&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="SIC NOTICIAS" tvg-name="SIC NOTICIAS" tvg-logo="https://i.imgur.com/dLAUNTO.png" group-title="PT | PORTUGAL",SIC NOTICIAS
-http://painel.neo.bip7plus.top/video.php?acesso=4ffac9e008257229aaf85eedd089efc0&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=4ffac9e008257229aaf85eedd089efc0&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="CMTV FHD" tvg-name="CMTV FHD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CMTVHD.png" group-title="PT | PORTUGAL",CMTV FHD
-http://painel.neo.bip7plus.top/video.php?acesso=54faad72af77f41178a45664fe6d8268&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=54faad72af77f41178a45664fe6d8268&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CMTVHD.png" group-title="PT | PORTUGAL",CMTV
-http://painel.neo.bip7plus.top/video.php?acesso=e9c4b0a5ca06da0f44d2daf05d1b4970&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=e9c4b0a5ca06da0f44d2daf05d1b4970&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="CNN PORTUGAL FHD" tvg-name="CNN PORTUGAL FHD" tvg-logo="https://i.imgur.com/ZRP84DG.jpg" group-title="PT | PORTUGAL",CNN PORTUGAL FHD
-http://painel.neo.bip7plus.top/video.php?acesso=7f1791e0b54de19d7d9d00d0f8d7fc56&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=7f1791e0b54de19d7d9d00d0f8d7fc56&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="CNN PORTUGAL " tvg-name="CNN PORTUGAL " tvg-logo="https://i.imgur.com/ZRP84DG.jpg" group-title="PT | PORTUGAL",CNN PORTUGAL 
-http://painel.neo.bip7plus.top/video.php?acesso=42e240c33fdb745a7e4d64d5f93d3dfe&usuario=287ba36a5829abd397119c8983dbc675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=42e240c33fdb745a7e4d64d5f93d3dfe&usuario=287ba36a5829abd397119c8983dbc675
