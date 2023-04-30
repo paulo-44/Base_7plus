@@ -29,9 +29,9 @@ http://painel.neo.bip7plus.top/video.php?acesso=c452921331e3bc580fe768285811bce9
 http://painel.neo.bip7plus.top/video.php?acesso=c59e1e6360540a3cc4c420f9a5bf04ad&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="SIC NOTICIAS" tvg-name="SIC NOTICIAS" tvg-logo="https://i.imgur.com/dLAUNTO.png" group-title="PT | PORTUGAL",SIC NOTICIAS
 http://painel.neo.bip7plus.top/video.php?acesso=4ffac9e008257229aaf85eedd089efc0&usuario=287ba36a5829abd397119c8983dbc675
-#EXTINF:-1 type="video" tvg-id="CMTV FHD" tvg-name="CMTV FHD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CMTVHD.png" group-title="PT | PORTUGAL",CMTV FHD
+#EXTINF:-1 type="video" tvg-id="CMTV FHD" tvg-name="CMTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CMTV.jpg/500px-CMTV.jpg" group-title="PT | PORTUGAL",CMTV FHD
 http://painel.neo.bip7plus.top/video.php?acesso=54faad72af77f41178a45664fe6d8268&usuario=287ba36a5829abd397119c8983dbc675
-#EXTINF:-1 type="video" tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CMTVHD.png" group-title="PT | PORTUGAL",CMTV
+#EXTINF:-1 type="video" tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CMTV.jpg/500px-CMTV.jpg" group-title="PT | PORTUGAL",CMTV
 http://painel.neo.bip7plus.top/video.php?acesso=e9c4b0a5ca06da0f44d2daf05d1b4970&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="CNN PORTUGAL FHD" tvg-name="CNN PORTUGAL FHD" tvg-logo="https://i.imgur.com/ZRP84DG.jpg" group-title="PT | PORTUGAL",CNN PORTUGAL FHD
 http://painel.neo.bip7plus.top/video.php?acesso=7f1791e0b54de19d7d9d00d0f8d7fc56&usuario=287ba36a5829abd397119c8983dbc675
@@ -47,3 +47,9 @@ http://painel.neo.bip7plus.top/video.php?acesso=3a544964ca10085ff5289ee689bc9a89
 http://painel.neo.bip7plus.top/video.php?acesso=6cf66be294c4f554ff98d76480171a77&usuario=287ba36a5829abd397119c8983dbc675
 #EXTINF:-1 type="video" tvg-id="SPORT TV+ " tvg-name="SPORT TV+ " tvg-logo="https://i.imgur.com/8u1y4s4.png" group-title="PT | PORTUGAL",SPORT TV+ 
 http://painel.neo.bip7plus.top/video.php?acesso=dfffc9c12933023cc05088c06a1bdc4a&usuario=287ba36a5829abd397119c8983dbc675
+#EXTINF:-1 type="video" tvg-id="SPORT TV 1 FHD" tvg-name="SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/ZhpZMUC.png/500px-CMTV.jpg" group-title="PT | PORTUGAL",SPORT TV 1 FHD
+http://painel.neo.bip7plus.top/video.php?acesso=d2c80e7fc82079aaa4378bd5c0ec9b75&usuario=287ba36a5829abd397119c8983dbc675
+#EXTINF:-1 type="video" tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/ZhpZMUC.png/500px-CMTV.jpg" group-title="PT | PORTUGAL",SPORT TV 1 HD
+http://painel.neo.bip7plus.top/video.php?acesso=c3da9f57564ce72feb1b505c184eef02&usuario=287ba36a5829abd397119c8983dbc675
+#EXTINF:-1 type="video" tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/650px-Logo_SportTV.svg.png" group-title="PT | PORTUGAL",SPORT TV 1
+http://painel.neo.bip7plus.top/video.php?acesso=55237d342884a6b52594ba6f4eb6609b&usuario=287ba36a5829abd397119c8983dbc675
