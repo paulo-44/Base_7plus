@@ -24,8 +24,7 @@ plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gdzOmQWa4v
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1Dqb99z92pf1y4
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/m3ZNSvplELOkVZKPXElMwdapIr4.jpg" group-title="FILMES | 2023", Sem Rastro (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player ?url=https://streamtape.com/e/GJ98mYZYe1t11eY
-
------------------------------------FICÇÃO E FANTASIA----------------------------------------
+---------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg" group-title="FILMES | FICÇÃO E FANTASIA", Godzilla vs. Kong (2021) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player ?url=https://streamtape.com/e/yjjKGAr7A3U1bRb
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4TJV49ZbiZge0RK1VWesmm40qso.jpg" group-title="FILMES | FICÇÃO E FANTASIA", Impacto Profundo (1998) [COLOR lime]Dublado[/COLOR]
