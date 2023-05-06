@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg" group-title="FILMES | FICÇÃO E FANTASIA", Godzilla vs. Kong (2021) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player ?url=https://streamtape.com/e/yjjKGAr7A3U1bRb
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4TJV49ZbiZge0RK1VWesmm40qso.jpg" group-title="FILMES | FICÇÃO E FANTASIA", Impacto Profundo (1998) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player ?url=https://streamtape.com/e/KzD0kxd1YqU06rM
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/AeTqUixVRlB0oS6JVgjCxLGvwls.jpg" group-title="FILMES | FICÇÃO E FANTASIA", O Dia Depois de Amanhã (2004) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player ?url=https://streamtape.com/e/9l7Z9dk7KrFaXZd
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="FILMES | 2023", Pânico 6 (2023) [COLOR lime]Dublado[/COLOR]
