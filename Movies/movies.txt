@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="FILMES | 2023", Avatar: O Caminho da Água (2023) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/AwpaMW7xqlIXV0e
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="FILMES | 2023", Assassin Club (2023) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/MZMMMyeby0u0VZ
