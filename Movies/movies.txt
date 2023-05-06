@@ -30,6 +30,9 @@ plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/GJ98mYZYe1
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/5v0gavbhmj4w
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/cOra7dxUEMHSgAbE6ucRrKPjZn4.jpg" group-title="FILMES | AÇÃO", Jack Reacher (2012) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/wa5xmbl3eyu0
+------------------------------------------FILMES | DRAMA----------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg" group-title="FILMES | DRAMA", A menina que acredita em milagres (2021) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/0d37tdqd9nvp
 ------------------------------------------FICÇÃO E FANTASIA----------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg" group-title="FILMES | FICÇÃO E FANTASIA", Godzilla vs. Kong (2021) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yjjKGAr7A3U1bRb
