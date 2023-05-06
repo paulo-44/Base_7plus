@@ -1,30 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | 2023", Dungeons & Dragons: Honra Entre Ladrões (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Dungeons & Dragons: Honra Entre Ladrões (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/ma9v06l19qbx
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="FILMES | 2023", Pânico 6 (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Pânico 6 (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/BYq3pRL3z6UWGL
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | 2023", Duas Bruxas: A Herança Diabólica (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Duas Bruxas: A Herança Diabólica (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/g2v7Qy89r3fYdv
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg" group-title="FILMES | 2023", Agente Infiltrado (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Agente Infiltrado (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/O1RdmkJpB8TZjkK
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg" group-title="FILMES | 2023", Peter Pan & Wendy (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Peter Pan & Wendy (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/4dMQeYrrBgcr8L
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pD1o9B0ibENdNroYrBCQemG2jnr.jpg" group-title="FILMES | 2023", Último Sentinela (2023) [COLOR lime]Legendado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/pD1o9B0ibENdNroYrBCQemG2jnr.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Último Sentinela (2023) [COLOR lime]Legendado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/GWOL03oGymF1jrB
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/hqIIoGsKKGWK7HjpgCSvV6mgKyT.jpg" group-title="FILMES | 2023", O Exorcista do Papa (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/hqIIoGsKKGWK7HjpgCSvV6mgKyT.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", O Exorcista do Papa (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YpQOyjvdABcvGjK
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="FILMES | 2023", Avatar: O Caminho da Água (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Avatar: O Caminho da Água (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/AwpaMW7xqlIXV0e
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="FILMES | 2023", Assassin Club (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Assassin Club (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/MZMMMyeby0u0VZ
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yDziA0OTfZq19IBlQ6EUemraSfY.jpg" group-title="FILMES | 2023", A Roleta da Morte (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yDziA0OTfZq19IBlQ6EUemraSfY.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", A Roleta da Morte (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Lv2XkQq0k9HWdQ
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="FILMES | 2023", Shazam! Fúria dos Deuses (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Shazam! Fúria dos Deuses (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gdzOmQWa4vHqRvb
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="FILMES | 2023", Creed III (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Creed III (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1Dqb99z92pf1y4
-#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/m3ZNSvplELOkVZKPXElMwdapIr4.jpg" group-title="FILMES | 2023", Sem Rastro (2023) [COLOR lime]Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/m3ZNSvplELOkVZKPXElMwdapIr4.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Sem Rastro (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/GJ98mYZYe1t11eY
+------------------------------------------FILMES | AÇÃO----------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/4cnLIFdmZbxPTajcXAyOL3mMCKr.jpg" group-title="FILMES | AÇÃO", Jack Reacher: Sem Retorno (2016) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/5v0gavbhmj4w
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/cOra7dxUEMHSgAbE6ucRrKPjZn4.jpg" group-title="FILMES | AÇÃO", Jack Reacher (2012) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/wa5xmbl3eyu0
 ------------------------------------------FICÇÃO E FANTASIA----------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg" group-title="FILMES | FICÇÃO E FANTASIA", Godzilla vs. Kong (2021) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yjjKGAr7A3U1bRb
