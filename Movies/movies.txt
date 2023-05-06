@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | 2023", Dungeons & Dragons: Honra Entre Ladrões (2023) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/ma9v06l19qbx
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="FILMES | 2023", Pânico 6 (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/BYq3pRL3z6UWGL
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | 2023", Duas Bruxas: A Herança Diabólica (2023) [COLOR lime]Dublado[/COLOR]
