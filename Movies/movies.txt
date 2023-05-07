@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ro4XtqD2bdgIoeK4Ysy3rvNOCju.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Substitutos (2023) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/nn0b9wn0ipbj
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Dungeons & Dragons: Honra Entre Ladrões (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/ma9v06l19qbx
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Pânico 6 (2023) [COLOR lime]Dublado[/COLOR]
