@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Power Rangers: Agora e Sempre (2023) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/uh1fgggtbjth
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Power Rangers: Agora e Sempre (2023) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rJBLexLKeLCk3w
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/ro4XtqD2bdgIoeK4Ysy3rvNOCju.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Substitutos (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/nn0b9wn0ipbj
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | LANÇAMENTOS CINEMA", Dungeons & Dragons: Honra Entre Ladrões (2023) [COLOR lime]Dublado[/COLOR]
