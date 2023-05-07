@@ -34,6 +34,11 @@ plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/GJ98mYZYe1
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/5v0gavbhmj4w
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/cOra7dxUEMHSgAbE6ucRrKPjZn4.jpg" group-title="FILMES | AÇÃO", Jack Reacher (2012) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/wa5xmbl3eyu0
+------------------------------------------FILMES | COMÉDIA-----------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/dJ52hQePdIAUVcDEIMmeTUr4vhY.jpg" group-title="FILMES | COMÉDIA", Segurança de Shopping 2 (2015) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/egmm09D88eCYMpQ
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/1cNfnzonc6tQ6Ej6cK4vxIE84tr.jpg" group-title="FILMES | COMÉDIA", Segurança de Shopping (2009) [COLOR lime]Dublado[/COLOR]
+plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/7bRQ38WqykFVr6
 ------------------------------------------FILMES | DRAMA----------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg" group-title="FILMES | DRAMA", A menina que acredita em milagres (2021) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/0d37tdqd9nvp
