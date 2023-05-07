@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red][B]Krypton ||[/B][/COLOR] [COLOR red][B] Power Rangers : Agora e Sempre||[/B][/COLOR][COLOR pink ][B]1 Temporadas Completa[/B][/COLOR]
-8 Episódios
+#EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yZWwdaanwexHwaGhJQqVj5Rsrbb.jpg" group-title="SÉRIES | DISNEY+", [COLOR pink ][B]1 Temporada 8 Episódios (2023)[/B][/COLOR]
+Krypton
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yZWwdaanwexHwaGhJQqVj5Rsrbb.jpg" group-title="SÉRIES | DISNEY+", Viagem ao Centro da Terra S01E01 (2023) [COLOR lime]Dublado[/COLOR]
 plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6mdj80RPg1T9zYe
 #EXTINF:-1 tvg-id="" tvg-name="Krypton " tvg-logo="https://www.themoviedb.org/t/p/original/yZWwdaanwexHwaGhJQqVj5Rsrbb.jpg" group-title="SÉRIES | DISNEY+", Viagem ao Centro da Terra S01E02 (2023) [COLOR lime]Dublado[/COLOR]
