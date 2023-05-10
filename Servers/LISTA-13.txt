@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,[B][COLOR lime]Krypton TV[/COLOR][COLOR blue]  Última Atualização: 11/05 - 00:50[/COLOR][COLOR pink ]2023[/COLOR][/B]
+Krypton TV
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA HD" tvg-logo="https://static.b2pteam.com/logos/reality/agrandeconquista.png" group-title="REALITY SHOW",A GRANDE CONQUISTA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrede.com:80/Dinho1234/Dinho1234/260357
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA HD ²" tvg-logo="https://static.b2pteam.com/logos/reality/agrandeconquista.png" group-title="REALITY SHOW",A GRANDE CONQUISTA HD ²
