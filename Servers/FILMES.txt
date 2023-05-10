@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="" tvg-name="24h 101 Dálmatas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS 24H",24h 101 Dálmatas
 http://melon.piglo.re:80/D20345689/Ge3456890/53899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS 24H",24h 3 Palavrinhas
