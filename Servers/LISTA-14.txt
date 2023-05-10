@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,[B][COLOR lime]Krypton TV[/COLOR][COLOR blue]  Última Atualização: 11/05 - 00:50[/COLOR][COLOR pink ]2023[/COLOR][/B]
+Krypton TV
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/13da29a69a286fb7687ad256ca72d073.png" group-title="Canais @ 4K (FHDR)",A&E 4K
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://esrv.cc:80/sitoni2021/Gk1gR/41544
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/13da29a69a286fb7687ad256ca72d073.png" group-title="Canais @ Variedades",A&E FHD
