@@ -1,298 +1,298 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="A Grande Conquista 01" tvg-logo="https://imgur.com/WsS7hgp" group-title="A Grande Conquista",A Grande Conquista 01
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222675
 #EXTINF:-1 tvg-name="A Grande Conquista 02" tvg-logo="https://imgur.com/WsS7hgp" group-title="A Grande Conquista",A Grande Conquista 02
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222676
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222676
 #EXTINF:-1 tvg-name="A Grande Conquista 03" tvg-logo="https://imgur.com/WsS7hgp" group-title="A Grande Conquista",A Grande Conquista 03
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222677
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222677
 #EXTINF:-1 tvg-name="A Grande Conquista 04" tvg-logo="https://imgur.com/WsS7hgp" group-title="A Grande Conquista",A Grande Conquista 04
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222678
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/222678
 #EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://imgur.com/yjX3Ovk" group-title="VARIEDADES",Modo Viagem
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/221509
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/221509
 #EXTINF:-1 tvg-name="Receitas  Fast" tvg-logo="https://imgur.com/8prXJKb" group-title="VARIEDADES",Receitas  Fast
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/221507
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/221507
 #EXTINF:-1 tvg-name="GE Fast" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/221506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/221506
 #EXTINF:-1 tvg-name="Com Brasil SD" tvg-logo="https://i.imgur.com/gdCKme3.png" group-title="ABERTOS",Com Brasil SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180723
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180723
 #EXTINF:-1 tvg-name="Canal Brasil SD" tvg-logo="" group-title="ABERTOS",Canal Brasil SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100452
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100452
 #EXTINF:-1 tvg-name="Canal do Boi FHD" tvg-logo="http://70.ms/ZgY3WS" group-title="ABERTOS",Canal do Boi FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100446
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100446
 #EXTINF:-1 tvg-name="Canal do Boi HD" tvg-logo="http://70.ms/ZgY3WS" group-title="ABERTOS",Canal do Boi HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100447
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100447
 #EXTINF:-1 tvg-name="Canal do Boi SD" tvg-logo="http://70.ms/ZgY3WS" group-title="ABERTOS",Canal do Boi SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/76300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/76300
 #EXTINF:-1 tvg-name="Canal do Boi SD²" tvg-logo="http://70.ms/ZgY3WS" group-title="ABERTOS",Canal do Boi SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100448
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100448
 #EXTINF:-1 tvg-name="Canal Rural SD" tvg-logo="http://70.ms/K" group-title="ABERTOS",Canal Rural SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6425
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6425
 #EXTINF:-1 tvg-name="Canal Rural SD²" tvg-logo="" group-title="ABERTOS",Canal Rural SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100525
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100525
 #EXTINF:-1 tvg-name="Futura FHD" tvg-logo="http://70.ms/TW" group-title="ABERTOS",Futura FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/26151
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/26151
 #EXTINF:-1 tvg-name="Futura FHD²" tvg-logo="http://70.ms/5z" group-title="ABERTOS",Futura FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100461
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100461
 #EXTINF:-1 tvg-name="Futura HD" tvg-logo="http://70.ms/5z" group-title="ABERTOS",Futura HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10805
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10805
 #EXTINF:-1 tvg-name="Futura HD²" tvg-logo="http://70.ms/5z" group-title="ABERTOS",Futura HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100462
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100462
 #EXTINF:-1 tvg-name="Futura SD" tvg-logo="http://70.ms/6Y" group-title="ABERTOS",Futura SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6573
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6573
 #EXTINF:-1 tvg-name="Futura SD²" tvg-logo="http://70.ms/5w" group-title="ABERTOS",Futura SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10806
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10806
 #EXTINF:-1 tvg-name="Rede Brasil SD" tvg-logo="http://70.ms/U" group-title="ABERTOS",Rede Brasil SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/70
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/70
 #EXTINF:-1 tvg-name="Rede Minas TV FHD" tvg-logo="http://70.ms/ZgY3Sx" group-title="ABERTOS",Rede Minas TV FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/85779
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/85779
 #EXTINF:-1 tvg-name="Rede TV FHD" tvg-logo="http://70.ms/Jb" group-title="ABERTOS",Rede TV FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28626
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28626
 #EXTINF:-1 tvg-name="Rede TV FHD²" tvg-logo="http://70.ms/O0" group-title="ABERTOS",Rede TV FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100532
 #EXTINF:-1 tvg-name="Rede TV HD" tvg-logo="http://70.ms/Ox" group-title="ABERTOS",Rede TV HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10701
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10701
 #EXTINF:-1 tvg-name="Rede TV HD²" tvg-logo="http://70.ms/ZP" group-title="ABERTOS",Rede TV HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6497
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6497
 #EXTINF:-1 tvg-name="Rede TV SD" tvg-logo="http://70.ms/3" group-title="ABERTOS",Rede TV SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6410
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6410
 #EXTINF:-1 tvg-name="Rede TV SD²" tvg-logo="http://70.ms/O0" group-title="ABERTOS",Rede TV SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10702
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10702
 #EXTINF:-1 tvg-name="Sesc Tv" tvg-logo="https://i.imgur.com/SEXcD8Z.png" group-title="ABERTOS",Sesc Tv
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180816
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180816
 #EXTINF:-1 tvg-name="Terra Viva SD²" tvg-logo="http://70.ms/Oh" group-title="ABERTOS",Terra Viva SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10661
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10661
 #EXTINF:-1 tvg-name="TV Brasil FHD" tvg-logo="" group-title="ABERTOS",TV Brasil FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100493
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100493
 #EXTINF:-1 tvg-name="TV Brasil HD" tvg-logo="" group-title="ABERTOS",TV Brasil HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100494
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100494
 #EXTINF:-1 tvg-name="TV Brasil SD" tvg-logo="" group-title="ABERTOS",TV Brasil SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100495
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100495
 #EXTINF:-1 tvg-name="TV Camocim CE" tvg-logo="https://imgur.com/nNtiCHp" group-title="ABERTOS",TV Camocim CE
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217379
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217379
 #EXTINF:-1 tvg-name="TVCI" tvg-logo="https://imgur.com/z1PoaKX" group-title="ABERTOS",TVCI
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217375
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217375
 #EXTINF:-1 tvg-name="TV Cultura FHD" tvg-logo="http://70.ms/J4" group-title="ABERTOS",TV Cultura FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28627
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28627
 #EXTINF:-1 tvg-name="TV Cultura FHD²" tvg-logo="http://70.ms/Cq" group-title="ABERTOS",TV Cultura FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/63750
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/63750
 #EXTINF:-1 tvg-name="TV Cultura HD" tvg-logo="http://70.ms/OO" group-title="ABERTOS",TV Cultura HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10664
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10664
 #EXTINF:-1 tvg-name="TV Cultura HD²" tvg-logo="http://70.ms/Cj" group-title="ABERTOS",TV Cultura HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/63751
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/63751
 #EXTINF:-1 tvg-name="TV Cultura SD" tvg-logo="http://70.ms/c" group-title="ABERTOS",TV Cultura SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6449
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6449
 #EXTINF:-1 tvg-name="TV Cultura SD²" tvg-logo="http://70.ms/c" group-title="ABERTOS",TV Cultura SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100439
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100439
 #EXTINF:-1 tvg-name="TV Câmara SD" tvg-logo="http://70.ms/mu" group-title="ABERTOS",TV Câmara SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28679
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28679
 #EXTINF:-1 tvg-name="TV Diario Fortaleza FHD" tvg-logo="http://70.ms/Yw" group-title="ABERTOS",TV Diario Fortaleza FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36318
 #EXTINF:-1 tvg-name="TV Diario Fortaleza HD" tvg-logo="http://70.ms/Yz" group-title="ABERTOS",TV Diario Fortaleza HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36317
 #EXTINF:-1 tvg-name="TV Diario Fortaleza SD" tvg-logo="http://70.ms/Y8" group-title="ABERTOS",TV Diario Fortaleza SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36316
 #EXTINF:-1 tvg-name="Tv Escola" tvg-logo="http://70.ms/dS" group-title="ABERTOS",Tv Escola
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10657
 #EXTINF:-1 tvg-name="Tv Gazeta FHD" tvg-logo="http://70.ms/Pv" group-title="ABERTOS",Tv Gazeta FHD
  plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35406
 #EXTINF:-1 tvg-name="Tv Gazeta FHD²" tvg-logo="http://70.ms/Pv" group-title="ABERTOS",Tv Gazeta FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100531
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100531
 #EXTINF:-1 tvg-name="Tv Gazeta HD" tvg-logo="http://70.ms/OZ" group-title="ABERTOS",Tv Gazeta HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10659
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10659
 #EXTINF:-1 tvg-name="Tv Gazeta HD²" tvg-logo="http://70.ms/Pv" group-title="ABERTOS",Tv Gazeta HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100530
 #EXTINF:-1 tvg-name="Tv Gazeta SD²" tvg-logo="http://70.ms/Pv" group-title="ABERTOS",Tv Gazeta SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100529
 #EXTINF:-1 tvg-name="Tv Gazeta SP HD" tvg-logo="http://70.ms/6P" group-title="ABERTOS",Tv Gazeta SP HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6570
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6570
 #EXTINF:-1 tvg-name="TV Justiça SD" tvg-logo="http://70.ms/O6" group-title="ABERTOS",TV Justiça SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10660
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10660
 #EXTINF:-1 tvg-name="TV Senado SD" tvg-logo="http://70.ms/Ty" group-title="ABERTOS",TV Senado SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/21102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/21102
 #EXTINF:-1 tvg-name="Band SP FHD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10869
 #EXTINF:-1 tvg-name="Band SP FHD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16874
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16874
 #EXTINF:-1 tvg-name="Band SP HD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6640
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6640
 #EXTINF:-1 tvg-name="Band SP HD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35364
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35364
 #EXTINF:-1 tvg-name="Band SP SD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6427
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6427
 #EXTINF:-1 tvg-name="Band SP SD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band SP SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35365
 #EXTINF:-1 tvg-name="BAND RJ HD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",BAND RJ HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41392
 #EXTINF:-1 tvg-name="BAND Bahia" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",BAND Bahia
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41393
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41393
 #EXTINF:-1 tvg-name="Band Ceara" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Ceara
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217231
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217231
 #EXTINF:-1 tvg-name="Band Campinas FHD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Campinas FHD
  plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/163108
 #EXTINF:-1 tvg-name="Band Campinas HD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Campinas HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10870
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10870
 #EXTINF:-1 tvg-name="Band Campinas HD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Campinas HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35366
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35366
 #EXTINF:-1 tvg-name="Band Campinas SD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Campinas SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10871
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10871
 #EXTINF:-1 tvg-name="BAND Manaira Paraiba" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",BAND Manaira Paraiba
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217233
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217233
 #EXTINF:-1 tvg-name="BAND RS HD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",BAND RS HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41391
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41391
 #EXTINF:-1 tvg-name="Band TV Taroba Cascavel" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band TV Taroba Cascavel
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217232
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217232
 #EXTINF:-1 tvg-name="Band TV Taroba Parana" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band TV Taroba Parana
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41395
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/41395
 #EXTINF:-1 tvg-name="Band TV Tribuna Recife" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band TV Tribuna Recife
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217234
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217234
 #EXTINF:-1 tvg-name="Cine SKY 1" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 1
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122135
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122135
 #EXTINF:-1 tvg-name="Cine SKY 1²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 1²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95848
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95848
 #EXTINF:-1 tvg-name="Cine SKY 2" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 2
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122136
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122136
 #EXTINF:-1 tvg-name="Cine SKY 2²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 2²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95849
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95849
 #EXTINF:-1 tvg-name="Cine SKY 3" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 3
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122137
 #EXTINF:-1 tvg-name="Cine SKY 3²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 3²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95850
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95850
 #EXTINF:-1 tvg-name="Cine SKY 4" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 4
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122138
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122138
 #EXTINF:-1 tvg-name="Cine SKY 4²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 4²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95851
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95851
 #EXTINF:-1 tvg-name="Cine SKY 5" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 5
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122139
 #EXTINF:-1 tvg-name="Cine SKY 5²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 5²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95852
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/95852
 #EXTINF:-1 tvg-name="Cine SKY 6" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 6
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122140
 #EXTINF:-1 tvg-name="Cine SKY 6²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 6²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98443
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98443
 #EXTINF:-1 tvg-name="Cine SKY 7" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 7
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122141
 #EXTINF:-1 tvg-name="Cine SKY 7²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 7²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98444
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98444
 #EXTINF:-1 tvg-name="Cine SKY 8" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 8
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122142
 #EXTINF:-1 tvg-name="Cine SKY 9" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 9
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122143
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/122143
 #EXTINF:-1 tvg-name="Conmebol TV 1" tvg-logo="https://i.imgur.com/BEGJmJE.png" group-title="CONMEBOL TV",Conmebol TV 1
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120984
 #EXTINF:-1 tvg-name="Conmebol TV 2" tvg-logo="https://i.imgur.com/BEGJmJE.png" group-title="CONMEBOL TV",Conmebol TV 2
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120985
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120985
 #EXTINF:-1 tvg-name="Conmebol TV 3" tvg-logo="https://i.imgur.com/BEGJmJE.png" group-title="CONMEBOL TV",Conmebol TV 3
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120986
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120986
 #EXTINF:-1 tvg-name="Conmebol TV 4" tvg-logo="https://i.imgur.com/BEGJmJE.png" group-title="CONMEBOL TV",Conmebol TV 4
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120987
 #EXTINF:-1 tvg-name="Conmebol TV 5" tvg-logo="https://i.imgur.com/BEGJmJE.png" group-title="CONMEBOL TV",Conmebol TV 5
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120988
 #EXTINF:-1 tvg-name="Conmebol TV 6" tvg-logo="https://i.imgur.com/BEGJmJE.png" group-title="CONMEBOL TV",Conmebol TV 6
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/120989
 #EXTINF:-1 tvg-name="DAZN  1" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN  1
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36994
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 2
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36993
 #EXTINF:-1 tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 3
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/37002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/37002
 #EXTINF:-1 tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 4
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36920
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/36920
 #EXTINF:-1 tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 5
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64246
 #EXTINF:-1 tvg-name="DAZN 6" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 6
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64247
 #EXTINF:-1 tvg-name="DAZN 7" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 7
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64248
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64248
 #EXTINF:-1 tvg-name="DAZN 8" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 8
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64249
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64249
 #EXTINF:-1 tvg-name="DAZN 9" tvg-logo="https://i.imgur.com/jT1eKIi.png" group-title="DAZN",DAZN 9
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64250
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64250
 #EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="http://70.ms/dx" group-title="DISCOVERY",Discovery Channel FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6963
 #EXTINF:-1 tvg-name="Discovery Channel FHD²" tvg-logo="http://70.ms/Td" group-title="DISCOVERY",Discovery Channel FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16864
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16864
 #EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="http://70.ms/6H" group-title="DISCOVERY",Discovery Channel HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6620
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6620
 #EXTINF:-1 tvg-name="Discovery Channel HD²" tvg-logo="http://70.ms/hz" group-title="DISCOVERY",Discovery Channel HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6869
 #EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="http://70.ms/6L" group-title="DISCOVERY",Discovery Channel SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6619
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6619
 #EXTINF:-1 tvg-name="Discovery Channel SD²" tvg-logo="http://70.ms/9X" group-title="DISCOVERY",Discovery Channel SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10845
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10845
 #EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="http://70.ms/dz" group-title="DISCOVERY",Discovery H&H FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6954
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6954
 #EXTINF:-1 tvg-name="Discovery H&H FHD²" tvg-logo="http://70.ms/T6" group-title="DISCOVERY",Discovery H&H FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16862
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16862
 #EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="http://70.ms/6b" group-title="DISCOVERY",Discovery H&H HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6616
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6616
 #EXTINF:-1 tvg-name="Discovery H&H HD²" tvg-logo="http://70.ms/hf" group-title="DISCOVERY",Discovery H&H HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6867
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6867
 #EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="http://70.ms/6o" group-title="DISCOVERY",Discovery H&H SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6615
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6615
 #EXTINF:-1 tvg-name="Discovery H&H SD²" tvg-logo="http://70.ms/95" group-title="DISCOVERY",Discovery H&H SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10843
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10843
 #EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="http://70.ms/TZ" group-title="DISCOVERY",Discovery Science FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16860
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16860
 #EXTINF:-1 tvg-name="Discovery Science FHD²" tvg-logo="http://70.ms/PB" group-title="DISCOVERY",Discovery Science FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35441
 #EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="http://70.ms/6N" group-title="DISCOVERY",Discovery Science HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6612
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6612
 #EXTINF:-1 tvg-name="Discovery Science HD²" tvg-logo="http://70.ms/hk" group-title="DISCOVERY",Discovery Science HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6866
 #EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="http://70.ms/6a" group-title="DISCOVERY",Discovery Science SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6611
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6611
 #EXTINF:-1 tvg-name="Discovery Science SD²" tvg-logo="http://70.ms/9h" group-title="DISCOVERY",Discovery Science SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10840
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10840
 #EXTINF:-1 tvg-name="Discovery Theater FHD" tvg-logo="http://70.ms/mG" group-title="DISCOVERY",Discovery Theater FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28651
 #EXTINF:-1 tvg-name="Discovery Theater FHD²" tvg-logo="http://70.ms/mG" group-title="DISCOVERY",Discovery Theater FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100515
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100515
 #EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="http://70.ms/6B" group-title="DISCOVERY",Discovery Theater HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6610
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6610
 #EXTINF:-1 tvg-name="Discovery Theater HD²" tvg-logo="http://70.ms/9Z" group-title="DISCOVERY",Discovery Theater HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10838
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10838
 #EXTINF:-1 tvg-name="Discovery Theater SD" tvg-logo="http://70.ms/6I" group-title="DISCOVERY",Discovery Theater SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6609
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6609
 #EXTINF:-1 tvg-name="Discovery Theater SD²" tvg-logo="http://70.ms/96" group-title="DISCOVERY",Discovery Theater SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10839
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10839
 #EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://70.ms/dt" group-title="DISCOVERY",Discovery Turbo FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6961
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6961
 #EXTINF:-1 tvg-name="Discovery Turbo FHD²" tvg-logo="http://70.ms/Tg" group-title="DISCOVERY",Discovery Turbo FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16859
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16859
 #EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://70.ms/6C" group-title="DISCOVERY",Discovery Turbo HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6608
 #EXTINF:-1 tvg-name="Discovery Turbo HD²" tvg-logo="http://70.ms/hK" group-title="DISCOVERY",Discovery Turbo HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6865
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6865
 #EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="http://70.ms/6W" group-title="DISCOVERY",Discovery Turbo SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6607
 #EXTINF:-1 tvg-name="Discovery Turbo SD²" tvg-logo="http://70.ms/9g" group-title="DISCOVERY",Discovery Turbo SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10837
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10837
 #EXTINF:-1 tvg-name="Discovery World FHD" tvg-logo="http://70.ms/TP" group-title="DISCOVERY",Discovery World FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/17076
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/17076
 #EXTINF:-1 tvg-name="Discovery World FHD²" tvg-logo="http://70.ms/TP" group-title="DISCOVERY",Discovery World FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100516
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100516
 #EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="http://70.ms/6R" group-title="DISCOVERY",Discovery World HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6606
 #EXTINF:-1 tvg-name="Discovery World HD²" tvg-logo="http://70.ms/5E" group-title="DISCOVERY",Discovery World HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10835
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10835
 #EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="http://70.ms/62" group-title="DISCOVERY",Discovery World SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6605
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6605
 #EXTINF:-1 tvg-name="Discovery World SD²" tvg-logo="http://70.ms/5S" group-title="DISCOVERY",Discovery World SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10836
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10836
 #EXTINF:-1 tvg-name="Investigação Discovery FHD" tvg-logo="http://70.ms/mJ" group-title="DISCOVERY",Investigação Discovery FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28643
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28643
 #EXTINF:-1 tvg-name="Investigação Discovery FHD²" tvg-logo="http://70.ms/PV" group-title="DISCOVERY",Investigação Discovery FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35433
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35433
 #EXTINF:-1 tvg-name="Investigação Discovery HD" tvg-logo="http://70.ms/Zo" group-title="DISCOVERY",Investigação Discovery HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6547
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6547
 #EXTINF:-1 tvg-name="Investigação Discovery HD²" tvg-logo="http://70.ms/5P" group-title="DISCOVERY",Investigação Discovery HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10754
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10754
 #EXTINF:-1 tvg-name="Investigação Discovery SD" tvg-logo="http://70.ms/Ze" group-title="DISCOVERY",Investigação Discovery SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6546
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6546
 #EXTINF:-1 tvg-name="Investigação Discovery SD²" tvg-logo="http://70.ms/Ze" group-title="DISCOVERY",Investigação Discovery SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100517
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100517
 #EXTINF:-1 tvg-name="Urban Docs" tvg-logo="https://i.imgur.com/cYNDHJ1.png" group-title="DOCUMENTARIOS",Urban Docs
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180725
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180725
 #EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="https://fivetv.xyz/logos/animalplanet.png" group-title="DOCUMENTARIOS",Animal Planet FHD
  plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6949
 #EXTINF:-1 tvg-name="Animal Planet FHD²" tvg-logo="https://fivetv.xyz/logos/animalplanet.png" group-title="DOCUMENTARIOS",Animal Planet FHD²
@@ -2228,332 +2228,332 @@
 #EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://70.ms/dj" group-title="SPORTV",SporTV 2 FHD
  plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6942
 #EXTINF:-1 tvg-name="SporTV 2 FHD²" tvg-logo="http://70.ms/Xc" group-title="SPORTV",SporTV 2 FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16819
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16819
 #EXTINF:-1 tvg-name="SporTV 2 HD" tvg-logo="http://70.ms/ZO" group-title="SPORTV",SporTV 2 HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6480
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6480
 #EXTINF:-1 tvg-name="SporTV 2 HD²" tvg-logo="http://70.ms/ht" group-title="SPORTV",SporTV 2 HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6872
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6872
 #EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://70.ms/Zd" group-title="SPORTV",SporTV 2 SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6479
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6479
 #EXTINF:-1 tvg-name="SporTV 2 SD²" tvg-logo="http://70.ms/Ol" group-title="SPORTV",SporTV 2 SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10692
 #EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://70.ms/dB" group-title="SPORTV",SporTV 3 FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10371
 #EXTINF:-1 tvg-name="SporTV 3 FHD²" tvg-logo="http://70.ms/dd" group-title="SPORTV",SporTV 3 FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6916
 #EXTINF:-1 tvg-name="SporTV 3 HD" tvg-logo="http://70.ms/Zh" group-title="SPORTV",SporTV 3 HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6478
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6478
 #EXTINF:-1 tvg-name="SporTV 3 HD²" tvg-logo="http://70.ms/Oq" group-title="SPORTV",SporTV 3 HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10690
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10690
 #EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://70.ms/Z6" group-title="SPORTV",SporTV 3 SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6477
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6477
 #EXTINF:-1 tvg-name="SporTV 3 SD²" tvg-logo="http://70.ms/Oj" group-title="SPORTV",SporTV 3 SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10691
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10691
 #EXTINF:-1 tvg-name="Star FHD" tvg-logo="http://70.ms/df" group-title="STAR CHANNEL",Star FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6951
 #EXTINF:-1 tvg-name="Star FHD²" tvg-logo="http://70.ms/Xn" group-title="STAR CHANNEL",Star FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16853
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16853
 #EXTINF:-1 tvg-name="Star HD" tvg-logo="http://70.ms/6l" group-title="STAR CHANNEL",Star HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6583
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6583
 #EXTINF:-1 tvg-name="Star HD²" tvg-logo="http://70.ms/hI" group-title="STAR CHANNEL",Star HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6889
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6889
 #EXTINF:-1 tvg-name="Star SD" tvg-logo="http://70.ms/j" group-title="STAR CHANNEL",Star SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6423
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6423
 #EXTINF:-1 tvg-name="Star SD²" tvg-logo="http://70.ms/5s" group-title="STAR CHANNEL",Star SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10817
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10817
 #EXTINF:-1 tvg-name="Star Life FHD" tvg-logo="http://70.ms/T1" group-title="STAR CHANNEL",Star Life FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/17078
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/17078
 #EXTINF:-1 tvg-name="Star Life FHD²" tvg-logo="http://70.ms/PW" group-title="STAR CHANNEL",Star Life FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35437
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35437
 #EXTINF:-1 tvg-name="Star Life HD" tvg-logo="http://70.ms/6j" group-title="STAR CHANNEL",Star Life HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6582
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6582
 #EXTINF:-1 tvg-name="Star Life HD²" tvg-logo="http://70.ms/5D" group-title="STAR CHANNEL",Star Life HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10815
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10815
 #EXTINF:-1 tvg-name="Star Life SD" tvg-logo="http://70.ms/l" group-title="STAR CHANNEL",Star Life SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6424
 #EXTINF:-1 tvg-name="Star Life SD²" tvg-logo="http://70.ms/5V" group-title="STAR CHANNEL",Star Life SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10816
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10816
 #EXTINF:-1 tvg-name="Star + 1" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 1
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/183956
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/183956
 #EXTINF:-1 tvg-name="Star + 1 ²" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 1 ²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/183957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/183957
 #EXTINF:-1 tvg-name="Star + 2" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 2
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186346
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186346
 #EXTINF:-1 tvg-name="Star + 2 ²" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 2 ²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186351
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186351
 #EXTINF:-1 tvg-name="Star + 3" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 3
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186347
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186347
 #EXTINF:-1 tvg-name="Star + 3 ²" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 3 ²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186352
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186352
 #EXTINF:-1 tvg-name="Star + 4" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 4
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186348
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186348
 #EXTINF:-1 tvg-name="Star + 4²" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 4²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/193927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/193927
 #EXTINF:-1 tvg-name="Star + 5" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 5
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186349
 #EXTINF:-1 tvg-name="Star + 6" tvg-logo="https://i.imgur.com/x5RlFhG.png" group-title="STAR+",Star + 6
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186350
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/186350
 #EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://70.ms/dJ" group-title="TELECINE",Telecine Action FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6922
 #EXTINF:-1 tvg-name="Telecine Action FHD²" tvg-logo="http://70.ms/X0" group-title="TELECINE",Telecine Action FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16814
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16814
 #EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="http://70.ms/E" group-title="TELECINE",Telecine Action HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6471
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6471
 #EXTINF:-1 tvg-name="Telecine Action HD²" tvg-logo="http://70.ms/hR" group-title="TELECINE",Telecine Action HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6885
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6885
 #EXTINF:-1 tvg-name="Telecine Action SD" tvg-logo="http://70.ms/H" group-title="TELECINE",Telecine Action SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6470
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6470
 #EXTINF:-1 tvg-name="Telecine Action SD²" tvg-logo="http://70.ms/OU" group-title="TELECINE",Telecine Action SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10674
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10674
 #EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="http://70.ms/d3" group-title="TELECINE",Telecine Cult FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6926
 #EXTINF:-1 tvg-name="Telecine Cult FHD²" tvg-logo="http://70.ms/Pw" group-title="TELECINE",Telecine Cult FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35422
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35422
 #EXTINF:-1 tvg-name="Telecine Cult HD" tvg-logo="http://70.ms/L" group-title="TELECINE",Telecine Cult HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6469
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6469
 #EXTINF:-1 tvg-name="Telecine Cult HD²" tvg-logo="http://70.ms/hx" group-title="TELECINE",Telecine Cult HD²
  plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6873
 #EXTINF:-1 tvg-name="Telecine Cult SD" tvg-logo="http://70.ms/n" group-title="TELECINE",Telecine Cult SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6468
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6468
 #EXTINF:-1 tvg-name="Telecine Cult SD²" tvg-logo="http://70.ms/Om" group-title="TELECINE",Telecine Cult SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10673
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10673
 #EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="http://70.ms/dm" group-title="TELECINE",Telecine Fun FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6923
 #EXTINF:-1 tvg-name="Telecine Fun FHD²" tvg-logo="http://70.ms/Xx" group-title="TELECINE",Telecine Fun FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16812
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16812
 #EXTINF:-1 tvg-name="Telecine Fun HD" tvg-logo="http://70.ms/4" group-title="TELECINE",Telecine Fun HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6467
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6467
 #EXTINF:-1 tvg-name="Telecine Fun HD²" tvg-logo="http://70.ms/hD" group-title="TELECINE",Telecine Fun HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6881
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6881
 #EXTINF:-1 tvg-name="Telecine Fun SD" tvg-logo="http://70.ms/b" group-title="TELECINE",Telecine Fun SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6466
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6466
 #EXTINF:-1 tvg-name="Telecine Fun SD²" tvg-logo="http://70.ms/OJ" group-title="TELECINE",Telecine Fun SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10672
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10672
 #EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://70.ms/dP" group-title="TELECINE",Telecine Pipoca FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6925
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6925
 #EXTINF:-1 tvg-name="Telecine Pipoca FHD²" tvg-logo="http://70.ms/Xt" group-title="TELECINE",Telecine Pipoca FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16811
 #EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="http://70.ms/o" group-title="TELECINE",Telecine Pipoca HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6465
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6465
 #EXTINF:-1 tvg-name="Telecine Pipoca HD²" tvg-logo="http://70.ms/hp" group-title="TELECINE",Telecine Pipoca HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6880
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6880
 #EXTINF:-1 tvg-name="Telecine Pipoca SD" tvg-logo="http://70.ms/e" group-title="TELECINE",Telecine Pipoca SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6464
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6464
 #EXTINF:-1 tvg-name="Telecine Pipoca SD²" tvg-logo="http://70.ms/OT" group-title="TELECINE",Telecine Pipoca SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10671
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10671
 #EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="http://70.ms/d1" group-title="TELECINE",Telecine Premium FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6927
 #EXTINF:-1 tvg-name="Telecine Premium FHD²" tvg-logo="http://70.ms/Xi" group-title="TELECINE",Telecine Premium FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16810
 #EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="http://70.ms/r" group-title="TELECINE",Telecine Premium HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6463
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6463
 #EXTINF:-1 tvg-name="Telecine Premium HD²" tvg-logo="http://70.ms/hu" group-title="TELECINE",Telecine Premium HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6879
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6879
 #EXTINF:-1 tvg-name="Telecine Premium SD" tvg-logo="http://70.ms/N" group-title="TELECINE",Telecine Premium SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6462
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6462
 #EXTINF:-1 tvg-name="Telecine Premium SD²" tvg-logo="http://70.ms/OX" group-title="TELECINE",Telecine Premium SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10670
 #EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="http://70.ms/dU" group-title="TELECINE",Telecine Touch FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6924
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6924
 #EXTINF:-1 tvg-name="Telecine Touch FHD²" tvg-logo="http://70.ms/Xw" group-title="TELECINE",Telecine Touch FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16809
 #EXTINF:-1 tvg-name="Telecine Touch HD" tvg-logo="http://70.ms/a" group-title="TELECINE",Telecine Touch HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6461
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6461
 #EXTINF:-1 tvg-name="Telecine Touch HD²" tvg-logo="http://70.ms/hc" group-title="TELECINE",Telecine Touch HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6878
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6878
 #EXTINF:-1 tvg-name="Telecine Touch SD" tvg-logo="http://70.ms/B" group-title="TELECINE",Telecine Touch SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6460
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6460
 #EXTINF:-1 tvg-name="Telecine Touch SD²" tvg-logo="http://70.ms/O9" group-title="TELECINE",Telecine Touch SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10669
 #EXTINF:-1 tvg-name="Sabor e Arte HD" tvg-logo="https://i.imgur.com/TiWLqlx.png" group-title="VARIEDADES",Sabor e Arte HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/205327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/205327
 #EXTINF:-1 tvg-name="TVT" tvg-logo="https://i.imgur.com/k7NZGyi.png" group-title="VARIEDADES",TVT
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180817
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180817
 #EXTINF:-1 tvg-name="Rede Mosaico" tvg-logo="https://i.imgur.com/v54QSnl.png" group-title="VARIEDADES",Rede Mosaico
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180814
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180814
 #EXTINF:-1 tvg-name="Inspire" tvg-logo="https://i.imgur.com/NsB87rG.png" group-title="VARIEDADES",Inspire
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180810
 #EXTINF:-1 tvg-name="Up Channel" tvg-logo="https://i.imgur.com/tLQDkeU.png" group-title="VARIEDADES",Up Channel
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180809
 #EXTINF:-1 tvg-name="Yes Life" tvg-logo="https://i.imgur.com/xHVpqpw.png" group-title="VARIEDADES",Yes Life
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180808
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180808
 #EXTINF:-1 tvg-name="Clubinho Fun" tvg-logo="https://i.imgur.com/BUrmGpI.png" group-title="VARIEDADES",Clubinho Fun
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180806
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180806
 #EXTINF:-1 tvg-name="Urban TV" tvg-logo="https://i.imgur.com/pQAmOBx.png" group-title="VARIEDADES",Urban TV
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180727
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/180727
 #EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://70.ms/mv" group-title="VARIEDADES",Arte 1 FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28654
 #EXTINF:-1 tvg-name="Arte 1 FHD²" tvg-logo="http://70.ms/mv" group-title="VARIEDADES",Arte 1 FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100484
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100484
 #EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="http://70.ms/9z" group-title="VARIEDADES",Arte 1 HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10878
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10878
 #EXTINF:-1 tvg-name="Arte 1 HD²" tvg-logo="http://70.ms/Pf" group-title="VARIEDADES",Arte 1 HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35417
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35417
 #EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="http://70.ms/ZJ" group-title="VARIEDADES",Arte 1 SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6492
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6492
 #EXTINF:-1 tvg-name="Arte 1 SD²" tvg-logo="http://70.ms/9w" group-title="VARIEDADES",Arte 1 SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10879
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10879
 #EXTINF:-1 tvg-name="Comedy Central FHD" tvg-logo="http://70.ms/TO" group-title="VARIEDADES",Comedy Central FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16865
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16865
 #EXTINF:-1 tvg-name="Comedy Central FHD²" tvg-logo="http://70.ms/Cr" group-title="VARIEDADES",Comedy Central FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64436
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/64436
 #EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="http://70.ms/hg" group-title="VARIEDADES",Comedy Central HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6623
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6623
 #EXTINF:-1 tvg-name="Comedy Central HD²" tvg-logo="http://70.ms/9m" group-title="VARIEDADES",Comedy Central HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10849
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10849
 #EXTINF:-1 tvg-name="Comedy Central SD" tvg-logo="http://70.ms/6S" group-title="VARIEDADES",Comedy Central SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6622
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6622
 #EXTINF:-1 tvg-name="Comedy Central SD²" tvg-logo="http://70.ms/9U" group-title="VARIEDADES",Comedy Central SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10850
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10850
 #EXTINF:-1 tvg-name="Curta! FHD" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28652
 #EXTINF:-1 tvg-name="Curta! FHD²" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100472
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100472
 #EXTINF:-1 tvg-name="Curta! HD" tvg-logo="http://70.ms/9T" group-title="VARIEDADES",Curta! HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10846
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10846
 #EXTINF:-1 tvg-name="Curta! HD²" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100473
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100473
 #EXTINF:-1 tvg-name="Curta! SD" tvg-logo="http://70.ms/6E" group-title="VARIEDADES",Curta! SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6621
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6621
 #EXTINF:-1 tvg-name="Curta! SD²" tvg-logo="http://70.ms/9J" group-title="VARIEDADES",Curta! SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10847
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10847
 #EXTINF:-1 tvg-name="Curta! SD²" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100474
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100474
 #EXTINF:-1 tvg-name="Dog TV FHD" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98441
 #EXTINF:-1 tvg-name="Dog TV FHD²" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100442
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100442
 #EXTINF:-1 tvg-name="Dog TV HD" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98442
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/98442
 #EXTINF:-1 tvg-name="Dog TV HD²" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100443
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100443
 #EXTINF:-1 tvg-name="Dog TV SD" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100444
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100444
 #EXTINF:-1 tvg-name="E! FHD" tvg-logo="http://70.ms/mM" group-title="VARIEDADES",E! FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28650
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28650
 #EXTINF:-1 tvg-name="E! FHD²" tvg-logo="http://70.ms/mM" group-title="VARIEDADES",E! FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100438
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100438
 #EXTINF:-1 tvg-name="E! HD" tvg-logo="http://70.ms/6A" group-title="VARIEDADES",E! HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6598
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6598
 #EXTINF:-1 tvg-name="E! HD²" tvg-logo="http://70.ms/5e" group-title="VARIEDADES",E! HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10827
 #EXTINF:-1 tvg-name="E! SD" tvg-logo="http://70.ms/60" group-title="VARIEDADES",E! SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6597
 #EXTINF:-1 tvg-name="E! SD²" tvg-logo="http://70.ms/5o" group-title="VARIEDADES",E! SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10828
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10828
 #EXTINF:-1 tvg-name="Fashion TV FHD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100499
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100499
 #EXTINF:-1 tvg-name="Fashion TV HD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100500
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100500
 #EXTINF:-1 tvg-name="Fashion TV SD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100501
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100501
 #EXTINF:-1 tvg-name="Food Network FHD" tvg-logo="http://70.ms/XL" group-title="VARIEDADES",Food Network FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16854
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16854
 #EXTINF:-1 tvg-name="Food Network FHD²" tvg-logo="http://70.ms/PC" group-title="VARIEDADES",Food Network FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35438
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35438
 #EXTINF:-1 tvg-name="Food Network HD" tvg-logo="http://70.ms/6k" group-title="VARIEDADES",Food Network HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6585
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6585
 #EXTINF:-1 tvg-name="Food Network HD²" tvg-logo="http://70.ms/hC" group-title="VARIEDADES",Food Network HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6888
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6888
 #EXTINF:-1 tvg-name="Food Network SD" tvg-logo="http://70.ms/6K" group-title="VARIEDADES",Food Network SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6584
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6584
 #EXTINF:-1 tvg-name="Food Network SD²" tvg-logo="http://70.ms/52" group-title="VARIEDADES",Food Network SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10818
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10818
 #EXTINF:-1 tvg-name="GNT FHD" tvg-logo="http://70.ms/m3" group-title="VARIEDADES",GNT FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28647
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28647
 #EXTINF:-1 tvg-name="GNT FHD²" tvg-logo="http://70.ms/m3" group-title="VARIEDADES",GNT FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100441
 #EXTINF:-1 tvg-name="GNT HD" tvg-logo="http://70.ms/65" group-title="VARIEDADES",GNT HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6563
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6563
 #EXTINF:-1 tvg-name="GNT HD²" tvg-logo="http://70.ms/5f" group-title="VARIEDADES",GNT HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10803
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10803
 #EXTINF:-1 tvg-name="GNT SD" tvg-logo="http://70.ms/6O" group-title="VARIEDADES",GNT SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6562
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6562
 #EXTINF:-1 tvg-name="GNT SD²" tvg-logo="http://70.ms/58" group-title="VARIEDADES",GNT SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10804
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10804
 #EXTINF:-1 tvg-name="Lifetime FHD" tvg-logo="http://70.ms/mT" group-title="VARIEDADES",Lifetime FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28642
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28642
 #EXTINF:-1 tvg-name="Lifetime FHD²" tvg-logo="http://70.ms/mT" group-title="VARIEDADES",Lifetime FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100481
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100481
 #EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="http://70.ms/Zr" group-title="VARIEDADES",Lifetime HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6545
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6545
 #EXTINF:-1 tvg-name="Lifetime HD²" tvg-logo="http://70.ms/5m" group-title="VARIEDADES",Lifetime HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10752
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10752
 #EXTINF:-1 tvg-name="Lifetime SD" tvg-logo="http://70.ms/ZN" group-title="VARIEDADES",Lifetime SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6544
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6544
 #EXTINF:-1 tvg-name="Lifetime SD²" tvg-logo="http://70.ms/5U" group-title="VARIEDADES",Lifetime SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10753
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10753
 #EXTINF:-1 tvg-name="Mais Globosat FHD" tvg-logo="http://70.ms/JL" group-title="VARIEDADES",Mais Globosat FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28629
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28629
 #EXTINF:-1 tvg-name="Mais Globosat FHD²" tvg-logo="http://70.ms/JL" group-title="VARIEDADES",Mais Globosat FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100455
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100455
 #EXTINF:-1 tvg-name="Mais Globosat HD" tvg-logo="http://70.ms/6J" group-title="VARIEDADES",Mais Globosat HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6567
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6567
 #EXTINF:-1 tvg-name="Mais Globosat HD²" tvg-logo="http://70.ms/5K" group-title="VARIEDADES",Mais Globosat HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10773
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10773
 #EXTINF:-1 tvg-name="Mais Globosat SD" tvg-logo="http://70.ms/6T" group-title="VARIEDADES",Mais Globosat SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6566
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6566
 #EXTINF:-1 tvg-name="Mais Globosat SD²" tvg-logo="http://70.ms/5k" group-title="VARIEDADES",Mais Globosat SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10774
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10774
 #EXTINF:-1 tvg-name="Polishop TV" tvg-logo="http://70.ms/YC" group-title="VARIEDADES",Polishop TV
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/38257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/38257
 #EXTINF:-1 tvg-name="Shoptime" tvg-logo="http://70.ms/YI" group-title="VARIEDADES",Shoptime
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/38270
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/38270
 #EXTINF:-1 tvg-name="TLC FHD" tvg-logo="http://70.ms/m6" group-title="VARIEDADES",TLC FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28635
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28635
 #EXTINF:-1 tvg-name="TLC FHD²" tvg-logo="http://70.ms/m6" group-title="VARIEDADES",TLC FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100440
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100440
 #EXTINF:-1 tvg-name="TLC HD" tvg-logo="http://70.ms/I" group-title="VARIEDADES",TLC HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6459
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6459
 #EXTINF:-1 tvg-name="TLC HD²" tvg-logo="http://70.ms/OY" group-title="VARIEDADES",TLC HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10682
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10682
 #EXTINF:-1 tvg-name="TLC SD" tvg-logo="http://70.ms/C" group-title="VARIEDADES",TLC SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6458
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6458
 #EXTINF:-1 tvg-name="TLC SD²" tvg-logo="http://70.ms/OM" group-title="VARIEDADES",TLC SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10683
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10683
 #EXTINF:-1 tvg-name="Trace Brazuca FHD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113598
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113598
 #EXTINF:-1 tvg-name="Trace Brazuca HD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113599
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113599
 #EXTINF:-1 tvg-name="Trace Brazuca SD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113600
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113600
 #EXTINF:-1 tvg-name="TruTV FHD" tvg-logo="http://70.ms/mg" group-title="VARIEDADES",TruTV FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28633
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28633
 #EXTINF:-1 tvg-name="TruTV HD" tvg-logo="http://70.ms/Tv" group-title="VARIEDADES",TruTV HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/21100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/21100
 #EXTINF:-1 tvg-name="TruTV SD" tvg-logo="http://70.ms/p" group-title="VARIEDADES",TruTV SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6451
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6451
 #EXTINF:-1 tvg-name="Viva FHD" tvg-logo="http://70.ms/dX" group-title="VARIEDADES",Viva FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6920
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6920
 #EXTINF:-1 tvg-name="Viva FHD²" tvg-logo="http://70.ms/Xf" group-title="VARIEDADES",Viva FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16804
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/16804
 #EXTINF:-1 tvg-name="Viva HD" tvg-logo="http://70.ms/w" group-title="VARIEDADES",Viva HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6441
 #EXTINF:-1 tvg-name="Viva HD²" tvg-logo="http://70.ms/hw" group-title="VARIEDADES",Viva HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6870
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/6870
 #EXTINF:-1 tvg-name="Viva SD" tvg-logo="http://70.ms/9" group-title="VARIEDADES",Viva SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/61
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/61
 #EXTINF:-1 tvg-name="Viva SD²" tvg-logo="http://70.ms/dn" group-title="VARIEDADES",Viva SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10653
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10653
 #EXTINF:-1 tvg-name="Woohoo FHD" tvg-logo="http://70.ms/JH" group-title="VARIEDADES",Woohoo FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28630
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/28630
 #EXTINF:-1 tvg-name="Woohoo FHD²" tvg-logo="http://70.ms/JH" group-title="VARIEDADES",Woohoo FHD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100511
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100511
 #EXTINF:-1 tvg-name="Woohoo HD" tvg-logo="http://70.ms/de" group-title="VARIEDADES",Woohoo HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10649
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10649
 #EXTINF:-1 tvg-name="Woohoo HD²" tvg-logo="http://70.ms/P9" group-title="VARIEDADES",Woohoo HD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35385
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35385
 #EXTINF:-1 tvg-name="Woohoo SD" tvg-logo="http://70.ms/O" group-title="VARIEDADES",Woohoo SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/59
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/59
 #EXTINF:-1 tvg-name="Woohoo SD²" tvg-logo="http://70.ms/do" group-title="VARIEDADES",Woohoo SD²
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10650
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10650
 #EXTINF:-1 tvg-name="Loading FHD" tvg-logo="" group-title="VARIEDADES",Loading FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/134884
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/134884
 #EXTINF:-1 tvg-name="Loading HD" tvg-logo="" group-title="VARIEDADES",Loading HD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/134885
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/134885
 #EXTINF:-1 tvg-name="Loading SD" tvg-logo="" group-title="VARIEDADES",Loading SD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/134886
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/134886
 #EXTINF:-1 tvg-name="Programação de Jogos (HOJE)" tvg-logo="https://i.imgur.com/BRAjxKy.png" group-title="AREA DO CLIENTE",Programação de Jogos (HOJE)
  plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/175459
 #EXTINF:-1 tvg-name="AgroMais FHD" tvg-logo="https://i.imgur.com/mrALijx.png" group-title="NOTICIAS",AgroMais FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/113601
