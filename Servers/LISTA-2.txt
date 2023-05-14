@@ -94,7 +94,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@Krypt
 #EXTINF:-1 tvg-name="Tv Escola" tvg-logo="http://70.ms/dS" group-title="ABERTOS",Tv Escola
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10657
 #EXTINF:-1 tvg-name="Tv Gazeta FHD" tvg-logo="http://70.ms/Pv" group-title="ABERTOS",Tv Gazeta FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35406
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/35406
 #EXTINF:-1 tvg-name="Tv Gazeta FHD²" tvg-logo="http://70.ms/Pv" group-title="ABERTOS",Tv Gazeta FHD²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/100531
 #EXTINF:-1 tvg-name="Tv Gazeta HD" tvg-logo="http://70.ms/OZ" group-title="ABERTOS",Tv Gazeta HD
@@ -128,7 +128,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@Krypt
 #EXTINF:-1 tvg-name="Band Ceara" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Ceara
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/217231
 #EXTINF:-1 tvg-name="Band Campinas FHD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Campinas FHD
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/163108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/163108
 #EXTINF:-1 tvg-name="Band Campinas HD" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Campinas HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]@KryptonTvDigital[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/1r353593ntj/7u7q4q08485/10870
 #EXTINF:-1 tvg-name="Band Campinas HD²" tvg-logo="https://fivetv.xyz/logos/band.png" group-title="BAND",Band Campinas HD²
