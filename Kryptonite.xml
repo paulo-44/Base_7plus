@@ -166,6 +166,22 @@
 		<externallink>http://wareztuga.dionysus.feralhosting.com/TV/LISTA-20.txt</externallink>
     </channel>	
 ------------------------------------------------------------------------------------------------
+<channel>
+        <name>[B][COLOR blue]TV DIGITAL 21 [COLOR white]F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
+        <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
+		<info></info>
+		<externallink>http://wareztuga.dionysus.feralhosting.com/TV/LISTA-21.txt</externallink>
+    </channel>	
+------------------------------------------------------------------------------------------------	
+<channel>
+        <name>[B][COLOR blue]TV DIGITAL 22 [COLOR white]F4mTester [/COLOR][COLOR lime]Krypton TV[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/DwkXHYJL/Kryptonitelogo.png</thumbnail>
+        <fanart>https://i.postimg.cc/Z5QKXWDg/fanart.jpg</fanart>
+		<info></info>
+		<externallink>http://wareztuga.dionysus.feralhosting.com/TV/LISTA-22.txt</externallink>
+    </channel>	
+------------------------------------------------------------------------------------------------	
 	
 	
 </channels>	
