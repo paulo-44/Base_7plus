@@ -1,1 +1,1 @@
-url="http://wareztuga.dionysus.feralhosting.com/Base/server.db"
+url="http://teste.com/Base/server.db"
