@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 FHD
-http://starshare.live:8080/live/Alex/Alex2022/32307.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR deeppink]@TakeOne-TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://starshare.live:8080http://starshare.live:8080/live/Alex/Alex2022/32307.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
 http://starshare.live:8080/live/Alex/Alex2022/30362.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT : TVI FIC" tvg-logo="" group-title="PORTUGAL",PT : TVI FIC
