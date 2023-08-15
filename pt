@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1,TORRENTS: Adão Negro
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DE46A6B5453FA680137D8B1D08622E20298E006
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 FHD
 http://starshare.live:8080http://starshare.live:8080/live/Alex/Alex2022/32307.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
