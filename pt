@@ -24,7 +24,7 @@ https://5ce.co:443/Dinho921/938389393/180723
 #EXTINF:-1tvg-name="CanalBrasilSD"tvg-logo=""group-title="ABERTOS",CanalBrasilSD
 https://5ce.co:443/Dinho921/938389393/100452
 #EXTINF:-1tvg-name="CanaldoBoiFHD"tvg-logo="http://70.ms/ZgY3WS"group-title="ABERTOS",CanaldoBoiFHD
-https://5ce.co:443/Dinho921/938389393/100446
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR deeppink]@TakeOne-TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://5ce.co:443/Dinho921/938389393/100446
 #EXTINF:-1tvg-name="CanaldoBoiHD"tvg-logo="http://70.ms/ZgY3WS"group-title="ABERTOS",CanaldoBoiHD
 https://5ce.co:443/Dinho921/938389393/100447
 #EXTINF:-1tvg-name="CanaldoBoiSD"tvg-logo="http://70.ms/ZgY3WS"group-title="ABERTOS",CanaldoBoiSD
